@@ -39,3 +39,8 @@ author_profile: true
   * [PGCD2](https://www.spoj.com/problems/PGCD2/) - Primes in GCD Table (Hard)
   * [TGCD2](https://www.spoj.com/problems/TGCD2/) - Trending GCD (Hard)
 
+### Petrozavodsk Programming Camp
+
+  * [Petrozavodsk Summer 2021 Day 5](https://qoj.ac/contest/695/standings), [Shanghai ICPC Camp 2021 Onsite Training Contest 2](https://contest.yandex.ru/contest/27563/standings)
+      * [C](https://qoj.ac/contest/695/problem/1855). Minimal Cyclic Shift
+
