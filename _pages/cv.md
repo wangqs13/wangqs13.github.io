@@ -9,8 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+## Education
+
 * B.Sc. in Computer Science, Tsinghua University, 2017
 * Ph.D. in Computer Science, Tsinghua University, 2022
   * Thesis: *Sequential Quantum Circuits: Formal Models and Verification*
