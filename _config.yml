@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : >
+  name             : |
       Qisheng Wang
       王启圣
   avatar           : "profile.png"
