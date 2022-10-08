@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Department of Computer Science and Technology, Tsinghua University, 2017
-* Ph.D. in Department of Computer Science and Technology, Tsinghua University, 2022
+* B.Sc. in Computer Science, Tsinghua University, 2017
+* Ph.D. in Computer Science, Tsinghua University, 2022
   * Thesis: Sequential Quantum Circuits: Formal Models and Verification
   * Advisor: Prof. Mingsheng Ying
 
