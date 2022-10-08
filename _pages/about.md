@@ -12,3 +12,7 @@ Since September 2022, I have been a designated assistant professor (特任助教
 
 I received my B.Sc. degree and Ph.D. degree from the [Department of Computer Science and Technology](https://www.cs.tsinghua.edu.cn/csen/) (计算机科学与技术系), [Tsinghua University](https://www.tsinghua.edu.cn/en/) (清华大学), Beijing, China, in 2017 and 2022, respectively, supervised by Prof. [Mingsheng Ying](https://www.cs.tsinghua.edu.cn/csen/info/1186/4020.htm) (应明生). 
 
+## Research Interests
+
+  * Quantum computing
+  * Algorithms
