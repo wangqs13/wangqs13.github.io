@@ -11,7 +11,7 @@ author_profile: true
 
 ### Quantum algorithm for fidelity estimation
 
-[[WZC<sup>+</sup>22](https://doi.org/10.1109/TIT.2022.3203985)] Qisheng Wang, Zhicheng Zhang, Kean Chen, Ji Guan, Wang Fang, Junyi Liu, and Mingsheng Ying. Quantum algorithm for fidelity estimation. *IEEE Transactions on Information Theory*, Early Access, 2022. [doi:10.1109/TIT.2022.3203985](https://doi.org/10.1109/TIT.2022.3203985). [arXiv:2103.09076](https://arxiv.org/abs/2103.09076).
+[[WZC<sup>+</sup>23](https://doi.org/10.1109/TIT.2022.3203985)] Qisheng Wang, Zhicheng Zhang, Kean Chen, Ji Guan, Wang Fang, Junyi Liu, and Mingsheng Ying. Quantum algorithm for fidelity estimation. *IEEE Transactions on Information Theory*, 69(1): 273-282, 2023. [doi:10.1109/TIT.2022.3203985](https://doi.org/10.1109/TIT.2022.3203985). [arXiv:2103.09076](https://arxiv.org/abs/2103.09076).
 
 ### Equivalence checking of sequential quantum circuits
 
