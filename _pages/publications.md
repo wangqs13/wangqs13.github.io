@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+### Unitarity estimation for quantum channels
+
+[[CWLY23](https://doi.org/10.1109/TIT.2023.3263645)] Kean Chen, Qisheng Wang, Peixun Long, and Mingsheng Ying. Unitarity estimation for quantum channels. *IEEE Transactions on Information Theory*, Early Access, 2023. [doi:10.1109/TIT.2023.3263645](https://doi.org/10.1109/TIT.2023.3263645). [arXiv:2212.09319](https://arxiv.org/abs/2212.09319).
+
 ### Quantum random access stored-program machines
 
 [[WY23](https://doi.org/10.1016/j.jcss.2022.08.002)] Qisheng Wang and Mingsheng Ying. Quantum random access stored-program machines. *Journal of Computer and System Sciences*, 131: 13-63, 2023. [doi:10.1016/j.jcss.2022.08.002](https://doi.org/10.1016/j.jcss.2022.08.002). [arXiv:2003.03514](https://arxiv.org/abs/2003.03514).
