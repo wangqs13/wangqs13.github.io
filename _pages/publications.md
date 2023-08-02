@@ -33,8 +33,8 @@ author_profile: true
 
 [[ZWY21](https://arxiv.org/abs/2105.11889)] Zhicheng Zhang, Qisheng Wang, and Mingsheng Ying. **Parallel quantum algorithm for Hamiltonian simulation**, 2021. [arXiv:2105.11889](https://arxiv.org/abs/2105.11889).
 
-[[WLY20](https://arxiv.org/abs/2012.09376)] Qisheng Wang and Mingsheng Ying. **Quantum algorithm for lexicographically minimal string rotation**, 2020. [arXiv:2012.09376](https://arxiv.org/abs/2012.09376).
+[[WY20](https://arxiv.org/abs/2012.09376)] Qisheng Wang and Mingsheng Ying. **Quantum algorithm for lexicographically minimal string rotation**, 2020. [arXiv:2012.09376](https://arxiv.org/abs/2012.09376).
 
 [[JLW<sup>+</sup>20](https://arxiv.org/abs/2004.09820)] Liwei Jiang, Dan Li, Qisheng Wang, Shuai Wang, and Songtao Wang. **Improving positive unlabeled learning: practical AUL estimation and new training method for extremely imbalanced data sets**, 2020. [arXiv:2004.09820](https://arxiv.org/abs/2004.09820).
 
-[[WLY18](https://arxiv.org/abs/1804.08982)] Qisheng Wang and Mingsheng Ying. **Quantum Büchi automata**, 2018. [arXiv:1804.08982](https://arxiv.org/abs/1804.08982).
+[[WY18](https://arxiv.org/abs/1804.08982)] Qisheng Wang and Mingsheng Ying. **Quantum Büchi automata**, 2018. [arXiv:1804.08982](https://arxiv.org/abs/1804.08982).
