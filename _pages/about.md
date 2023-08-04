@@ -16,3 +16,8 @@ I received my B.Sc. degree and Ph.D. degree from the [Department of Computer Sci
 
   * Quantum computing
   * Algorithms
+
+## News
+
+* 2023/08/04: My paper "[Quantum Lower Bounds by Sample-to-Query Lifting](https://arxiv.org/abs/2308.01794)" was on arXiv.
+
