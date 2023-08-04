@@ -19,9 +19,11 @@ author_profile: true
 
 ## Preprints
 
+[[WZ23b](https://arxiv.org/abs/2308.01794)] Qisheng Wang and Zhicheng Zhang. **Quantum lower bounds by sample-to-query lifting**, 2023. [arXiv:2308.01794](https://arxiv.org/abs/2308.01794).
+
 [[GJLW23](https://arxiv.org/abs/2304.14197)] Minbo Gao, Zhengfeng Ji, Tongyang Li, and Qisheng Wang. **Logarithmic-regret quantum learning algorithms for zero-sum games**, 2023. [arXiv:2304.14197](https://arxiv.org/abs/2304.14197).
 
-[[WZ23](https://arxiv.org/abs/2301.06783)] Qisheng Wang and Zhicheng Zhang. **Fast quantum algorithms for trace distance estimation**, 2023. [arXiv:2301.06783](https://arxiv.org/abs/2301.06783).
+[[WZ23a](https://arxiv.org/abs/2301.06783)] Qisheng Wang and Zhicheng Zhang. **Fast quantum algorithms for trace distance estimation**, 2023. [arXiv:2301.06783](https://arxiv.org/abs/2301.06783).
 
 [[Wan22](https://arxiv.org/abs/2210.09149)] Qisheng Wang. **A note on quantum divide and conquer for minimal string rotation**, 2022. [arXiv:2210.09149](https://arxiv.org/abs/2210.09149).
 
