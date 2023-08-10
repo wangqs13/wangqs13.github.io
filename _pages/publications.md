@@ -15,16 +15,16 @@ author_profile: true
 
 ## Preprints
 
-1. François Le Gall, Yupan Liu, and Qisheng Wang. **Space-bounded quantum state testing via space-efficient quantum singular value transformation**, 2023. [arXiv:2308.05079](https://arxiv.org/abs/2308.05079).
+1. [François Le Gall](http://www.francoislegall.com/), [Yupan Liu](https://yupanliu.info/), and Qisheng Wang. **Space-bounded quantum state testing via space-efficient quantum singular value transformation**, 2023. [arXiv:2308.05079](https://arxiv.org/abs/2308.05079).
 1. Qisheng Wang and Zhicheng Zhang. **Quantum lower bounds by sample-to-query lifting**, 2023. [arXiv:2308.01794](https://arxiv.org/abs/2308.01794).
-1. Minbo Gao, Zhengfeng Ji, Tongyang Li, and Qisheng Wang. **Logarithmic-regret quantum learning algorithms for zero-sum games**, 2023. [arXiv:2304.14197](https://arxiv.org/abs/2304.14197).
+1. Minbo Gao, [Zhengfeng Ji](https://scholar.google.com/citations?user=2uXdu7AAAAAJ&hl=en), [Tongyang Li](https://www.tongyangli.com/), and Qisheng Wang. **Logarithmic-regret quantum learning algorithms for zero-sum games**, 2023. [arXiv:2304.14197](https://arxiv.org/abs/2304.14197).
 1. Qisheng Wang and Zhicheng Zhang. **Fast quantum algorithms for trace distance estimation**, 2023. [arXiv:2301.06783](https://arxiv.org/abs/2301.06783).
 1. Qisheng Wang. **A note on quantum divide and conquer for minimal string rotation**, 2022. [arXiv:2210.09149](https://arxiv.org/abs/2210.09149).
 1. Qisheng Wang, Ming Yang, and Xinrui Zhu. **Double-ended palindromic trees: a linear-time data structure and its applications**, 2022. [arXiv:2210.02292](https://arxiv.org/abs/2210.02292).
-1. Kean Chen, Wang Fang, Ji Guan, Xin Hong, Mingyu Huang, Junyi Liu, Qisheng Wang, and Mingsheng Ying. **VeriQBench: a benchmark for multiple types of quantum circuits**, 2022. [arXiv:2206.10880](https://arxiv.org/abs/2206.10880).
-1. Qisheng Wang, Ji Guan, Junyi Liu, Zhicheng Zhang, and Mingsheng Ying. **New quantum algorithms for computing quantum entropies and distances**, 2022. [arXiv:2203.13522](https://arxiv.org/abs/2203.13522).
-1. Zhicheng Zhang, Qisheng Wang, and Mingsheng Ying. **Parallel quantum algorithm for Hamiltonian simulation**, 2021. [arXiv:2105.11889](https://arxiv.org/abs/2105.11889).
-1. Qisheng Wang and Mingsheng Ying. **Quantum algorithm for lexicographically minimal string rotation**, 2020. [arXiv:2012.09376](https://arxiv.org/abs/2012.09376).
-1. Liwei Jiang, Dan Li, Qisheng Wang, Shuai Wang, and Songtao Wang. **Improving positive unlabeled learning: practical AUL estimation and new training method for extremely imbalanced data sets**, 2020. [arXiv:2004.09820](https://arxiv.org/abs/2004.09820).
-1. Qisheng Wang and Mingsheng Ying. **Quantum Büchi automata**, 2018. [arXiv:1804.08982](https://arxiv.org/abs/1804.08982).
+1. [Kean Chen](https://scholar.google.com/citations?user=Ncvskw4AAAAJ&hl=en), Wang Fang, [Ji Guan](https://scholar.google.com/citations?user=muIp5UIAAAAJ&hl=en), [Xin Hong](https://scholar.google.com/citations?user=Vm4a-uMAAAAJ&hl=en), Mingyu Huang, Junyi Liu, Qisheng Wang, and [Mingsheng Ying](https://scholar.google.com.au/citations?user=jjPif6cAAAAJ&hl=en). **VeriQBench: a benchmark for multiple types of quantum circuits**, 2022. [arXiv:2206.10880](https://arxiv.org/abs/2206.10880).
+1. Qisheng Wang, [Ji Guan](https://scholar.google.com/citations?user=muIp5UIAAAAJ&hl=en), Junyi Liu, Zhicheng Zhang, and [Mingsheng Ying](https://scholar.google.com.au/citations?user=jjPif6cAAAAJ&hl=en). **New quantum algorithms for computing quantum entropies and distances**, 2022. [arXiv:2203.13522](https://arxiv.org/abs/2203.13522).
+1. Zhicheng Zhang, Qisheng Wang, and [Mingsheng Ying](https://scholar.google.com.au/citations?user=jjPif6cAAAAJ&hl=en). **Parallel quantum algorithm for Hamiltonian simulation**, 2021. [arXiv:2105.11889](https://arxiv.org/abs/2105.11889).
+1. Qisheng Wang and [Mingsheng Ying](https://scholar.google.com.au/citations?user=jjPif6cAAAAJ&hl=en). **Quantum algorithm for lexicographically minimal string rotation**, 2020. [arXiv:2012.09376](https://arxiv.org/abs/2012.09376).
+1. Liwei Jiang, [Dan Li](http://nasp.cs.tsinghua.edu.cn/lidan.html), Qisheng Wang, [Shuai Wang](https://wangshuaizs.github.io/), and Songtao Wang. **Improving positive unlabeled learning: practical AUL estimation and new training method for extremely imbalanced data sets**, 2020. [arXiv:2004.09820](https://arxiv.org/abs/2004.09820).
+1. Qisheng Wang and [Mingsheng Ying](https://scholar.google.com.au/citations?user=jjPif6cAAAAJ&hl=en). **Quantum Büchi automata**, 2018. [arXiv:1804.08982](https://arxiv.org/abs/1804.08982).
 {: reversed="reversed"}
