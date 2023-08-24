@@ -19,6 +19,7 @@ I received my B.Sc. degree and Ph.D. degree from the [Department of Computer Sci
 
 ## News
 
+* 2023/08/25: My paper "[Quantum Algorithm for Lexicographically Minimal String Rotation](https://arxiv.org/abs/2012.09376)" was accepted by *Theory of Computing Systems*.
 * 2023/08/10: My paper "[Space-Bounded Quantum State Testing via Space-Efficient Quantum Singular Value Transformation](https://arxiv.org/abs/2308.05079)" was on arXiv.
 * 2023/08/04: My paper "[Quantum Lower Bounds by Sample-to-Query Lifting](https://arxiv.org/abs/2308.01794)" was on arXiv.
 
