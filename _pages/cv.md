@@ -26,11 +26,13 @@ redirect_from:
 * [*IEEE Transactions on Computers*](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=12)
 * [*Algorithmica*](https://www.springer.com/journal/453)
 * [*SIAM Journal on Control and Optimization*](https://www.siam.org/publications/journals/siam-journal-on-control-and-optimization-sicon)
+* [*Acta Informatica*](https://www.springer.com/journal/236)
 
 ## Conference Review
 
+* [*ACM-SIAM Symposium on Discrete Algorithms 2024 (SODA)*](https://www.siam.org/conferences/cm/conference/soda24), Alexandria, Virginia, USA, 2024.
 * [*Quantum Information Processing 2023 (QIP)*](https://indico.cern.ch/event/1175020/), Ghent, Belgium, 2023.
 * [*13th International Conference on Algorithms and Complexity (CIAC)*](https://easyconferences.eu/ciac2023/), Larnaca, Cyprus, 2023.
-* [*ACM-SIAM Symposium on Discrete Algorithms 2022 (SODA)*](https://www.siam.org/conferences/cm/conference/soda22), Alexandria, Virginia, USA, 2022.
+* [*ACM-SIAM Symposium on Discrete Algorithms 2022 (SODA)*](https://www.siam.org/conferences/cm/conference/soda22), virtual, 2022.
 * [*33rd International Conference on Computer-Aided Verification (CAV)*](http://i-cav.org/2021/), Los Angeles, California, USA, 2021.
 * [*8th International Conference on Principles of Security and Trust (POST)*](https://conf.researchr.org/track/etaps-2019/post-2019-papers), Prague, Czech, 2019.
