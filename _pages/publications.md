@@ -21,7 +21,7 @@ Appears as [Monthly News](https://ptreview.sublinear.info/2023/09/news-for-augus
 1. Qisheng Wang and [Zhicheng Zhang](https://scholar.google.com/citations?user=_CHPF-kAAAAJ&hl=en). **Quantum lower bounds by sample-to-query lifting**, 2023. [arXiv:2308.01794](https://arxiv.org/abs/2308.01794).  
 Presented as an invited talk at [Shenzhen–Nagoya Workshop on Quantum Science 2023](https://shenzhen-nagoya.github.io/2023/).  
 Appears as [Monthly News](https://ptreview.sublinear.info/2023/09/news-for-august-2023/) in [Property Testing Review](https://ptreview.sublinear.info/).
-1. Minbo Gao, [Zhengfeng Ji](https://scholar.google.com/citations?user=2uXdu7AAAAAJ&hl=en), [Tongyang Li](https://www.tongyangli.com/), and Qisheng Wang. **Logarithmic-regret quantum learning algorithms for zero-sum games**, 2023. [arXiv:2304.14197](https://arxiv.org/abs/2304.14197).
+1. [Minbo Gao](https://scholar.google.com/citations?user=b8i9J_QAAAAJ&hl=en), [Zhengfeng Ji](https://scholar.google.com/citations?user=2uXdu7AAAAAJ&hl=en), [Tongyang Li](https://www.tongyangli.com/), and Qisheng Wang. **Logarithmic-regret quantum learning algorithms for zero-sum games**, 2023. [arXiv:2304.14197](https://arxiv.org/abs/2304.14197).
 1. Qisheng Wang and [Zhicheng Zhang](https://scholar.google.com/citations?user=_CHPF-kAAAAJ&hl=en). **Fast quantum algorithms for trace distance estimation**, 2023. [arXiv:2301.06783](https://arxiv.org/abs/2301.06783).
 1. Qisheng Wang. **A note on quantum divide and conquer for minimal string rotation**, 2022. [arXiv:2210.09149](https://arxiv.org/abs/2210.09149).  
 Presented as a [poster](https://ken.ieice.org/ken/paper/20221208DCpl/eng/) at [the 47th Quantum Information Technology Symposium (QIT47)](https://www.ieice.org/es/qit/qit47/index_e.html).
