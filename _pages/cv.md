@@ -27,6 +27,7 @@ redirect_from:
 * [*Algorithmica*](https://www.springer.com/journal/453)
 * [*SIAM Journal on Control and Optimization*](https://www.siam.org/publications/journals/siam-journal-on-control-and-optimization-sicon)
 * [*Acta Informatica*](https://www.springer.com/journal/236)
+* [*Frontiers of Computer Science*](https://www.springer.com/journal/11704)
 
 ## Conference Review
 
