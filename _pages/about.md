@@ -19,6 +19,7 @@ I received my B.Sc. degree and Ph.D. degree from the [Department of Computer Sci
 
 ## News
 
+* 2023/09/22: My paper "[Logarithmic-Regret Quantum Learning Algorithms for Zero-Sum Games](https://arxiv.org/abs/2304.14197)" was accepted by the 37th Conference on Neural Information Processing Systems (NeurIPS'2023).
 * 2023/09/15: My paper "[Fast Quantum Algorithms for Trace Distance Estimation](https://arxiv.org/abs/2301.06783)" was accepted by *IEEE Transactions on Information Theory*.
 * 2023/09/05: I gave a talk about "[Quantum Lower Bounds by Sample-to-Query Lifting](https://arxiv.org/abs/2308.01794)" at [Shenzhen–Nagoya Workshop on Quantum Science 2023](https://shenzhen-nagoya.github.io/2023/).
 * 2023/08/25: My paper "[Quantum Algorithm for Lexicographically Minimal String Rotation](https://arxiv.org/abs/2012.09376)" was accepted by *Theory of Computing Systems*.
