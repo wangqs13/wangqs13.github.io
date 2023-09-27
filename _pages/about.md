@@ -14,8 +14,8 @@ I received my B.Sc. degree and Ph.D. degree from the [Department of Computer Sci
 
 ## Research Interests
 
-  * Quantum computing
-  * Algorithms
+  * Quantum Computing
+  * Algorithms and Complexity
 
 ## News
 
