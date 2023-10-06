@@ -31,6 +31,7 @@ redirect_from:
 
 ## Conference Review
 
+* [*Quantum Information Processing 2024 (QIP)*](https://qip2024.tw/site/page.aspx?pid=901&sid=1522&lang=en), Taipei, Taiwan, China, 2024.
 * [*ACM-SIAM Symposium on Discrete Algorithms 2024 (SODA)*](https://www.siam.org/conferences/cm/conference/soda24), Alexandria, Virginia, USA, 2024.
 * [*Quantum Information Processing 2023 (QIP)*](https://indico.cern.ch/event/1175020/), Ghent, Belgium, 2023.
 * [*13th International Conference on Algorithms and Complexity (CIAC)*](https://easyconferences.eu/ciac2023/), Larnaca, Cyprus, 2023.
