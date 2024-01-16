@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-1. (by contribution) [Zhicheng Zhang](https://scholar.google.com/citations?user=_CHPF-kAAAAJ&hl=en), Qisheng Wang, and [Mingsheng Ying](https://scholar.google.com/citations?user=jjPif6cAAAAJ&hl=en). **Parallel quantum algorithm for Hamiltonian simulation**. *Quantum*, to appear, 2023. [arXiv:2105.11889](https://arxiv.org/abs/2105.11889).
+1. (by contribution) [Zhicheng Zhang](https://scholar.google.com/citations?user=_CHPF-kAAAAJ&hl=en), Qisheng Wang, and [Mingsheng Ying](https://scholar.google.com/citations?user=jjPif6cAAAAJ&hl=en). **Parallel quantum algorithm for Hamiltonian simulation**. *Quantum*, 8: 1228, 2024. [doi:10.22331/q-2024-01-15-1228](https://doi.org/10.22331/q-2024-01-15-1228). [arXiv:2105.11889](https://arxiv.org/abs/2105.11889).
 1. (in alphabetical order) [Minbo Gao](https://scholar.google.com/citations?user=b8i9J_QAAAAJ&hl=en), [Zhengfeng Ji](https://scholar.google.com/citations?user=2uXdu7AAAAAJ&hl=en), [Tongyang Li](https://www.tongyangli.com/), and Qisheng Wang. **Logarithmic-regret quantum learning algorithms for zero-sum games**. In *Proceedings of the 37th Conference on Neural Information Processing Systems* (NeurIPS 2023), to appear, 2023. [arXiv:2304.14197](https://arxiv.org/abs/2304.14197).  
 Presented as a [poster](https://qip2024.tw/site/mypage.aspx?pid=263&lang=en&sid=1522) at [the 27th Conference on Quantum Information Processing (QIP 2024)](https://qip2024.tw/site/page.aspx?pid=901&sid=1522&lang=en).  
 Presented as a [poster](https://neurips.cc/virtual/2023/poster/72771) at [the 37th Conference on Neural Information Processing Systems (NeurIPS 2023)](https://neurips.cc/Conferences/2023).
