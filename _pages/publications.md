@@ -26,6 +26,7 @@ Presented as an invited talk, merged with [arXiv:2203.13522](https://arxiv.org/a
 
 ## Preprints
 
+1. <span style="color:blue">Ⓒ</span> Qisheng Wang and [Zhicheng Zhang](https://scholar.google.com/citations?user=_CHPF-kAAAAJ&hl=en). **Time-efficient quantum entropy estimator via samplizer**, 2023. [arXiv:2401.09947](https://arxiv.org/abs/2401.09947).
 1. <span style="color:green">Ⓐ</span> [François Le Gall](http://www.francoislegall.com/), [Yupan Liu](https://yupanliu.info/), and Qisheng Wang. **Space-bounded quantum state testing via space-efficient quantum singular value transformation**, 2023. [arXiv:2308.05079](https://arxiv.org/abs/2308.05079).  
 Presented as a [poster](https://qip2024.tw/site/mypage.aspx?pid=263&lang=en&sid=1522) at [the 27th Conference on Quantum Information Processing (QIP 2024)](https://qip2024.tw/site/page.aspx?pid=901&sid=1522&lang=en).  
 Appears as [Monthly News for August 2023](https://ptreview.sublinear.info/2023/09/news-for-august-2023/) in [Property Testing Review](https://ptreview.sublinear.info/).
