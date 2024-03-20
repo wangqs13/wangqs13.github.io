@@ -10,7 +10,7 @@ author_profile: true
 
 1. **Fast quantum algorithms for trace distance estimation**.  
 <span style="color:blue">Ⓒ</span> Qisheng Wang and [Zhicheng Zhang](https://scholar.google.com/citations?user=_CHPF-kAAAAJ&hl=en).  
-*IEEE Transactions on Information Theory*, to appear, 2024. [doi:10.1109/TIT.2023.3321121](https://doi.org/10.1109/TIT.2023.3321121). [arXiv:2301.06783](https://arxiv.org/abs/2301.06783).  
+*IEEE Transactions on Information Theory*, 70(4): 2720-2733, 2024. [doi:10.1109/TIT.2023.3321121](https://doi.org/10.1109/TIT.2023.3321121). [arXiv:2301.06783](https://arxiv.org/abs/2301.06783).  
 Presented as an invited talk at the 2023 Annual Q-LEAP Quantum AI Meeting (令和5年度Q-LEAP量子AI領域研究会) in 2024.
 1. **Logarithmic-regret quantum learning algorithms for zero-sum games**.  
 <span style="color:green">Ⓐ</span> [Minbo Gao](https://scholar.google.com/citations?user=b8i9J_QAAAAJ&hl=en), [Zhengfeng Ji](https://scholar.google.com/citations?user=2uXdu7AAAAAJ&hl=en), [Tongyang Li](https://www.tongyangli.com/), and Qisheng Wang.  
