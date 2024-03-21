@@ -31,6 +31,8 @@ redirect_from:
 
 ## Conference Review
 
+* [*19th Conference on the Theory of Quantum Computation, Communication, and Cryptography (TQC)*](https://tqc-conference.org/), Okinawa, Japan, 2024.
+* [*51st EATCS International Colloquium on Automata, Languages and Programming (ICALP)*](https://compose.ioc.ee/icalp2024/), Tallinn, Estonia, 2024.
 * [*Quantum Information Processing 2024 (QIP)*](https://qip2024.tw/site/page.aspx?pid=901&sid=1522&lang=en), Taipei, Taiwan, China, 2024.
 * [*ACM-SIAM Symposium on Discrete Algorithms 2024 (SODA)*](https://www.siam.org/conferences/cm/conference/soda24), Alexandria, Virginia, USA, 2024.
 * [*Quantum Information Processing 2023 (QIP)*](https://indico.cern.ch/event/1175020/), Ghent, Belgium, 2023.
