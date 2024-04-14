@@ -8,6 +8,10 @@ author_profile: true
 <span style="color:green">Ⓐ</span> — in alphabetical order. \
 <span style="color:blue">Ⓒ</span> — by contribution. 
 
+1. **Succinct quantum testers for closeness and $k$-wise uniformity of probability distributions**.  
+<span style="color:blue">Ⓒ</span> Jingquan Luo, Qisheng Wang, and [Lvzhou Li](https://scholar.google.com/citations?user=a07s0UwAAAAJ&hl=en).  
+*IEEE Transactions on Information Theory*, to appear, 2024. [arXiv:2304.12916](https://arxiv.org/abs/2304.12916).  
+Presented as a poster at [the 2nd CCF Quantum Computation Conference and China Quantum Computation Industry Summit (第二届CCF量子计算大会暨中国量子计算产业峰会, CQCC 2023)](https://ccf.org.cn/cqcc2023).
 1. **Fast quantum algorithms for trace distance estimation**.  
 <span style="color:blue">Ⓒ</span> Qisheng Wang and [Zhicheng Zhang](https://scholar.google.com/citations?user=_CHPF-kAAAAJ&hl=en).  
 *IEEE Transactions on Information Theory*, 70(4): 2720-2733, 2024. [doi:10.1109/TIT.2023.3321121](https://doi.org/10.1109/TIT.2023.3321121). [arXiv:2301.06783](https://arxiv.org/abs/2301.06783).  
@@ -66,10 +70,6 @@ Presented as an online talk invited by Prof. [Zhengfeng Ji](https://scholar.goog
 Presented as a [poster](https://qip2024.tw/site/mypage.aspx?pid=263&lang=en&sid=1522) at [the 27th Conference on Quantum Information Processing (QIP 2024)](https://qip2024.tw/site/page.aspx?pid=901&sid=1522&lang=en).  
 Presented as an invited [talk (20min)](https://youtu.be/RebEfLFH69I?t=3015) at [Shenzhen–Nagoya Workshop on Quantum Science 2023](https://shenzhen-nagoya.github.io/2023/).  
 Appears as [Monthly News for August 2023](https://ptreview.sublinear.info/2023/09/news-for-august-2023/) in [Property Testing Review](https://ptreview.sublinear.info/).
-1. **Succinct quantum testers for closeness and $k$-wise uniformity of probability distributions**.  
-<span style="color:blue">Ⓒ</span> Jingquan Luo, Qisheng Wang, and [Lvzhou Li](https://scholar.google.com/citations?user=a07s0UwAAAAJ&hl=en).  
-[arXiv:2304.12916](https://arxiv.org/abs/2304.12916), 2023.  
-Presented as a poster at [the 2nd CCF Quantum Computation Conference and China Quantum Computation Industry Summit (第二届CCF量子计算大会暨中国量子计算产业峰会, CQCC 2023)](https://ccf.org.cn/cqcc2023).
 1. **A note on quantum divide and conquer for minimal string rotation**.  
 Qisheng Wang.  
 [arXiv:2210.09149](https://arxiv.org/abs/2210.09149), 2022.  
