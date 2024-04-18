@@ -56,7 +56,8 @@ Presented as an invited talk, merged with [arXiv:2203.13522](https://arxiv.org/a
 [arXiv:2404.04599](https://arxiv.org/abs/2404.04599), 2024.
 1. **Time-efficient quantum entropy estimator via samplizer**.  
 <span style="color:blue">Ⓒ</span> Qisheng Wang and [Zhicheng Zhang](https://scholar.google.com/citations?user=_CHPF-kAAAAJ&hl=en).  
-[arXiv:2401.09947](https://arxiv.org/abs/2401.09947), 2024.
+[arXiv:2401.09947](https://arxiv.org/abs/2401.09947), 2024.  
+Presented as an online talk invited by Prof. [Zhengfeng Ji](https://scholar.google.com/citations?user=2uXdu7AAAAAJ&hl=en) at Tsinghua University in 2024.
 1. **Space-bounded quantum state testing via space-efficient quantum singular value transformation**.  
 <span style="color:green">Ⓐ</span> [François Le Gall](http://www.francoislegall.com/), [Yupan Liu](https://yupanliu.info/), and Qisheng Wang.  
 [arXiv:2308.05079](https://arxiv.org/abs/2308.05079), 2023.  
