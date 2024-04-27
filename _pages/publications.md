@@ -14,7 +14,7 @@ author_profile: true
 Presented as an invited talk, merged with [arXiv:2103.09076](https://arxiv.org/abs/2103.09076), at [the 35th Q-LEAP Quantum AI Seminar (第35回Q-LEAP量子AIセミナー)](https://qleap-qai.jp/seminar/post-2176822.html) in 2022.
 1. **Succinct quantum testers for closeness and $k$-wise uniformity of probability distributions**.  
 <span style="color:blue">Ⓒ</span> Jingquan Luo, Qisheng Wang, and [Lvzhou Li](https://scholar.google.com/citations?user=a07s0UwAAAAJ&hl=en).  
-*IEEE Transactions on Information Theory*, to appear, 2024. [arXiv:2304.12916](https://arxiv.org/abs/2304.12916).  
+*IEEE Transactions on Information Theory*, to appear, 2024. [doi:10.1109/TIT.2024.3393756](https://doi.org/10.1109/TIT.2024.3393756). [arXiv:2304.12916](https://arxiv.org/abs/2304.12916).  
 Presented as a poster at [the 2nd CCF Quantum Computation Conference and China Quantum Computation Industry Summit (第二届CCF量子计算大会暨中国量子计算产业峰会, CQCC 2023)](https://ccf.org.cn/cqcc2023).
 1. **Fast quantum algorithms for trace distance estimation**.  
 <span style="color:blue">Ⓒ</span> Qisheng Wang and [Zhicheng Zhang](https://scholar.google.com/citations?user=_CHPF-kAAAAJ&hl=en).  
