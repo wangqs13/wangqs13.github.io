@@ -55,6 +55,9 @@ Presented as an invited talk, merged with [arXiv:2203.13522](https://arxiv.org/a
 
 ## Preprints
 
+1. **Quantum algorithms for matrix geometric means**.  
+<span style="color:green">Ⓐ</span> [Nana Liu](http://nanaliu.weebly.com/), Qisheng Wang, [Mark M. Wilde](https://markwilde.com/), and [Zhicheng Zhang](https://scholar.google.com/citations?user=_CHPF-kAAAAJ&hl=en).  
+[arXiv:2405.00673](https://arxiv.org/abs/2405.00673), 2024.
 1. **Local test for unitarily invariant properties of bipartite quantum states**.  
 <span style="color:green">Ⓐ</span> [Kean Chen](https://scholar.google.com/citations?user=Ncvskw4AAAAJ&hl=en), Qisheng Wang, and [Zhicheng Zhang](https://scholar.google.com/citations?user=_CHPF-kAAAAJ&hl=en).  
 [arXiv:2404.04599](https://arxiv.org/abs/2404.04599), 2024.
