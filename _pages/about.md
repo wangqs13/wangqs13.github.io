@@ -19,6 +19,7 @@ I received my B.Sc. degree and Ph.D. degree from the [Department of Computer Sci
 
 ## News
 
+* 2024/05/02: Our paper "[Quantum Algorithms for Matrix Geometric Means](https://arxiv.org/abs/2405.00673)" was on arXiv.
 * 2024/04/23: Our paper "[New Quantum Algorithms for Computing Quantum Entropies and Distances](https://arxiv.org/abs/2203.13522)" was accepted by *IEEE Transactions on Information Theory*. 
 * 2024/04/14: Our paper "[Succinct Quantum Testers for Closeness and $k$-Wise Uniformity of Probability Distributions](https://arxiv.org/abs/2304.12916)" was accepted by *IEEE Transactions on Information Theory*. 
 * 2024/04/09: Our paper "[Local Test for Unitarily Invariant Properties of Bipartite Quantum States](https://arxiv.org/abs/2404.04599)" was on arXiv. 
