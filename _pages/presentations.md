@@ -5,6 +5,7 @@ permalink: /presentations/
 author_profile: true
 ---
 
+* 2024/05/08: **Time-Efficient Quantum Entropy Estimator via Samplizer** (based on [arXiv:2401.09947](https://arxiv.org/abs/2401.09947)) as an online talk invited by Prof. [Patrick Rebentrost](https://scholar.google.com/citations?user=XWHSBmUAAAAJ&hl=en) at the Centre for Quantum Technologies, National University of Singapore, Singapore. 
 * 2024/04/17: **Time-Efficient Quantum Entropy Estimator via Samplizer** (based on [arXiv:2401.09947](https://arxiv.org/abs/2401.09947)) as an online talk invited by Prof. [Zhengfeng Ji](https://scholar.google.com/citations?user=2uXdu7AAAAAJ&hl=en) at the Department of Computer Science and Technology, Tsinghua University, Beijing, China. 
 * 2024/03/11: **Fast Quantum Algorithms for Trace Distance Estimation** (based on [arXiv:2301.06783](https://arxiv.org/abs/2301.06783)) as an invited talk at the 2023 Annual Q-LEAP Quantum AI Meeting (令和5年度Q-LEAP量子AI領域研究会), Osaka, Japan.
 * 2024/01/15: **More Optimistic, Less Regret: Quantum Optimistic Update Algorithms for Zero-Sum Games and Linear Programming** (based on [arXiv:2304.14197](https://arxiv.org/abs/2304.14197)) as a [poster](https://qip2024.tw/site/mypage.aspx?pid=263&lang=en&sid=1522) at [the 27th Conference on Quantum Information Processing (QIP 2024)](https://qip2024.tw/site/page.aspx?pid=901&sid=1522&lang=en).
