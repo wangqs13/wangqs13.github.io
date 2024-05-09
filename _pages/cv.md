@@ -18,6 +18,7 @@ redirect_from:
 
 ## Program Committee Member
 
+* [*IEEE International Conference on Quantum Computing and Engineering 2024 (QCE)*](https://qce.quantum.ieee.org/2024/), Québec, Canada, 2024.
 * [*23rd Asian Quantum Information Science Conference (AQIS)*](http://aqis-conf.org/2023/committees/), Seoul, Korea, 2023.
 
 ## Journal Review
@@ -25,12 +26,14 @@ redirect_from:
 * [*IEEE Transactions on Information Theory*](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=18)
 * [*IEEE Transactions on Computers*](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=12)
 * [*Algorithmica*](https://www.springer.com/journal/453)
+* [*Quantum Information Processing*](https://link.springer.com/journal/11128)
 * [*SIAM Journal on Control and Optimization*](https://www.siam.org/publications/journals/siam-journal-on-control-and-optimization-sicon)
 * [*Acta Informatica*](https://www.springer.com/journal/236)
 * [*Frontiers of Computer Science*](https://www.springer.com/journal/11704)
 
 ## Conference Review
 
+* [*65th IEEE Symposium on Foundations of Computer Science (FOCS)*](https://focs.computer.org/2024/), Chicago, Illinois, USA, 2024.
 * [*19th Conference on the Theory of Quantum Computation, Communication, and Cryptography (TQC)*](https://tqc-conference.org/), Okinawa, Japan, 2024.
 * [*51st EATCS International Colloquium on Automata, Languages and Programming (ICALP)*](https://compose.ioc.ee/icalp2024/), Tallinn, Estonia, 2024.
 * [*Quantum Information Processing 2024 (QIP)*](https://qip2024.tw/site/page.aspx?pid=901&sid=1522&lang=en), Taipei, Taiwan, China, 2024.
