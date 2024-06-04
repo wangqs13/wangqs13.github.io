@@ -8,6 +8,9 @@ author_profile: true
 <span style="color:green">Ⓐ</span> — in alphabetical order. \
 <span style="color:blue">Ⓒ</span> — by contribution. 
 
+1. **Tight quantum depth lower bound for solving systems of linear equations**.  
+<span style="color:blue">Ⓒ</span> Qisheng Wang and [Zhicheng Zhang](https://scholar.google.com/citations?user=_CHPF-kAAAAJ&hl=en).  
+*Physical Review A*, to appear, 2024.
 1. **New quantum algorithms for computing quantum entropies and distances**.  
 <span style="color:blue">Ⓒ</span> Qisheng Wang, [Ji Guan](https://scholar.google.com/citations?user=muIp5UIAAAAJ&hl=en), [Junyi Liu](https://scholar.google.com/citations?user=jJ0y2JEAAAAJ&hl=en), [Zhicheng Zhang](https://scholar.google.com/citations?user=_CHPF-kAAAAJ&hl=en), and [Mingsheng Ying](https://scholar.google.com/citations?user=jjPif6cAAAAJ&hl=en).  
 *IEEE Transactions on Information Theory*, to appear, 2024. [doi:10.1109/TIT.2024.3399014](https://doi.org/10.1109/TIT.2024.3399014). [arXiv:2203.13522](https://arxiv.org/abs/2203.13522).  
