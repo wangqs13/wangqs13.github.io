@@ -89,7 +89,8 @@ Qisheng Wang.
 Presented as a [poster](https://ken.ieice.org/ken/paper/20221208DCpl/eng/) at [the 47th Quantum Information Technology Symposium (第47回量子情報技術研究会, QIT47)](https://www.ieice.org/es/qit/qit47/index_e.html) in 2022.
 1. **Double-ended palindromic trees: a linear-time data structure and its applications**.  
 <span style="color:blue">Ⓒ</span> Qisheng Wang, Ming Yang, and Xinrui Zhu.  
-[arXiv:2210.02292](https://arxiv.org/abs/2210.02292), 2022.
+[arXiv:2210.02292](https://arxiv.org/abs/2210.02292), 2022.  
+Implemented on [Library Checker](https://judge.yosupo.jp/problem/palindromes_in_deque).
 1. **VeriQBench: a benchmark for multiple types of quantum circuits**.  
 <span style="color:green">Ⓐ</span> [Kean Chen](https://scholar.google.com/citations?user=Ncvskw4AAAAJ&hl=en), Wang Fang, [Ji Guan](https://scholar.google.com/citations?user=muIp5UIAAAAJ&hl=en), [Xin Hong](https://scholar.google.com/citations?user=Vm4a-uMAAAAJ&hl=en), Mingyu Huang, [Junyi Liu](https://scholar.google.com/citations?user=jJ0y2JEAAAAJ&hl=en), Qisheng Wang, and [Mingsheng Ying](https://scholar.google.com/citations?user=jjPif6cAAAAJ&hl=en).  
 [arXiv:2206.10880](https://arxiv.org/abs/2206.10880), 2022.
