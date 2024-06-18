@@ -33,6 +33,8 @@ redirect_from:
 
 ## Conference Review
 
+* [*15th ITU Kaleidoscope Academic Conference*](https://www.itu.int/en/ITU-T/academia/kaleidoscope/2024/Pages/default.aspx), New Delhi, India, 2024.
+* [*24th Asian Quantum Information Science Conference (AQIS)*](http://aqis-conf.org/2024/), Sapporo, Japan, 2024.
 * [*65th IEEE Symposium on Foundations of Computer Science (FOCS)*](https://focs.computer.org/2024/), Chicago, Illinois, USA, 2024.
 * [*19th Conference on the Theory of Quantum Computation, Communication, and Cryptography (TQC)*](https://tqc-conference.org/), Okinawa, Japan, 2024.
 * [*51st EATCS International Colloquium on Automata, Languages and Programming (ICALP)*](https://compose.ioc.ee/icalp2024/), Tallinn, Estonia, 2024.
