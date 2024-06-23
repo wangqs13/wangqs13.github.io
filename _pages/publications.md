@@ -8,6 +8,11 @@ author_profile: true
 <span style="color:green">Ⓐ</span> — in alphabetical order. \
 <span style="color:blue">Ⓒ</span> — by contribution. 
 
+1. **Time-efficient quantum entropy estimator via samplizer**.  
+<span style="color:blue">Ⓒ</span> Qisheng Wang and [Zhicheng Zhang](https://scholar.google.com/citations?user=_CHPF-kAAAAJ&hl=en).  
+In *Proceedings of the 32nd Annual European Symposium on Algorithms* (ESA 2024), to appear, 2024. [arXiv:2401.09947](https://arxiv.org/abs/2401.09947).  
+Presented as an online talk invited by Prof. [Patrick Rebentrost](https://scholar.google.com/citations?user=XWHSBmUAAAAJ&hl=en) at the National University of Singapore in 2024.  
+Presented as an online talk invited by Prof. [Zhengfeng Ji](https://scholar.google.com/citations?user=2uXdu7AAAAAJ&hl=en) at Tsinghua University in 2024.
 1. **Tight quantum depth lower bound for solving systems of linear equations**.  
 <span style="color:blue">Ⓒ</span> Qisheng Wang and [Zhicheng Zhang](https://scholar.google.com/citations?user=_CHPF-kAAAAJ&hl=en).  
 *Physical Review A*, to appear, 2024.
@@ -65,11 +70,6 @@ Presented as an invited talk, merged with [arXiv:2203.13522](https://arxiv.org/a
 <span style="color:green">Ⓐ</span> [Kean Chen](https://scholar.google.com/citations?user=Ncvskw4AAAAJ&hl=en), Qisheng Wang, and [Zhicheng Zhang](https://scholar.google.com/citations?user=_CHPF-kAAAAJ&hl=en).  
 [arXiv:2404.04599](https://arxiv.org/abs/2404.04599), 2024.  
 Appears as [Monthly News for April 2024](https://ptreview.sublinear.info/2024/05/news-for-april-2024/) in [Property Testing Review](https://ptreview.sublinear.info/).
-1. **Time-efficient quantum entropy estimator via samplizer**.  
-<span style="color:blue">Ⓒ</span> Qisheng Wang and [Zhicheng Zhang](https://scholar.google.com/citations?user=_CHPF-kAAAAJ&hl=en).  
-[arXiv:2401.09947](https://arxiv.org/abs/2401.09947), 2024.  
-Presented as an online talk invited by Prof. [Patrick Rebentrost](https://scholar.google.com/citations?user=XWHSBmUAAAAJ&hl=en) at the National University of Singapore in 2024.  
-Presented as an online talk invited by Prof. [Zhengfeng Ji](https://scholar.google.com/citations?user=2uXdu7AAAAAJ&hl=en) at Tsinghua University in 2024.
 1. **Space-bounded quantum state testing via space-efficient quantum singular value transformation**.  
 <span style="color:green">Ⓐ</span> [François Le Gall](http://www.francoislegall.com/), [Yupan Liu](https://yupanliu.info/), and Qisheng Wang.  
 [arXiv:2308.05079](https://arxiv.org/abs/2308.05079), 2023.  
