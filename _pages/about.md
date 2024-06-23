@@ -19,6 +19,7 @@ I received my B.Sc. degree and Ph.D. degree from the [Department of Computer Sci
 
 ## News
 
+* 2024/06/23: Our paper "[Time-Efficient Quantum Entropy Estimator via Samplizer](https://arxiv.org/abs/2401.09947)" was accepted by the 32nd Annual European Symposium on Algorithms (ESA 2024).
 * 2024/06/04: Our paper "Tight Quantum Depth Lower Bound for Solving Systems of Linear Equations" was accepted by *Physical Review A*.
 * 2024/05/02: Our paper "[Quantum Algorithms for Matrix Geometric Means](https://arxiv.org/abs/2405.00673)" was on arXiv.
 * 2024/04/23: Our paper "[New Quantum Algorithms for Computing Quantum Entropies and Distances](https://arxiv.org/abs/2203.13522)" was accepted by *IEEE Transactions on Information Theory*. 
@@ -26,7 +27,7 @@ I received my B.Sc. degree and Ph.D. degree from the [Department of Computer Sci
 * 2024/04/09: Our paper "[Local Test for Unitarily Invariant Properties of Bipartite Quantum States](https://arxiv.org/abs/2404.04599)" was on arXiv. 
 * 2024/01/19: Our paper "[Time-Efficient Quantum Entropy Estimator via Samplizer](https://arxiv.org/abs/2401.09947)" was on arXiv. 
 * 2023/10/06: Our paper "[Parallel Quantum Algorithm for Hamiltonian Simulation](https://arxiv.org/abs/2105.11889)" was accepted by *Quantum*.
-* 2023/09/22: Our paper "[Logarithmic-Regret Quantum Learning Algorithms for Zero-Sum Games](https://arxiv.org/abs/2304.14197)" was accepted by the 37th Conference on Neural Information Processing Systems (NeurIPS'2023).
+* 2023/09/22: Our paper "[Logarithmic-Regret Quantum Learning Algorithms for Zero-Sum Games](https://arxiv.org/abs/2304.14197)" was accepted by the 37th Conference on Neural Information Processing Systems (NeurIPS 2023).
 * 2023/09/15: Our paper "[Fast Quantum Algorithms for Trace Distance Estimation](https://arxiv.org/abs/2301.06783)" was accepted by *IEEE Transactions on Information Theory*.
 * 2023/09/05: I gave a talk about "[Quantum Lower Bounds by Sample-to-Query Lifting](https://arxiv.org/abs/2308.01794)" at [Shenzhen–Nagoya Workshop on Quantum Science 2023](https://shenzhen-nagoya.github.io/2023/).
 * 2023/08/25: Our paper "[Quantum Algorithm for Lexicographically Minimal String Rotation](https://arxiv.org/abs/2012.09376)" was accepted by *Theory of Computing Systems*.
