@@ -13,13 +13,13 @@ author_profile: true
 In *Proceedings of the 32nd Annual European Symposium on Algorithms* (ESA 2024), to appear, 2024. [arXiv:2401.09947](https://arxiv.org/abs/2401.09947).  
 Presented as an online talk invited by Prof. [Patrick Rebentrost](https://scholar.google.com/citations?user=XWHSBmUAAAAJ&hl=en) at the National University of Singapore in 2024.  
 Presented as an online talk invited by Prof. [Zhengfeng Ji](https://scholar.google.com/citations?user=2uXdu7AAAAAJ&hl=en) at Tsinghua University in 2024.
-1. **Tight quantum depth lower bound for solving systems of linear equations**.  
-<span style="color:blue">Ⓒ</span> Qisheng Wang and [Zhicheng Zhang](https://scholar.google.com/citations?user=_CHPF-kAAAAJ&hl=en).  
-*Physical Review A*, to appear, 2024.
 1. **New quantum algorithms for computing quantum entropies and distances**.  
 <span style="color:blue">Ⓒ</span> Qisheng Wang, [Ji Guan](https://scholar.google.com/citations?user=muIp5UIAAAAJ&hl=en), [Junyi Liu](https://scholar.google.com/citations?user=jJ0y2JEAAAAJ&hl=en), [Zhicheng Zhang](https://scholar.google.com/citations?user=_CHPF-kAAAAJ&hl=en), and [Mingsheng Ying](https://scholar.google.com/citations?user=jjPif6cAAAAJ&hl=en).  
 *IEEE Transactions on Information Theory*, to appear, 2024. [doi:10.1109/TIT.2024.3399014](https://doi.org/10.1109/TIT.2024.3399014). [arXiv:2203.13522](https://arxiv.org/abs/2203.13522).  
 Presented as an invited talk, merged with [arXiv:2103.09076](https://arxiv.org/abs/2103.09076), at [the 35th Q-LEAP Quantum AI Seminar (第35回Q-LEAP量子AIセミナー)](https://qleap-qai.jp/seminar/post-2176822.html) in 2022.
+1. **Tight quantum depth lower bound for solving systems of linear equations**.  
+<span style="color:blue">Ⓒ</span> Qisheng Wang and [Zhicheng Zhang](https://scholar.google.com/citations?user=_CHPF-kAAAAJ&hl=en).  
+*Physical Review A*, 110(1): 012422, 2024. [doi:10.1103/PhysRevA.110.012422](https://doi.org/10.1103/PhysRevA.110.012422). [arXiv:2407.06012](https://arxiv.org/abs/2407.06012).
 1. **Succinct quantum testers for closeness and $k$-wise uniformity of probability distributions**.  
 <span style="color:blue">Ⓒ</span> Jingquan Luo, Qisheng Wang, and [Lvzhou Li](https://scholar.google.com/citations?user=a07s0UwAAAAJ&hl=en).  
 *IEEE Transactions on Information Theory*, 70(7): 5092-5103, 2024. [doi:10.1109/TIT.2024.3393756](https://doi.org/10.1109/TIT.2024.3393756). [arXiv:2304.12916](https://arxiv.org/abs/2304.12916).  
