@@ -20,7 +20,7 @@ I received my B.Sc. degree and Ph.D. degree from the [Department of Computer Sci
 ## News
 
 * 2024/06/23: Our paper "[Time-Efficient Quantum Entropy Estimator via Samplizer](https://arxiv.org/abs/2401.09947)" was accepted by the 32nd Annual European Symposium on Algorithms (ESA 2024).
-* 2024/06/04: Our paper "Tight Quantum Depth Lower Bound for Solving Systems of Linear Equations" was accepted by *Physical Review A*.
+* 2024/06/04: Our paper "[Tight Quantum Depth Lower Bound for Solving Systems of Linear Equations](https://arxiv.org/abs/2407.06012)" was accepted by *Physical Review A*.
 * 2024/05/02: Our paper "[Quantum Algorithms for Matrix Geometric Means](https://arxiv.org/abs/2405.00673)" was on arXiv.
 * 2024/04/23: Our paper "[New Quantum Algorithms for Computing Quantum Entropies and Distances](https://arxiv.org/abs/2203.13522)" was accepted by *IEEE Transactions on Information Theory*. 
 * 2024/04/14: Our paper "[Succinct Quantum Testers for Closeness and $k$-Wise Uniformity of Probability Distributions](https://arxiv.org/abs/2304.12916)" was accepted by *IEEE Transactions on Information Theory*. 
