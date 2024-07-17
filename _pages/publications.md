@@ -8,6 +8,9 @@ author_profile: true
 <span style="color:green">Ⓐ</span> — in alphabetical order. \
 <span style="color:blue">Ⓒ</span> — by contribution. 
 
+1. **Quantum Büchi automata**.  
+<span style="color:blue">Ⓒ</span> Qisheng Wang and [Mingsheng Ying](https://scholar.google.com/citations?user=jjPif6cAAAAJ&hl=en).  
+*Theoretical Computer Science*, to appear, 2024. [arXiv:1804.08982](https://arxiv.org/abs/1804.08982).
 1. **Time-efficient quantum entropy estimator via samplizer**.  
 <span style="color:blue">Ⓒ</span> Qisheng Wang and [Zhicheng Zhang](https://scholar.google.com/citations?user=_CHPF-kAAAAJ&hl=en).  
 In *Proceedings of the 32nd Annual European Symposium on Algorithms* (ESA 2024), to appear, 2024. [arXiv:2401.09947](https://arxiv.org/abs/2401.09947).  
@@ -97,7 +100,4 @@ Implemented on [Library Checker](https://judge.yosupo.jp/problem/palindromes_in_
 1. **Improving positive unlabeled learning: practical AUL estimation and new training method for extremely imbalanced data sets**.  
 <span style="color:blue">Ⓒ</span> Liwei Jiang, [Dan Li](http://nasp.cs.tsinghua.edu.cn/lidan.html), Qisheng Wang, [Shuai Wang](https://wangshuaizs.github.io/), and Songtao Wang.  
 [arXiv:2004.09820](https://arxiv.org/abs/2004.09820), 2020.
-1. **Quantum Büchi automata**.  
-<span style="color:blue">Ⓒ</span> Qisheng Wang and [Mingsheng Ying](https://scholar.google.com/citations?user=jjPif6cAAAAJ&hl=en).  
-[arXiv:1804.08982](https://arxiv.org/abs/1804.08982), 2018.
 {: reversed="reversed"}
