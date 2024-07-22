@@ -10,7 +10,7 @@ author_profile: true
 
 1. **Quantum Büchi automata**.  
 <span style="color:blue">Ⓒ</span> Qisheng Wang and [Mingsheng Ying](https://scholar.google.com/citations?user=jjPif6cAAAAJ&hl=en).  
-*Theoretical Computer Science*, to appear, 2024. [arXiv:1804.08982](https://arxiv.org/abs/1804.08982).
+*Theoretical Computer Science*, to appear, 2024. [doi:10.1016/j.tcs.2024.114740](https://doi.org/10.1016/j.tcs.2024.114740). [arXiv:1804.08982](https://arxiv.org/abs/1804.08982).
 1. **Time-efficient quantum entropy estimator via samplizer**.  
 <span style="color:blue">Ⓒ</span> Qisheng Wang and [Zhicheng Zhang](https://scholar.google.com/citations?user=_CHPF-kAAAAJ&hl=en).  
 In *Proceedings of the 32nd Annual European Symposium on Algorithms* (ESA 2024), to appear, 2024. [arXiv:2401.09947](https://arxiv.org/abs/2401.09947).  
