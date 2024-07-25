@@ -8,14 +8,14 @@ author_profile: true
 <span style="color:green">Ⓐ</span> — in alphabetical order. \
 <span style="color:blue">Ⓒ</span> — by contribution. 
 
-1. **Quantum Büchi automata**.  
-<span style="color:blue">Ⓒ</span> Qisheng Wang and [Mingsheng Ying](https://scholar.google.com/citations?user=jjPif6cAAAAJ&hl=en).  
-*Theoretical Computer Science*, to appear, 2024. [doi:10.1016/j.tcs.2024.114740](https://doi.org/10.1016/j.tcs.2024.114740). [arXiv:1804.08982](https://arxiv.org/abs/1804.08982).
 1. **Time-efficient quantum entropy estimator via samplizer**.  
 <span style="color:blue">Ⓒ</span> Qisheng Wang and [Zhicheng Zhang](https://scholar.google.com/citations?user=_CHPF-kAAAAJ&hl=en).  
 In *Proceedings of the 32nd Annual European Symposium on Algorithms* (ESA 2024), to appear, 2024. [arXiv:2401.09947](https://arxiv.org/abs/2401.09947).  
 Presented as an online talk invited by Prof. [Patrick Rebentrost](https://scholar.google.com/citations?user=XWHSBmUAAAAJ&hl=en) at the National University of Singapore in 2024.  
 Presented as an online talk invited by Prof. [Zhengfeng Ji](https://scholar.google.com/citations?user=2uXdu7AAAAAJ&hl=en) at Tsinghua University in 2024.
+1. **Quantum Büchi automata**.  
+<span style="color:blue">Ⓒ</span> Qisheng Wang and [Mingsheng Ying](https://scholar.google.com/citations?user=jjPif6cAAAAJ&hl=en).  
+*Theoretical Computer Science*, 1012: 114740, 2024. [doi:10.1016/j.tcs.2024.114740](https://doi.org/10.1016/j.tcs.2024.114740). [arXiv:1804.08982](https://arxiv.org/abs/1804.08982).
 1. **New quantum algorithms for computing quantum entropies and distances**.  
 <span style="color:blue">Ⓒ</span> Qisheng Wang, [Ji Guan](https://scholar.google.com/citations?user=muIp5UIAAAAJ&hl=en), [Junyi Liu](https://scholar.google.com/citations?user=jJ0y2JEAAAAJ&hl=en), [Zhicheng Zhang](https://scholar.google.com/citations?user=_CHPF-kAAAAJ&hl=en), and [Mingsheng Ying](https://scholar.google.com/citations?user=jjPif6cAAAAJ&hl=en).  
 *IEEE Transactions on Information Theory*, 70(8): 5653-5680, 2024. [doi:10.1109/TIT.2024.3399014](https://doi.org/10.1109/TIT.2024.3399014). [arXiv:2203.13522](https://arxiv.org/abs/2203.13522).  
