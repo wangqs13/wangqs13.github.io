@@ -26,6 +26,7 @@ redirect_from:
 * [*IEEE Transactions on Information Theory*](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=18)
 * [*IEEE Transactions on Computers*](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=12)
 * [*Algorithmica*](https://www.springer.com/journal/453)
+* [*Quantum*](https://quantum-journal.org/)
 * [*Quantum Information Processing*](https://link.springer.com/journal/11128)
 * [*SIAM Journal on Control and Optimization*](https://www.siam.org/publications/journals/siam-journal-on-control-and-optimization-sicon)
 * [*Acta Informatica*](https://www.springer.com/journal/236)
