@@ -19,6 +19,7 @@ I received my B.Sc. degree and Ph.D. degree from the [Department of Computer Sci
 
 ## News
 
+* 2024/08/06: Our paper "Optimal Trace Distance and Fidelity Estimations for Pure Quantum States" was accepted by *IEEE Transactions on Information Theory*.
 * 2024/07/17: Our paper "[Quantum Büchi Automata](https://arxiv.org/abs/1804.08982)" was accepted by *Theoretical Computer Science*.
 * 2024/06/23: Our paper "[Time-Efficient Quantum Entropy Estimator via Samplizer](https://arxiv.org/abs/2401.09947)" was accepted by the 32nd Annual European Symposium on Algorithms (ESA 2024).
 * 2024/06/04: Our paper "[Tight Quantum Depth Lower Bound for Solving Systems of Linear Equations](https://arxiv.org/abs/2407.06012)" was accepted by *Physical Review A*.
