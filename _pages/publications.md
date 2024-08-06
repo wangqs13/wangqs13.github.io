@@ -8,6 +8,9 @@ author_profile: true
 <span style="color:green">Ⓐ</span> — in alphabetical order. \
 <span style="color:blue">Ⓒ</span> — by contribution. 
 
+1. **Optimal trace distance and fidelity estimations for pure quantum states**.  
+Qisheng Wang.  
+*IEEE Transactions on Information Theory*, to appear, 2024. 
 1. **Time-efficient quantum entropy estimator via samplizer**.  
 <span style="color:blue">Ⓒ</span> Qisheng Wang and [Zhicheng Zhang](https://scholar.google.com/citations?user=_CHPF-kAAAAJ&hl=en).  
 In *Proceedings of the 32nd Annual European Symposium on Algorithms* (ESA 2024), to appear, 2024. [arXiv:2401.09947](https://arxiv.org/abs/2401.09947).  
