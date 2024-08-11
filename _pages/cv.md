@@ -18,7 +18,7 @@ redirect_from:
 
 ## Program Committee Member
 
-* [*IEEE International Conference on Quantum Computing and Engineering 2024 (QCE)*](https://qce.quantum.ieee.org/2024/), Québec, Canada, 2024.
+* [*IEEE International Conference on Quantum Computing and Engineering 2024 (QCE)*](https://qce.quantum.ieee.org/2024/committees/program-committee/), Québec, Canada, 2024.
 * [*23rd Asian Quantum Information Science Conference (AQIS)*](http://aqis-conf.org/2023/committees/), Seoul, Korea, 2023.
 
 ## Journal Review
