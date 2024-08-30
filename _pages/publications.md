@@ -29,7 +29,7 @@ Presented as an invited talk, merged with [arXiv:2103.09076](https://arxiv.org/a
 1. **Succinct quantum testers for closeness and $k$-wise uniformity of probability distributions**.  
 <span style="color:blue">Ⓒ</span> Jingquan Luo, Qisheng Wang, and [Lvzhou Li](https://scholar.google.com/citations?user=a07s0UwAAAAJ&hl=en).  
 *IEEE Transactions on Information Theory*, 70(7): 5092-5103, 2024. [doi:10.1109/TIT.2024.3393756](https://doi.org/10.1109/TIT.2024.3393756). [arXiv:2304.12916](https://arxiv.org/abs/2304.12916).  
-Presented as a poster at [the 2nd CCF Quantum Computation Conference and China Quantum Computation Industry Summit (第二届CCF量子计算大会暨中国量子计算产业峰会, CQCC 2023)](https://ccf.org.cn/cqcc2023).
+Presented (by Jingquan Luo) as a poster at [the 2nd CCF Quantum Computation Conference and China Quantum Computation Industry Summit (第二届CCF量子计算大会暨中国量子计算产业峰会, CQCC 2023)](https://ccf.org.cn/cqcc2023).
 1. **Fast quantum algorithms for trace distance estimation**.  
 <span style="color:blue">Ⓒ</span> Qisheng Wang and [Zhicheng Zhang](https://scholar.google.com/citations?user=_CHPF-kAAAAJ&hl=en).  
 *IEEE Transactions on Information Theory*, 70(4): 2720-2733, 2024. [doi:10.1109/TIT.2023.3321121](https://doi.org/10.1109/TIT.2023.3321121). [arXiv:2301.06783](https://arxiv.org/abs/2301.06783).  
@@ -48,7 +48,7 @@ Presented as a [poster](https://neurips.cc/virtual/2023/poster/72771) at [the 37
 1. **Unitarity estimation for quantum channels**.  
 <span style="color:blue">Ⓒ</span> [Kean Chen](https://scholar.google.com/citations?user=Ncvskw4AAAAJ&hl=en), Qisheng Wang, Peixun Long, and [Mingsheng Ying](https://scholar.google.com/citations?user=jjPif6cAAAAJ&hl=en).  
 *IEEE Transactions on Information Theory*, 69(8): 5116-5134, 2023. [doi:10.1109/TIT.2023.3263645](https://doi.org/10.1109/TIT.2023.3263645). [arXiv:2212.09319](https://arxiv.org/abs/2212.09319).  
-Presented as a [poster](http://www.is.cas.cn/ztzl2016/2023xsnh/2023hbzs/) at [the 2023 Academic Annual Conference of the Institute of Software, Chinese Academy of Sciences (2023年中国科学院软件研究所学术年会)](http://www.is.cas.cn/ztzl2016/rjsxsnh/2023xsnh/).
+Presented (by [Kean Chen](https://scholar.google.com/citations?user=Ncvskw4AAAAJ&hl=en)) as a [poster](http://www.is.cas.cn/ztzl2016/2023xsnh/2023hbzs/) at [the 2023 Academic Annual Conference of the Institute of Software, Chinese Academy of Sciences (2023年中国科学院软件研究所学术年会)](http://www.is.cas.cn/ztzl2016/rjsxsnh/2023xsnh/).
 1. **Quantum random access stored-program machines**.  
 <span style="color:blue">Ⓒ</span> Qisheng Wang and [Mingsheng Ying](https://scholar.google.com/citations?user=jjPif6cAAAAJ&hl=en).  
 *Journal of Computer and System Sciences*, 131: 13-63, 2023. [doi:10.1016/j.jcss.2022.08.002](https://doi.org/10.1016/j.jcss.2022.08.002). [arXiv:2003.03514](https://arxiv.org/abs/2003.03514).
@@ -71,7 +71,8 @@ Presented as an invited talk, merged with [arXiv:2203.13522](https://arxiv.org/a
 
 1. **Quantum algorithms for matrix geometric means**.  
 <span style="color:green">Ⓐ</span> [Nana Liu](http://nanaliu.weebly.com/), Qisheng Wang, [Mark M. Wilde](https://markwilde.com/), and [Zhicheng Zhang](https://scholar.google.com/citations?user=_CHPF-kAAAAJ&hl=en).  
-[arXiv:2405.00673](https://arxiv.org/abs/2405.00673), 2024.
+[arXiv:2405.00673](https://arxiv.org/abs/2405.00673), 2024.  
+Presented (by [Mark M. Wilde](https://markwilde.com/)) as a [talk](https://quantum.iitm.ac.in/qcmc24/accepted-talks-and-posters/) at [the 16th International Conference on Quantum Communication, Measurement and Computing (QCMC 2024)](https://quantum.iitm.ac.in/qcmc24/).
 1. **Local test for unitarily invariant properties of bipartite quantum states**.  
 <span style="color:green">Ⓐ</span> [Kean Chen](https://scholar.google.com/citations?user=Ncvskw4AAAAJ&hl=en), Qisheng Wang, and [Zhicheng Zhang](https://scholar.google.com/citations?user=_CHPF-kAAAAJ&hl=en).  
 [arXiv:2404.04599](https://arxiv.org/abs/2404.04599), 2024.  
@@ -79,8 +80,8 @@ Appears as [Monthly News for April 2024](https://ptreview.sublinear.info/2024/05
 1. **Space-bounded quantum state testing via space-efficient quantum singular value transformation**.  
 <span style="color:green">Ⓐ</span> [François Le Gall](http://www.francoislegall.com/), [Yupan Liu](https://yupanliu.info/), and Qisheng Wang.  
 [arXiv:2308.05079](https://arxiv.org/abs/2308.05079), 2023.  
-Presented as a poster at the 2023 Annual Q-LEAP Quantum AI Meeting (令和5年度Q-LEAP量子AI領域研究会) in 2024.  
-Presented as a [poster](https://qip2024.tw/site/mypage.aspx?pid=263&lang=en&sid=1522) at [the 27th Conference on Quantum Information Processing (QIP 2024)](https://qip2024.tw/site/page.aspx?pid=901&sid=1522&lang=en).  
+Presented (by [Yupan Liu](https://yupanliu.info/)) as a poster at the 2023 Annual Q-LEAP Quantum AI Meeting (令和5年度Q-LEAP量子AI領域研究会) in 2024.  
+Presented (with [Yupan Liu](https://yupanliu.info/)) as a [poster](https://qip2024.tw/site/mypage.aspx?pid=263&lang=en&sid=1522) at [the 27th Conference on Quantum Information Processing (QIP 2024)](https://qip2024.tw/site/page.aspx?pid=901&sid=1522&lang=en).  
 Appears as [Monthly News for August 2023](https://ptreview.sublinear.info/2023/09/news-for-august-2023/) in [Property Testing Review](https://ptreview.sublinear.info/).
 1. **Quantum lower bounds by sample-to-query lifting**.  
 <span style="color:blue">Ⓒ</span> Qisheng Wang and [Zhicheng Zhang](https://scholar.google.com/citations?user=_CHPF-kAAAAJ&hl=en).  
