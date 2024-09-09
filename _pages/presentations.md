@@ -5,7 +5,7 @@ permalink: /presentations/
 author_profile: true
 ---
 
-* 2024/09/04: **Time-Efficient Quantum Entropy Estimator via Samplizer** (based on [arXiv:2401.09947](https://arxiv.org/abs/2401.09947)) as talk at [the 32nd Annual European Symposium on Algorithms (ESA 2024)](https://algo-conference.org/2024/esa/).
+* 2024/09/04: **Time-Efficient Quantum Entropy Estimator via Samplizer** (based on [arXiv:2401.09947](https://arxiv.org/abs/2401.09947)) as a contributed talk at [the 32nd Annual European Symposium on Algorithms (ESA 2024)](https://algo-conference.org/2024/esa/).
 * 2024/05/08: **Time-Efficient Quantum Entropy Estimator via Samplizer** (based on [arXiv:2401.09947](https://arxiv.org/abs/2401.09947)) as an online talk invited by Prof. [Patrick Rebentrost](https://scholar.google.com/citations?user=XWHSBmUAAAAJ&hl=en) at the Centre for Quantum Technologies, National University of Singapore, Singapore. 
 * 2024/04/17: **Time-Efficient Quantum Entropy Estimator via Samplizer** (based on [arXiv:2401.09947](https://arxiv.org/abs/2401.09947)) as an online talk invited by Prof. [Zhengfeng Ji](https://scholar.google.com/citations?user=2uXdu7AAAAAJ&hl=en) at the Department of Computer Science and Technology, Tsinghua University, Beijing, China. 
 * 2024/03/11: **Fast Quantum Algorithms for Trace Distance Estimation** (based on [arXiv:2301.06783](https://arxiv.org/abs/2301.06783)) as an invited talk at the 2023 Annual Q-LEAP Quantum AI Meeting (令和5年度Q-LEAP量子AI領域研究会), Osaka, Japan.
