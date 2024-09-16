@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Since September 2022, I have been a designated assistant professor (特任助教, see the official [profile](https://profs.provost.nagoya-u.ac.jp/html/100012550_en.html)) at the [Graduate School of Mathematics](https://www.math.nagoya-u.ac.jp/) (大学院多元数理科学研究科), [Nagoya University](https://en.nagoya-u.ac.jp/) (名古屋大学), Japan. I am currently part of the [QLEAP theory group](https://www.math.nagoya-u.ac.jp/~legall/index.html) led by Prof. [François Le Gall](http://www.francoislegall.com/).
+Since September 2024, I have been a senior researcher at the [School of Informatics](https://informatics.ed.ac.uk/), [University of Edinburgh](https://www.ed.ac.uk/), United Kingdom, and in the [Quantum Software Lab](https://www.quantumsoftwarelab.com/) led by Prof. [Elham Kashefi](https://scholar.google.com/citations?user=oXpgxTIAAAAJ&hl=en).
+From September 2022 to September 2024, I was a [designated assistant professor](https://profs.provost.nagoya-u.ac.jp/html/100012550_en.html) (特任助教) at the [Graduate School of Mathematics](https://www.math.nagoya-u.ac.jp/) (大学院多元数理科学研究科), [Nagoya University](https://en.nagoya-u.ac.jp/) (名古屋大学), Japan, and was in the [QLEAP theory group](https://www.math.nagoya-u.ac.jp/~legall/index.html) led by Prof. [François Le Gall](http://www.francoislegall.com/).
 
 I received my B.Sc. degree and Ph.D. degree from the [Department of Computer Science and Technology](https://www.cs.tsinghua.edu.cn/csen/) (计算机科学与技术系), [Tsinghua University](https://www.tsinghua.edu.cn/en/) (清华大学), Beijing, China, in 2017 and 2022, respectively, under the supervision of Prof. [Mingsheng Ying](https://www.cs.tsinghua.edu.cn/csen/info/1186/4020.htm) (应明生). 
 
