@@ -5,6 +5,7 @@ permalink: /presentations/
 author_profile: true
 ---
 
+* 2024/09/19: **Time-Efficient Quantum Entropy Estimator via Samplizer** (based on [arXiv:2401.09947](https://arxiv.org/abs/2401.09947)) as an [invited talk (20min)](https://youtu.be/qkQKNsZk4LQ?t=2805) at [Shenzhen–Nagoya Workshop on Quantum Science 2024](https://www.math.nagoya-u.ac.jp/~yanagida/Shenzhen-Nagoya2024.html).
 * 2024/09/04: **Time-Efficient Quantum Entropy Estimator via Samplizer** (based on [arXiv:2401.09947](https://arxiv.org/abs/2401.09947)) as a contributed talk at [the 32nd Annual European Symposium on Algorithms (ESA 2024)](https://algo-conference.org/2024/esa/).
 * 2024/05/08: **Time-Efficient Quantum Entropy Estimator via Samplizer** (based on [arXiv:2401.09947](https://arxiv.org/abs/2401.09947)) as an online talk invited by Prof. [Patrick Rebentrost](https://scholar.google.com/citations?user=XWHSBmUAAAAJ&hl=en) at the Centre for Quantum Technologies, National University of Singapore, Singapore. 
 * 2024/04/17: **Time-Efficient Quantum Entropy Estimator via Samplizer** (based on [arXiv:2401.09947](https://arxiv.org/abs/2401.09947)) as an online talk invited by Prof. [Zhengfeng Ji](https://scholar.google.com/citations?user=2uXdu7AAAAAJ&hl=en) at the Department of Computer Science and Technology, Tsinghua University, Beijing, China. 
