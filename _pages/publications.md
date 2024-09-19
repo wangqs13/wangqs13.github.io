@@ -14,7 +14,7 @@ Qisheng Wang.
 1. **Time-efficient quantum entropy estimator via samplizer**.  
 <span style="color:blue">Ⓒ</span> Qisheng Wang and [Zhicheng Zhang](https://scholar.google.com/citations?user=_CHPF-kAAAAJ&hl=en).  
 In *Proceedings of the 32nd Annual European Symposium on Algorithms* (ESA 2024), to appear, 2024. [arXiv:2401.09947](https://arxiv.org/abs/2401.09947).  
-Presented as an invited talk at [Shenzhen–Nagoya Workshop on Quantum Science 2024](https://www.math.nagoya-u.ac.jp/~yanagida/Shenzhen-Nagoya2024.html).  
+Presented as an invited [talk (20min)](https://youtu.be/qkQKNsZk4LQ?t=2805) at [Shenzhen–Nagoya Workshop on Quantum Science 2024](https://www.math.nagoya-u.ac.jp/~yanagida/Shenzhen-Nagoya2024.html).  
 Presented as a contributed talk at [the 32nd Annual European Symposium on Algorithms (ESA 2024)](https://algo-conference.org/2024/esa/).  
 Presented as an online talk invited by Prof. [Patrick Rebentrost](https://scholar.google.com/citations?user=XWHSBmUAAAAJ&hl=en) at the National University of Singapore in 2024.  
 Presented as an online talk invited by Prof. [Zhengfeng Ji](https://scholar.google.com/citations?user=2uXdu7AAAAAJ&hl=en) at Tsinghua University in 2024.
@@ -88,8 +88,8 @@ Appears as [Monthly News for August 2023](https://ptreview.sublinear.info/2023/0
 1. **Quantum lower bounds by sample-to-query lifting**.  
 <span style="color:blue">Ⓒ</span> Qisheng Wang and [Zhicheng Zhang](https://scholar.google.com/citations?user=_CHPF-kAAAAJ&hl=en).  
 [arXiv:2308.01794](https://arxiv.org/abs/2308.01794), 2023.  
-Presented as an online talk invited by Prof. [Zhengfeng Ji](https://scholar.google.com/citations?user=2uXdu7AAAAAJ&hl=en) at Tsinghua University in 2023.  
 Presented as a [poster](https://qip2024.tw/site/mypage.aspx?pid=263&lang=en&sid=1522) at [the 27th Conference on Quantum Information Processing (QIP 2024)](https://qip2024.tw/site/page.aspx?pid=901&sid=1522&lang=en).  
+Presented as an online talk invited by Prof. [Zhengfeng Ji](https://scholar.google.com/citations?user=2uXdu7AAAAAJ&hl=en) at Tsinghua University in 2023.  
 Presented as an invited [talk (20min)](https://youtu.be/RebEfLFH69I?t=3015) at [Shenzhen–Nagoya Workshop on Quantum Science 2023](https://shenzhen-nagoya.github.io/2023/).  
 Appears as [Monthly News for August 2023](https://ptreview.sublinear.info/2023/09/news-for-august-2023/) in [Property Testing Review](https://ptreview.sublinear.info/).
 1. **A note on quantum divide and conquer for minimal string rotation**.  
