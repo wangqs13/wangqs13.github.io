@@ -55,7 +55,7 @@ Presented (by [Kean Chen](https://scholar.google.com/citations?user=Ncvskw4AAAAJ
 <span style="color:blue">Ⓒ</span> Qisheng Wang and [Mingsheng Ying](https://scholar.google.com/citations?user=jjPif6cAAAAJ&hl=en).  
 *Journal of Computer and System Sciences*, 131: 13-63, 2023. [doi:10.1016/j.jcss.2022.08.002](https://doi.org/10.1016/j.jcss.2022.08.002). [arXiv:2003.03514](https://arxiv.org/abs/2003.03514).
 1. **Quantum algorithm for fidelity estimation**.  
-<span style="color:blue">Ⓒ</span> Qisheng Wang, [Zhicheng Zhang](https://scholar.google.com/citations?user=_CHPF-kAAAAJ&hl=en), [Kean Chen](https://scholar.google.com/citations?user=Ncvskw4AAAAJ&hl=en), [Ji Guan](https://scholar.google.com/citations?user=muIp5UIAAAAJ&hl=en), Wang Fang, [Junyi Liu](https://scholar.google.com/citations?user=jJ0y2JEAAAAJ&hl=en), and [Mingsheng Ying](https://scholar.google.com/citations?user=jjPif6cAAAAJ&hl=en).  
+<span style="color:blue">Ⓒ</span> Qisheng Wang, [Zhicheng Zhang](https://scholar.google.com/citations?user=_CHPF-kAAAAJ&hl=en), [Kean Chen](https://scholar.google.com/citations?user=Ncvskw4AAAAJ&hl=en), [Ji Guan](https://scholar.google.com/citations?user=muIp5UIAAAAJ&hl=en), [Wang Fang](https://scholar.google.com/citations?user=4D3FWQIAAAAJ&hl=en), [Junyi Liu](https://scholar.google.com/citations?user=jJ0y2JEAAAAJ&hl=en), and [Mingsheng Ying](https://scholar.google.com/citations?user=jjPif6cAAAAJ&hl=en).  
 *IEEE Transactions on Information Theory*, 69(1): 273-282, 2023. [doi:10.1109/TIT.2022.3203985](https://doi.org/10.1109/TIT.2022.3203985). [arXiv:2103.09076](https://arxiv.org/abs/2103.09076).  
 Presented as an invited talk, merged with [arXiv:2203.13522](https://arxiv.org/abs/2203.13522), at [the 35th Q-LEAP Quantum AI Seminar (第35回Q-LEAP量子AIセミナー)](https://qleap-qai.jp/seminar/post-2176822.html) in 2022.
 1. **Equivalence checking of sequential quantum circuits**.  
@@ -84,6 +84,7 @@ Appears as [Monthly News for April 2024](https://ptreview.sublinear.info/2024/05
 [arXiv:2308.05079](https://arxiv.org/abs/2308.05079), 2023.  
 Presented (by [Yupan Liu](https://yupanliu.info/)) as a poster at the 2023 Annual Q-LEAP Quantum AI Meeting (令和5年度Q-LEAP量子AI領域研究会) in 2024.  
 Presented (with [Yupan Liu](https://yupanliu.info/)) as a [poster](https://qip2024.tw/site/mypage.aspx?pid=263&lang=en&sid=1522) at [the 27th Conference on Quantum Information Processing (QIP 2024)](https://qip2024.tw/site/page.aspx?pid=901&sid=1522&lang=en).  
+Presented (by [Yupan Liu](https://yupanliu.info/)) as an [invited online talk](https://www.youtube.com/watch?v=H-AHKy00-co) at the Research Center for Quantum Software (QuSoft) in 2023.  
 Appears as [Monthly News for August 2023](https://ptreview.sublinear.info/2023/09/news-for-august-2023/) in [Property Testing Review](https://ptreview.sublinear.info/).
 1. **Quantum lower bounds by sample-to-query lifting**.  
 <span style="color:blue">Ⓒ</span> Qisheng Wang and [Zhicheng Zhang](https://scholar.google.com/citations?user=_CHPF-kAAAAJ&hl=en).  
@@ -101,7 +102,7 @@ Presented as a [poster](https://ken.ieice.org/ken/paper/20221208DCpl/eng/) at [t
 [arXiv:2210.02292](https://arxiv.org/abs/2210.02292), 2022.  
 Implemented on [Library Checker](https://judge.yosupo.jp/problem/palindromes_in_deque).
 1. **VeriQBench: a benchmark for multiple types of quantum circuits**.  
-<span style="color:green">Ⓐ</span> [Kean Chen](https://scholar.google.com/citations?user=Ncvskw4AAAAJ&hl=en), Wang Fang, [Ji Guan](https://scholar.google.com/citations?user=muIp5UIAAAAJ&hl=en), [Xin Hong](https://scholar.google.com/citations?user=Vm4a-uMAAAAJ&hl=en), Mingyu Huang, [Junyi Liu](https://scholar.google.com/citations?user=jJ0y2JEAAAAJ&hl=en), Qisheng Wang, and [Mingsheng Ying](https://scholar.google.com/citations?user=jjPif6cAAAAJ&hl=en).  
+<span style="color:green">Ⓐ</span> [Kean Chen](https://scholar.google.com/citations?user=Ncvskw4AAAAJ&hl=en), [Wang Fang](https://scholar.google.com/citations?user=4D3FWQIAAAAJ&hl=en), [Ji Guan](https://scholar.google.com/citations?user=muIp5UIAAAAJ&hl=en), [Xin Hong](https://scholar.google.com/citations?user=Vm4a-uMAAAAJ&hl=en), Mingyu Huang, [Junyi Liu](https://scholar.google.com/citations?user=jJ0y2JEAAAAJ&hl=en), Qisheng Wang, and [Mingsheng Ying](https://scholar.google.com/citations?user=jjPif6cAAAAJ&hl=en).  
 [arXiv:2206.10880](https://arxiv.org/abs/2206.10880), 2022.
 1. **Improving positive unlabeled learning: practical AUL estimation and new training method for extremely imbalanced data sets**.  
 <span style="color:blue">Ⓒ</span> Liwei Jiang, [Dan Li](http://nasp.cs.tsinghua.edu.cn/lidan.html), Qisheng Wang, [Shuai Wang](https://wangshuaizs.github.io/), and Songtao Wang.  
