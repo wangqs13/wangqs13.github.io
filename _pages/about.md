@@ -20,6 +20,7 @@ I received my B.Sc. degree and Ph.D. degree from the [Department of Computer Sci
 
 ## News
 
+* 2024/10/04: Our paper "On Estimating the Trace of Quantum State Powers" was accepted by the 36th ACM-SIAM Symposium on Discrete Algorithms (SODA 2025).
 * 2024/08/06: Our paper "[Optimal Trace Distance and Fidelity Estimations for Pure Quantum States](https://arxiv.org/abs/2408.16655)" was accepted by *IEEE Transactions on Information Theory*.
 * 2024/07/17: Our paper "[Quantum Büchi Automata](https://arxiv.org/abs/1804.08982)" was accepted by *Theoretical Computer Science*.
 * 2024/06/23: Our paper "[Time-Efficient Quantum Entropy Estimator via Samplizer](https://arxiv.org/abs/2401.09947)" was accepted by the 32nd Annual European Symposium on Algorithms (ESA 2024).
