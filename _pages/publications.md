@@ -8,6 +8,9 @@ author_profile: true
 <span style="color:green">Ⓐ</span> — in alphabetical order. \
 <span style="color:blue">Ⓒ</span> — by contribution. 
 
+1. **On Estimating the trace of quantum state powers**.  
+<span style="color:green">Ⓐ</span> [Yupan Liu](https://scholar.google.com/citations?user=KJrYKwMAAAAJ&hl=en) and Qisheng Wang.  
+In *Proceedings of the 2025 Annual ACM-SIAM Symposium on Discrete Algorithms* (SODA 2025), to appear, 2025.
 1. **Optimal trace distance and fidelity estimations for pure quantum states**.  
 Qisheng Wang.  
 *IEEE Transactions on Information Theory*, to appear, 2024. [doi:10.1109/TIT.2024.3447915](https://doi.org/10.1109/TIT.2024.3447915). [arXiv:2408.16655](https://arxiv.org/abs/2408.16655).
@@ -37,7 +40,7 @@ Presented (by Jingquan Luo) as a poster at [the 2nd CCF Quantum Computation Conf
 *IEEE Transactions on Information Theory*, 70(4): 2720-2733, 2024. [doi:10.1109/TIT.2023.3321121](https://doi.org/10.1109/TIT.2023.3321121). [arXiv:2301.06783](https://arxiv.org/abs/2301.06783).  
 Presented as an invited talk at the 2023 Annual Q-LEAP Quantum AI Meeting (令和5年度Q-LEAP量子AI領域研究会) in 2024.
 1. **Logarithmic-regret quantum learning algorithms for zero-sum games**.  
-<span style="color:green">Ⓐ</span> [Minbo Gao](https://scholar.google.com/citations?user=b8i9J_QAAAAJ&hl=en), [Zhengfeng Ji](https://scholar.google.com/citations?user=2uXdu7AAAAAJ&hl=en), [Tongyang Li](https://www.tongyangli.com/), and Qisheng Wang.  
+<span style="color:green">Ⓐ</span> [Minbo Gao](https://scholar.google.com/citations?user=b8i9J_QAAAAJ&hl=en), [Zhengfeng Ji](https://scholar.google.com/citations?user=2uXdu7AAAAAJ&hl=en), [Tongyang Li](https://scholar.google.com/citations?user=ny0ZgiQAAAAJ&hl=en), and Qisheng Wang.  
 In *Advances in Neural Information Processing Systems 36* (NeurIPS 2023), pp. 31177-31203, 2024. URL:[https://papers.nips.cc/paper_files/paper/2023/hash/637df18481a6aa74238bd2cafff94cb9-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2023/hash/637df18481a6aa74238bd2cafff94cb9-Abstract-Conference.html). [arXiv:2304.14197](https://arxiv.org/abs/2304.14197).  
 Presented as a [poster](https://qip2024.tw/site/mypage.aspx?pid=263&lang=en&sid=1522) at [the 27th Conference on Quantum Information Processing (QIP 2024)](https://qip2024.tw/site/page.aspx?pid=901&sid=1522&lang=en).  
 Presented as a [poster](https://neurips.cc/virtual/2023/poster/72771) at [the 37th Annual Conference on Neural Information Processing Systems (NeurIPS 2023)](https://neurips.cc/Conferences/2023).
@@ -72,19 +75,19 @@ Presented as an invited talk, merged with [arXiv:2203.13522](https://arxiv.org/a
 ## Preprints
 
 1. **Quantum algorithms for matrix geometric means**.  
-<span style="color:green">Ⓐ</span> [Nana Liu](http://nanaliu.weebly.com/), Qisheng Wang, [Mark M. Wilde](https://markwilde.com/), and [Zhicheng Zhang](https://scholar.google.com/citations?user=_CHPF-kAAAAJ&hl=en).  
+<span style="color:green">Ⓐ</span> [Nana Liu](https://scholar.google.com/citations?user=c1Ha6TwAAAAJ&hl=en), Qisheng Wang, [Mark M. Wilde](https://scholar.google.com/citations?user=vANLRiYAAAAJ&hl=en), and [Zhicheng Zhang](https://scholar.google.com/citations?user=_CHPF-kAAAAJ&hl=en).  
 [arXiv:2405.00673](https://arxiv.org/abs/2405.00673), 2024.  
-Presented (by [Mark M. Wilde](https://markwilde.com/)) as a [talk](https://quantum.iitm.ac.in/qcmc24/accepted-talks-and-posters/) at [the 16th International Conference on Quantum Communication, Measurement and Computing (QCMC 2024)](https://quantum.iitm.ac.in/qcmc24/).
+Presented (by [Mark M. Wilde](https://scholar.google.com/citations?user=vANLRiYAAAAJ&hl=en)) as a [talk](https://quantum.iitm.ac.in/qcmc24/accepted-talks-and-posters/) at [the 16th International Conference on Quantum Communication, Measurement and Computing (QCMC 2024)](https://quantum.iitm.ac.in/qcmc24/).
 1. **Local test for unitarily invariant properties of bipartite quantum states**.  
 <span style="color:green">Ⓐ</span> [Kean Chen](https://scholar.google.com/citations?user=Ncvskw4AAAAJ&hl=en), Qisheng Wang, and [Zhicheng Zhang](https://scholar.google.com/citations?user=_CHPF-kAAAAJ&hl=en).  
 [arXiv:2404.04599](https://arxiv.org/abs/2404.04599), 2024.  
 Appears as [Monthly News for April 2024](https://ptreview.sublinear.info/2024/05/news-for-april-2024/) in [Property Testing Review](https://ptreview.sublinear.info/).
 1. **Space-bounded quantum state testing via space-efficient quantum singular value transformation**.  
-<span style="color:green">Ⓐ</span> [François Le Gall](http://www.francoislegall.com/), [Yupan Liu](https://yupanliu.info/), and Qisheng Wang.  
+<span style="color:green">Ⓐ</span> [François Le Gall](https://scholar.google.com/citations?user=tpCh6MIAAAAJ&hl=en), [Yupan Liu](https://scholar.google.com/citations?user=KJrYKwMAAAAJ&hl=en), and Qisheng Wang.  
 [arXiv:2308.05079](https://arxiv.org/abs/2308.05079), 2023.  
-Presented (by [Yupan Liu](https://yupanliu.info/)) as a poster at the 2023 Annual Q-LEAP Quantum AI Meeting (令和5年度Q-LEAP量子AI領域研究会) in 2024.  
-Presented (with [Yupan Liu](https://yupanliu.info/)) as a [poster](https://qip2024.tw/site/mypage.aspx?pid=263&lang=en&sid=1522) at [the 27th Conference on Quantum Information Processing (QIP 2024)](https://qip2024.tw/site/page.aspx?pid=901&sid=1522&lang=en).  
-Presented (by [Yupan Liu](https://yupanliu.info/)) as an [invited online talk](https://www.youtube.com/watch?v=H-AHKy00-co) at the Research Center for Quantum Software (QuSoft) in 2023.  
+Presented (by [Yupan Liu](https://scholar.google.com/citations?user=KJrYKwMAAAAJ&hl=en)) as a poster at the 2023 Annual Q-LEAP Quantum AI Meeting (令和5年度Q-LEAP量子AI領域研究会) in 2024.  
+Presented (with [Yupan Liu](https://scholar.google.com/citations?user=KJrYKwMAAAAJ&hl=en)) as a [poster](https://qip2024.tw/site/mypage.aspx?pid=263&lang=en&sid=1522) at [the 27th Conference on Quantum Information Processing (QIP 2024)](https://qip2024.tw/site/page.aspx?pid=901&sid=1522&lang=en).  
+Presented (by [Yupan Liu](https://scholar.google.com/citations?user=KJrYKwMAAAAJ&hl=en)) as an [invited online talk](https://www.youtube.com/watch?v=H-AHKy00-co) at the Research Center for Quantum Software (QuSoft) in 2023.  
 Appears as [Monthly News for August 2023](https://ptreview.sublinear.info/2023/09/news-for-august-2023/) in [Property Testing Review](https://ptreview.sublinear.info/).
 1. **Quantum lower bounds by sample-to-query lifting**.  
 <span style="color:blue">Ⓒ</span> Qisheng Wang and [Zhicheng Zhang](https://scholar.google.com/citations?user=_CHPF-kAAAAJ&hl=en).  
@@ -105,6 +108,6 @@ Implemented on [Library Checker](https://judge.yosupo.jp/problem/palindromes_in_
 <span style="color:green">Ⓐ</span> [Kean Chen](https://scholar.google.com/citations?user=Ncvskw4AAAAJ&hl=en), [Wang Fang](https://scholar.google.com/citations?user=4D3FWQIAAAAJ&hl=en), [Ji Guan](https://scholar.google.com/citations?user=muIp5UIAAAAJ&hl=en), [Xin Hong](https://scholar.google.com/citations?user=Vm4a-uMAAAAJ&hl=en), Mingyu Huang, [Junyi Liu](https://scholar.google.com/citations?user=jJ0y2JEAAAAJ&hl=en), Qisheng Wang, and [Mingsheng Ying](https://scholar.google.com/citations?user=jjPif6cAAAAJ&hl=en).  
 [arXiv:2206.10880](https://arxiv.org/abs/2206.10880), 2022.
 1. **Improving positive unlabeled learning: practical AUL estimation and new training method for extremely imbalanced data sets**.  
-<span style="color:blue">Ⓒ</span> Liwei Jiang, [Dan Li](http://nasp.cs.tsinghua.edu.cn/lidan.html), Qisheng Wang, [Shuai Wang](https://wangshuaizs.github.io/), and Songtao Wang.  
+<span style="color:blue">Ⓒ</span> Liwei Jiang, [Dan Li](https://scholar.google.com/citations?user=GFGN-ykAAAAJ&hl=en), Qisheng Wang, [Shuai Wang](https://scholar.google.com/citations?user=Yo0BTHMAAAAJ&hl=en), and Songtao Wang.  
 [arXiv:2004.09820](https://arxiv.org/abs/2004.09820), 2020.
 {: reversed="reversed"}
