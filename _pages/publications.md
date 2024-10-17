@@ -22,8 +22,8 @@ Qisheng Wang.
 In *Proceedings of the 32nd Annual European Symposium on Algorithms* (ESA 2024), pp. 101:1-101:15, 2024. [doi:10.4230/LIPIcs.ESA.2024.101](https://doi.org/10.4230/LIPIcs.ESA.2024.101). [arXiv:2401.09947](https://arxiv.org/abs/2401.09947).  
 Presented as an invited [talk (20min)](https://youtu.be/qkQKNsZk4LQ?t=2805) at [Shenzhen–Nagoya Workshop on Quantum Science 2024](https://shenzhen-nagoya.github.io/2024/).  
 Presented as a contributed talk at [the 32nd Annual European Symposium on Algorithms (ESA 2024)](https://algo-conference.org/2024/esa/).  
-Presented as an online talk invited by Prof. [Patrick Rebentrost](https://scholar.google.com/citations?user=XWHSBmUAAAAJ&hl=en) at the National University of Singapore in 2024.  
-Presented as an online talk invited by Prof. [Zhengfeng Ji](https://scholar.google.com/citations?user=2uXdu7AAAAAJ&hl=en) at Tsinghua University in 2024.
+Presented as an online talk invited by [Patrick Rebentrost](https://scholar.google.com/citations?user=XWHSBmUAAAAJ&hl=en) at the National University of Singapore in 2024.  
+Presented as an online talk invited by [Zhengfeng Ji](https://scholar.google.com/citations?user=2uXdu7AAAAAJ&hl=en) at Tsinghua University in 2024.
 1. **New quantum algorithms for computing quantum entropies and distances**.  
 <span style="color:blue">Ⓒ</span> Qisheng Wang, [Ji Guan](https://scholar.google.com/citations?user=muIp5UIAAAAJ&hl=en), [Junyi Liu](https://scholar.google.com/citations?user=jJ0y2JEAAAAJ&hl=en), [Zhicheng Zhang](https://scholar.google.com/citations?user=_CHPF-kAAAAJ&hl=en), and [Mingsheng Ying](https://scholar.google.com/citations?user=jjPif6cAAAAJ&hl=en).  
 *IEEE Transactions on Information Theory*, 70(8): 5653-5680, 2024. [doi:10.1109/TIT.2024.3399014](https://doi.org/10.1109/TIT.2024.3399014). [arXiv:2203.13522](https://arxiv.org/abs/2203.13522).  
@@ -42,6 +42,7 @@ Presented as an invited talk at the 2023 Annual Q-LEAP Quantum AI Meeting (令�
 1. **Logarithmic-regret quantum learning algorithms for zero-sum games**.  
 <span style="color:green">Ⓐ</span> [Minbo Gao](https://scholar.google.com/citations?user=b8i9J_QAAAAJ&hl=en), [Zhengfeng Ji](https://scholar.google.com/citations?user=2uXdu7AAAAAJ&hl=en), [Tongyang Li](https://scholar.google.com/citations?user=ny0ZgiQAAAAJ&hl=en), and Qisheng Wang.  
 In *Advances in Neural Information Processing Systems 36* (NeurIPS 2023), pp. 31177-31203, 2024. URL:[https://papers.nips.cc/paper_files/paper/2023/hash/637df18481a6aa74238bd2cafff94cb9-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2023/hash/637df18481a6aa74238bd2cafff94cb9-Abstract-Conference.html). [arXiv:2304.14197](https://arxiv.org/abs/2304.14197).  
+Presented as a seminar talk at the QML/ALGO Group Meeting organized by [Mina Doosti](https://scholar.google.it/citations?user=Ll_7ZDgAAAAJ&hl=en) in the University of Edinburgh in 2024.  
 Presented as a [poster](https://qip2024.tw/site/mypage.aspx?pid=263&lang=en&sid=1522) at [the 27th Conference on Quantum Information Processing (QIP 2024)](https://qip2024.tw/site/page.aspx?pid=901&sid=1522&lang=en).  
 Presented as a [poster](https://neurips.cc/virtual/2023/poster/72771) at [the 37th Annual Conference on Neural Information Processing Systems (NeurIPS 2023)](https://neurips.cc/Conferences/2023).
 1. **Quantum algorithm for lexicographically minimal string rotation**.  
@@ -93,7 +94,7 @@ Appears as [Monthly News for August 2023](https://ptreview.sublinear.info/2023/0
 <span style="color:blue">Ⓒ</span> Qisheng Wang and [Zhicheng Zhang](https://scholar.google.com/citations?user=_CHPF-kAAAAJ&hl=en).  
 [arXiv:2308.01794](https://arxiv.org/abs/2308.01794), 2023.  
 Presented as a [poster](https://qip2024.tw/site/mypage.aspx?pid=263&lang=en&sid=1522) at [the 27th Conference on Quantum Information Processing (QIP 2024)](https://qip2024.tw/site/page.aspx?pid=901&sid=1522&lang=en).  
-Presented as an online talk invited by Prof. [Zhengfeng Ji](https://scholar.google.com/citations?user=2uXdu7AAAAAJ&hl=en) at Tsinghua University in 2023.  
+Presented as an online talk invited by [Zhengfeng Ji](https://scholar.google.com/citations?user=2uXdu7AAAAAJ&hl=en) at Tsinghua University in 2023.  
 Presented as an invited [talk (20min)](https://youtu.be/RebEfLFH69I?t=3015) at [Shenzhen–Nagoya Workshop on Quantum Science 2023](https://shenzhen-nagoya.github.io/2023/).  
 Appears as [Monthly News for August 2023](https://ptreview.sublinear.info/2023/09/news-for-august-2023/) in [Property Testing Review](https://ptreview.sublinear.info/).
 1. **A note on quantum divide and conquer for minimal string rotation**.  
