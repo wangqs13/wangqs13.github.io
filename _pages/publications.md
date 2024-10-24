@@ -13,7 +13,8 @@ author_profile: true
 In *Proceedings of the 2025 Annual ACM-SIAM Symposium on Discrete Algorithms* (SODA 2025), to appear, 2025. [arXiv:2410.13559](https://arxiv.org/abs/2410.13559).
 1. **Optimal trace distance and fidelity estimations for pure quantum states**.  
 Qisheng Wang.  
-*IEEE Transactions on Information Theory*, to appear, 2024. [doi:10.1109/TIT.2024.3447915](https://doi.org/10.1109/TIT.2024.3447915). [arXiv:2408.16655](https://arxiv.org/abs/2408.16655).
+*IEEE Transactions on Information Theory*, to appear, 2024. [doi:10.1109/TIT.2024.3447915](https://doi.org/10.1109/TIT.2024.3447915). [arXiv:2408.16655](https://arxiv.org/abs/2408.16655).  
+Presented as a seminar talk at the QSL Seminar organized by [Robert I. Booth](https://scholar.google.com/citations?user=YMsAJG8AAAAJ&hl=en) in the University of Edinburgh in 2024.
 1. **Quantum Büchi automata**.  
 <span style="color:blue">Ⓒ</span> Qisheng Wang and [Mingsheng Ying](https://scholar.google.com/citations?user=jjPif6cAAAAJ&hl=en).  
 *Theoretical Computer Science*, 1012: 114740, 2024. [doi:10.1016/j.tcs.2024.114740](https://doi.org/10.1016/j.tcs.2024.114740). [arXiv:1804.08982](https://arxiv.org/abs/1804.08982).
