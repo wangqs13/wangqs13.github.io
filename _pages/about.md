@@ -21,6 +21,7 @@ I received my B.Sc. degree and Ph.D. degree from the [Department of Computer Sci
 
 ## News
 
+* 2024/11/01: Our paper "[Space-Bounded Quantum Interactive Proof Systems](https://arxiv.org/abs/2410.23958)" was on arXiv.
 * 2024/10/29: Our paper "[Sample-Optimal Quantum Estimators for Pure-State Trace Distance and Fidelity via Samplizer](https://arxiv.org/abs/2410.21201)" was on arXiv. 
 * 2024/10/04: Our paper "[On Estimating the Trace of Quantum State Powers](https://arxiv.org/abs/2410.13559)" was accepted by the 36th ACM-SIAM Symposium on Discrete Algorithms (SODA 2025).
 * 2024/08/06: Our paper "[Optimal Trace Distance and Fidelity Estimations for Pure Quantum States](https://arxiv.org/abs/2408.16655)" was accepted by *IEEE Transactions on Information Theory*.
