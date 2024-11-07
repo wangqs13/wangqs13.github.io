@@ -76,6 +76,9 @@ Presented as an invited talk, merged with [arXiv:2203.13522](https://arxiv.org/a
 
 ## Preprints
 
+1. **Quantum algorithm for sparse online learning with truncated gradient descent**.  
+<span style="color:green">Ⓐ</span> [Debbie Lim](https://scholar.google.com/citations?user=4PSyMJkAAAAJ&hl=en), [Yixian Qiu](https://scholar.google.com/citations?user=sVqwmRYAAAAJ&hl=en), [Patrick Rebentrost](https://scholar.google.com/citations?user=XWHSBmUAAAAJ&hl=en), Qisheng Wang.  
+[arXiv:2411.03925](https://arxiv.org/abs/2411.03925), 2024.
 1. **Space-bounded quantum interactive proof systems**.  
 <span style="color:green">Ⓐ</span> [François Le Gall](https://scholar.google.com/citations?user=tpCh6MIAAAAJ&hl=en), [Yupan Liu](https://scholar.google.com/citations?user=KJrYKwMAAAAJ&hl=en), [Harumichi Nishimura](https://www.math.cm.is.nagoya-u.ac.jp/~hnishimura/e-index.html), and Qisheng Wang.  
 [arXiv:2410.23958](https://arxiv.org/abs/2410.23958), 2024.
