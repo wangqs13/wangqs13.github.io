@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Since September 2024, I have been a [senior researcher](https://www.research.ed.ac.uk/en/persons/qisheng-wang/publications/) at the [School of Informatics](https://informatics.ed.ac.uk/), [University of Edinburgh](https://www.ed.ac.uk/), United Kingdom, and in the [Quantum Software Lab](https://www.quantumsoftwarelab.com/) led by Prof. [Elham Kashefi](https://scholar.google.com/citations?user=oXpgxTIAAAAJ&hl=en).
+Since September 2024, I have been a [Senior Researcher](https://www.research.ed.ac.uk/en/persons/qisheng-wang/publications/) at the [School of Informatics](https://informatics.ed.ac.uk/), [University of Edinburgh](https://www.ed.ac.uk/), United Kingdom, and in the [Quantum Software Lab](https://www.quantumsoftwarelab.com/) led by Prof. [Elham Kashefi](https://scholar.google.com/citations?user=oXpgxTIAAAAJ&hl=en).
 
-From September 2022 to September 2024, I was a [designated assistant professor](https://profs.provost.nagoya-u.ac.jp/html/100012550_en.html) (特任助教) at the [Graduate School of Mathematics](https://www.math.nagoya-u.ac.jp/) (大学院多元数理科学研究科), [Nagoya University](https://en.nagoya-u.ac.jp/) (名古屋大学), Japan, and was in the [QLEAP theory group](https://www.math.nagoya-u.ac.jp/~legall/index.html) led by Prof. [François Le Gall](http://www.francoislegall.com/).
+From September 2022 to September 2024, I was a [Designated Assistant Professor](https://profs.provost.nagoya-u.ac.jp/html/100012550_en.html) (特任助教) at the [Graduate School of Mathematics](https://www.math.nagoya-u.ac.jp/) (大学院多元数理科学研究科), [Nagoya University](https://en.nagoya-u.ac.jp/) (名古屋大学), Japan, and was in the [QLEAP theory group](https://www.math.nagoya-u.ac.jp/~legall/index.html) led by Prof. [François Le Gall](http://www.francoislegall.com/).
 
 I received my B.Sc. degree and Ph.D. degree from the [Department of Computer Science and Technology](https://www.cs.tsinghua.edu.cn/csen/) (计算机科学与技术系), [Tsinghua University](https://www.tsinghua.edu.cn/en/) (清华大学), Beijing, China, in 2017 and 2022, respectively, under the supervision of Prof. [Mingsheng Ying](https://www.cs.tsinghua.edu.cn/csen/info/1186/4020.htm) (应明生). 
 
@@ -21,6 +21,7 @@ I received my B.Sc. degree and Ph.D. degree from the [Department of Computer Sci
 
 ## News
 
+* 2024/12/07: Our papers "[On Estimating the Trace of Quantum State Powers](https://arxiv.org/abs/2410.13559)" and "[Space-Bounded Quantum Interactive Proof Systems](https://arxiv.org/abs/2410.23958)" were accepted by the 28th Quantum Information Processing Conference (QIP 2025) as regular talks.
 * 2024/11/07: Our paper "[Quantum Algorithm for Sparse Online Learning with Truncated Gradient Descent](https://arxiv.org/abs/2411.03925)" was on arXiv. 
 * 2024/11/01: Our paper "[Space-Bounded Quantum Interactive Proof Systems](https://arxiv.org/abs/2410.23958)" was on arXiv.
 * 2024/10/29: Our paper "[Sample-Optimal Quantum Estimators for Pure-State Trace Distance and Fidelity via Samplizer](https://arxiv.org/abs/2410.21201)" was on arXiv. 
