@@ -27,6 +27,7 @@ redirect_from:
 * [*IEEE Transactions on Computers*](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=12)
 * [*Algorithmica*](https://www.springer.com/journal/453)
 * [*Quantum*](https://quantum-journal.org/)
+* [*Quantum Information and Computation*](https://www.rintonpress.com/journals/qic/)
 * [*Quantum Information Processing*](https://link.springer.com/journal/11128)
 * [*SIAM Journal on Control and Optimization*](https://www.siam.org/publications/journals/siam-journal-on-control-and-optimization-sicon)
 * [*Acta Informatica*](https://www.springer.com/journal/236)
@@ -34,15 +35,16 @@ redirect_from:
 
 ## Conference Review
 
+* [*28th Annual Quantum Information Processing Conference (QIP 2025)*](https://rsvp.duke.edu/event/qip2025/summary), New Orleans, United States, 2025.
 * [*15th ITU Kaleidoscope Academic Conference*](https://www.itu.int/en/ITU-T/academia/kaleidoscope/2024/Pages/default.aspx), New Delhi, India, 2024.
-* [*24th Asian Quantum Information Science Conference (AQIS)*](http://aqis-conf.org/2024/), Sapporo, Japan, 2024.
-* [*65th IEEE Symposium on Foundations of Computer Science (FOCS)*](https://focs.computer.org/2024/), Chicago, Illinois, USA, 2024.
-* [*19th Conference on the Theory of Quantum Computation, Communication, and Cryptography (TQC)*](https://tqc-conference.org/), Okinawa, Japan, 2024.
-* [*51st EATCS International Colloquium on Automata, Languages and Programming (ICALP)*](https://compose.ioc.ee/icalp2024/), Tallinn, Estonia, 2024.
-* [*Quantum Information Processing 2024 (QIP)*](https://qip2024.tw/site/page.aspx?pid=901&sid=1522&lang=en), Taipei, Taiwan, China, 2024.
-* [*ACM-SIAM Symposium on Discrete Algorithms 2024 (SODA)*](https://www.siam.org/conferences/cm/conference/soda24), Alexandria, Virginia, USA, 2024.
-* [*Quantum Information Processing 2023 (QIP)*](https://indico.cern.ch/event/1175020/), Ghent, Belgium, 2023.
-* [*13th International Conference on Algorithms and Complexity (CIAC)*](https://easyconferences.eu/ciac2023/), Larnaca, Cyprus, 2023.
-* [*ACM-SIAM Symposium on Discrete Algorithms 2022 (SODA)*](https://www.siam.org/conferences/cm/conference/soda22), virtual, 2022.
-* [*33rd International Conference on Computer-Aided Verification (CAV)*](http://i-cav.org/2021/), Los Angeles, California, USA, 2021.
-* [*8th International Conference on Principles of Security and Trust (POST)*](https://conf.researchr.org/track/etaps-2019/post-2019-papers), Prague, Czech, 2019.
+* [*24th Asian Quantum Information Science Conference (AQIS 2024)*](http://aqis-conf.org/2024/), Sapporo, Japan, 2024.
+* [*65th IEEE Symposium on Foundations of Computer Science (FOCS 2024)*](https://focs.computer.org/2024/), Chicago, Illinois, United States, 2024.
+* [*19th Conference on the Theory of Quantum Computation, Communication, and Cryptography (TQC 2024)*](https://tqc-conference.org/), Okinawa, Japan, 2024.
+* [*51st EATCS International Colloquium on Automata, Languages and Programming (ICALP 2024)*](https://compose.ioc.ee/icalp2024/), Tallinn, Estonia, 2024.
+* [*27th Conference on Quantum Information Processing (QIP 2024)*](https://qip2024.tw/site/page.aspx?pid=901&sid=1522&lang=en), Taipei, Taiwan, China, 2024.
+* [*ACM-SIAM Symposium on Discrete Algorithms 2024 (SODA 2024)*](https://www.siam.org/conferences/cm/conference/soda24), Alexandria, Virginia, United States, 2024.
+* [*26th Conference on Quantum Information Processing (QIP 2023)*](https://indico.cern.ch/event/1175020/), Ghent, Belgium, 2023.
+* [*13th International Conference on Algorithms and Complexity (CIAC 2023)*](https://easyconferences.eu/ciac2023/), Larnaca, Cyprus, 2023.
+* [*ACM-SIAM Symposium on Discrete Algorithms 2022 (SODA 2022)*](https://www.siam.org/conferences/cm/conference/soda22), virtual, 2022.
+* [*33rd International Conference on Computer-Aided Verification (CAV 2021)*](http://i-cav.org/2021/), Los Angeles, California, United States, 2021.
+* [*8th International Conference on Principles of Security and Trust (POST 2019)*](https://conf.researchr.org/track/etaps-2019/post-2019-papers), Prague, Czech, 2019.
