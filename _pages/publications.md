@@ -92,7 +92,8 @@ Presented as (part of) a research talk at the NQCC-QSL December Deep Dive Agenda
 1. **Quantum algorithms for matrix geometric means**.  
 <span style="color:green">Ⓐ</span> [Nana Liu](https://scholar.google.com/citations?user=c1Ha6TwAAAAJ&hl=en), Qisheng Wang, [Mark M. Wilde](https://scholar.google.com/citations?user=vANLRiYAAAAJ&hl=en), and [Zhicheng Zhang](https://scholar.google.com/citations?user=_CHPF-kAAAAJ&hl=en).  
 [arXiv:2405.00673](https://arxiv.org/abs/2405.00673), 2024.  
-Presented (by [Mark M. Wilde](https://scholar.google.com/citations?user=vANLRiYAAAAJ&hl=en)) as a [talk](https://quantum.iitm.ac.in/qcmc24/accepted-talks-and-posters/) at [the 16th International Conference on Quantum Communication, Measurement and Computing (QCMC 2024)](https://quantum.iitm.ac.in/qcmc24/).
+Presented (by [Nana Liu](https://scholar.google.com/citations?user=c1Ha6TwAAAAJ&hl=en)) as (part of) an invited [talk](https://youtu.be/MbbdzyyQbqw?t=1469) at [the 8th International Conference on Quantum Techniques in Machine Learning (QTML 2024)](https://qtml2024.org/).  
+Presented (by [Mark M. Wilde](https://scholar.google.com/citations?user=vANLRiYAAAAJ&hl=en)) as a contributed [talk](https://quantum.iitm.ac.in/qcmc24/accepted-talks-and-posters/) at [the 16th International Conference on Quantum Communication, Measurement and Computing (QCMC 2024)](https://quantum.iitm.ac.in/qcmc24/).
 1. **Local test for unitarily invariant properties of bipartite quantum states**.  
 <span style="color:green">Ⓐ</span> [Kean Chen](https://scholar.google.com/citations?user=Ncvskw4AAAAJ&hl=en), Qisheng Wang, and [Zhicheng Zhang](https://scholar.google.com/citations?user=_CHPF-kAAAAJ&hl=en).  
 [arXiv:2404.04599](https://arxiv.org/abs/2404.04599), 2024.  
