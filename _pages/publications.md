@@ -10,7 +10,8 @@ author_profile: true
 
 1. **On estimating the trace of quantum state powers**.  
 <span style="color:green">Ⓐ</span> [Yupan Liu](https://scholar.google.com/citations?user=KJrYKwMAAAAJ&hl=en) and Qisheng Wang.  
-In *Proceedings of the 2025 Annual ACM-SIAM Symposium on Discrete Algorithms* (SODA 2025), to appear, 2025. [arXiv:2410.13559](https://arxiv.org/abs/2410.13559).
+In *Proceedings of the 2025 Annual ACM-SIAM Symposium on Discrete Algorithms* (SODA 2025), to appear, 2025. [arXiv:2410.13559](https://arxiv.org/abs/2410.13559).  
+Presented as (part of) a research talk at the NQCC-QSL December Deep Dive Agenda in the University of Edinburgh in 2024.
 1. **Optimal trace distance and fidelity estimations for pure quantum states**.  
 Qisheng Wang.  
 *IEEE Transactions on Information Theory*, 70(12): 8791-8805, 2024. [doi:10.1109/TIT.2024.3447915](https://doi.org/10.1109/TIT.2024.3447915). [arXiv:2408.16655](https://arxiv.org/abs/2408.16655).  
@@ -78,13 +79,16 @@ Presented as an invited talk, merged with [arXiv:2203.13522](https://arxiv.org/a
 
 1. **Quantum algorithm for sparse online learning with truncated gradient descent**.  
 <span style="color:green">Ⓐ</span> [Debbie Lim](https://scholar.google.com/citations?user=4PSyMJkAAAAJ&hl=en), [Yixian Qiu](https://scholar.google.com/citations?user=sVqwmRYAAAAJ&hl=en), [Patrick Rebentrost](https://scholar.google.com/citations?user=XWHSBmUAAAAJ&hl=en), Qisheng Wang.  
-[arXiv:2411.03925](https://arxiv.org/abs/2411.03925), 2024.
+[arXiv:2411.03925](https://arxiv.org/abs/2411.03925), 2024.  
+Presented as (part of) a research talk at the NQCC-QSL December Deep Dive Agenda in the University of Edinburgh in 2024.
 1. **Space-bounded quantum interactive proof systems**.  
 <span style="color:green">Ⓐ</span> [François Le Gall](https://scholar.google.com/citations?user=tpCh6MIAAAAJ&hl=en), [Yupan Liu](https://scholar.google.com/citations?user=KJrYKwMAAAAJ&hl=en), [Harumichi Nishimura](https://www.math.cm.is.nagoya-u.ac.jp/~hnishimura/e-index.html), and Qisheng Wang.  
-[arXiv:2410.23958](https://arxiv.org/abs/2410.23958), 2024.
+[arXiv:2410.23958](https://arxiv.org/abs/2410.23958), 2024.  
+Presented as (part of) a research talk at the NQCC-QSL December Deep Dive Agenda in the University of Edinburgh in 2024.
 1. **Sample-optimal quantum estimators for pure-state trace distance and fidelity via samplizer**.  
 <span style="color:blue">Ⓒ</span> Qisheng Wang and [Zhicheng Zhang](https://scholar.google.com/citations?user=_CHPF-kAAAAJ&hl=en).  
-[arXiv:2410.21201](https://arxiv.org/abs/2410.21201), 2024.
+[arXiv:2410.21201](https://arxiv.org/abs/2410.21201), 2024.  
+Presented as (part of) a research talk at the NQCC-QSL December Deep Dive Agenda in the University of Edinburgh in 2024.
 1. **Quantum algorithms for matrix geometric means**.  
 <span style="color:green">Ⓐ</span> [Nana Liu](https://scholar.google.com/citations?user=c1Ha6TwAAAAJ&hl=en), Qisheng Wang, [Mark M. Wilde](https://scholar.google.com/citations?user=vANLRiYAAAAJ&hl=en), and [Zhicheng Zhang](https://scholar.google.com/citations?user=_CHPF-kAAAAJ&hl=en).  
 [arXiv:2405.00673](https://arxiv.org/abs/2405.00673), 2024.  
