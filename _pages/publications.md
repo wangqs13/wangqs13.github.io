@@ -77,6 +77,9 @@ Presented as an invited talk, merged with [arXiv:2203.13522](https://arxiv.org/a
 
 ## Preprints
 
+1. **Quantum approximate $k$-minimum finding**.  
+<span style="color:green">Ⓐ</span> [Minbo Gao](https://scholar.google.com/citations?user=b8i9J_QAAAAJ&hl=en), [Zhengfeng Ji](https://scholar.google.com/citations?user=2uXdu7AAAAAJ&hl=en), and Qisheng Wang.  
+[arXiv:2412.16586](https://arxiv.org/abs/2412.16586), 2024.
 1. **Quantum algorithm for sparse online learning with truncated gradient descent**.  
 <span style="color:green">Ⓐ</span> [Debbie Lim](https://scholar.google.com/citations?user=4PSyMJkAAAAJ&hl=en), [Yixian Qiu](https://scholar.google.com/citations?user=sVqwmRYAAAAJ&hl=en), [Patrick Rebentrost](https://scholar.google.com/citations?user=XWHSBmUAAAAJ&hl=en), Qisheng Wang.  
 [arXiv:2411.03925](https://arxiv.org/abs/2411.03925), 2024.  
