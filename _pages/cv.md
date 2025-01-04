@@ -23,18 +23,21 @@ redirect_from:
 
 ## Journal Review
 
-* [*IEEE Transactions on Information Theory*](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=18)
-* [*IEEE Transactions on Computers*](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=12)
+* [*Acta Informatica*](https://www.springer.com/journal/236)
 * [*Algorithmica*](https://www.springer.com/journal/453)
+* [*Entropy*](https://www.mdpi.com/journal/entropy)
+* [*Frontiers of Computer Science*](https://www.springer.com/journal/11704)
+* [*IEEE Transactions on Computers*](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=12)
+* [*IEEE Transactions on Information Theory*](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=18)
 * [*Quantum*](https://quantum-journal.org/)
 * [*Quantum Information and Computation*](https://www.rintonpress.com/journals/qic/)
 * [*Quantum Information Processing*](https://link.springer.com/journal/11128)
 * [*SIAM Journal on Control and Optimization*](https://www.siam.org/publications/journals/siam-journal-on-control-and-optimization-sicon)
-* [*Acta Informatica*](https://www.springer.com/journal/236)
-* [*Frontiers of Computer Science*](https://www.springer.com/journal/11704)
 
 ## Conference Review
 
+* [*41st International Symposium on Computational Geometry (SoCG 2025)*](https://socg25.github.io/), Kanazawa, Japan, 2025.
+* [*International Conference on Quantum Communications, Networking, and Computing 2025 (QCNC 2025)*](https://www.ieee-qcnc.org/2025/), Nara, Japan, 2025. 
 * [*28th Annual Quantum Information Processing Conference (QIP 2025)*](https://rsvp.duke.edu/event/qip2025/summary), New Orleans, United States, 2025.
 * [*15th ITU Kaleidoscope Academic Conference*](https://www.itu.int/en/ITU-T/academia/kaleidoscope/2024/Pages/default.aspx), New Delhi, India, 2024.
 * [*24th Asian Quantum Information Science Conference (AQIS 2024)*](http://aqis-conf.org/2024/), Sapporo, Japan, 2024.
