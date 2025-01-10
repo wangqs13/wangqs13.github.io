@@ -10,7 +10,7 @@ author_profile: true
 
 1. **On estimating the trace of quantum state powers**.  
 <span style="color:green">Ⓐ</span> [Yupan Liu](https://scholar.google.com/citations?user=KJrYKwMAAAAJ&hl=en) and Qisheng Wang.  
-In *Proceedings of the 2025 Annual ACM-SIAM Symposium on Discrete Algorithms* (SODA 2025), to appear, 2025. [arXiv:2410.13559](https://arxiv.org/abs/2410.13559).  
+In *Proceedings of the 2025 Annual ACM-SIAM Symposium on Discrete Algorithms* (SODA 2025), pp. 947-993, 2025. [doi:10.1137/1.9781611978322.28](https://doi.org/10.1137/1.9781611978322.28). [arXiv:2410.13559](https://arxiv.org/abs/2410.13559).  
 Presented as (part of) a research talk at the NQCC-QSL December Deep Dive Agenda in the University of Edinburgh in 2024.
 1. **Optimal trace distance and fidelity estimations for pure quantum states**.  
 Qisheng Wang.  
