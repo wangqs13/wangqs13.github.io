@@ -8,9 +8,15 @@ author_profile: true
 <span style="color:green">Ⓐ</span> — in alphabetical order. \
 <span style="color:blue">Ⓒ</span> — by contribution. 
 
+1. **Quantum algorithms for matrix geometric means**.  
+<span style="color:green">Ⓐ</span> [Nana Liu](https://scholar.google.com/citations?user=c1Ha6TwAAAAJ&hl=en), Qisheng Wang, [Mark M. Wilde](https://scholar.google.com/citations?user=vANLRiYAAAAJ&hl=en), and [Zhicheng Zhang](https://scholar.google.com/citations?user=_CHPF-kAAAAJ&hl=en).  
+*npj Quantum Information*, to appear, 2025. [arXiv:2405.00673](https://arxiv.org/abs/2405.00673), 2024.  
+Presented (by [Nana Liu](https://scholar.google.com/citations?user=c1Ha6TwAAAAJ&hl=en)) as (part of) an invited [talk](https://youtu.be/MbbdzyyQbqw?t=1469) at [the 8th International Conference on Quantum Techniques in Machine Learning (QTML 2024)](https://qtml2024.org/).  
+Presented (by [Mark M. Wilde](https://scholar.google.com/citations?user=vANLRiYAAAAJ&hl=en)) as a contributed [talk](https://quantum.iitm.ac.in/qcmc24/accepted-talks-and-posters/) at [the 16th International Conference on Quantum Communication, Measurement and Computing (QCMC 2024)](https://quantum.iitm.ac.in/qcmc24/).
 1. **On estimating the trace of quantum state powers**.  
 <span style="color:green">Ⓐ</span> [Yupan Liu](https://scholar.google.com/citations?user=KJrYKwMAAAAJ&hl=en) and Qisheng Wang.  
 In *Proceedings of the 2025 Annual ACM-SIAM Symposium on Discrete Algorithms* (SODA 2025), pp. 947-993, 2025. [doi:10.1137/1.9781611978322.28](https://doi.org/10.1137/1.9781611978322.28). [arXiv:2410.13559](https://arxiv.org/abs/2410.13559).  
+Presented (by [Yupan Liu](https://scholar.google.com/citations?user=KJrYKwMAAAAJ&hl=en)) as a contributed [talk](https://meetings.siam.org/sess/dsp_talk.cfm?p=145070) at the [2025 Annual ACM-SIAM Symposium on Discrete Algorithms (SODA 2025)](https://www.siam.org/conferences-events/siam-conferences/soda25/).  
 Presented as (part of) a research talk at the NQCC-QSL December Deep Dive Agenda in the University of Edinburgh in 2024.
 1. **Optimal trace distance and fidelity estimations for pure quantum states**.  
 Qisheng Wang.  
@@ -92,11 +98,6 @@ Presented as (part of) a research talk at the NQCC-QSL December Deep Dive Agenda
 <span style="color:blue">Ⓒ</span> Qisheng Wang and [Zhicheng Zhang](https://scholar.google.com/citations?user=_CHPF-kAAAAJ&hl=en).  
 [arXiv:2410.21201](https://arxiv.org/abs/2410.21201), 2024.  
 Presented as (part of) a research talk at the NQCC-QSL December Deep Dive Agenda in the University of Edinburgh in 2024.
-1. **Quantum algorithms for matrix geometric means**.  
-<span style="color:green">Ⓐ</span> [Nana Liu](https://scholar.google.com/citations?user=c1Ha6TwAAAAJ&hl=en), Qisheng Wang, [Mark M. Wilde](https://scholar.google.com/citations?user=vANLRiYAAAAJ&hl=en), and [Zhicheng Zhang](https://scholar.google.com/citations?user=_CHPF-kAAAAJ&hl=en).  
-[arXiv:2405.00673](https://arxiv.org/abs/2405.00673), 2024.  
-Presented (by [Nana Liu](https://scholar.google.com/citations?user=c1Ha6TwAAAAJ&hl=en)) as (part of) an invited [talk](https://youtu.be/MbbdzyyQbqw?t=1469) at [the 8th International Conference on Quantum Techniques in Machine Learning (QTML 2024)](https://qtml2024.org/).  
-Presented (by [Mark M. Wilde](https://scholar.google.com/citations?user=vANLRiYAAAAJ&hl=en)) as a contributed [talk](https://quantum.iitm.ac.in/qcmc24/accepted-talks-and-posters/) at [the 16th International Conference on Quantum Communication, Measurement and Computing (QCMC 2024)](https://quantum.iitm.ac.in/qcmc24/).
 1. **Local test for unitarily invariant properties of bipartite quantum states**.  
 <span style="color:green">Ⓐ</span> [Kean Chen](https://scholar.google.com/citations?user=Ncvskw4AAAAJ&hl=en), Qisheng Wang, and [Zhicheng Zhang](https://scholar.google.com/citations?user=_CHPF-kAAAAJ&hl=en).  
 [arXiv:2404.04599](https://arxiv.org/abs/2404.04599), 2024.  
