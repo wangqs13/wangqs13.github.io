@@ -21,6 +21,7 @@ I received my B.Sc. degree and Ph.D. degree from the [Department of Computer Sci
 
 ## News
 
+* 2025/01/23: Our paper "[Quantum Algorithms for Matrix Geometric Means](https://arxiv.org/abs/2405.00673)" was accepted by *npj Quantum Information*.
 * 2024/12/24: Our paper "[Quantum Approximate $k$-Minimum Finding](https://arxiv.org/abs/2412.16586)" was on arXiv. 
 * 2024/12/07: Our papers "[On Estimating the Trace of Quantum State Powers](https://arxiv.org/abs/2410.13559)" and "[Space-Bounded Quantum Interactive Proof Systems](https://arxiv.org/abs/2410.23958)" were accepted by the 28th Quantum Information Processing Conference (QIP 2025) as regular talks.
 * 2024/11/07: Our paper "[Quantum Algorithm for Sparse Online Learning with Truncated Gradient Descent](https://arxiv.org/abs/2411.03925)" was on arXiv. 
