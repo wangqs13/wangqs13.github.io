@@ -8,9 +8,13 @@ author_profile: true
 <span style="color:green">Ⓐ</span> — in alphabetical order. \
 <span style="color:blue">Ⓒ</span> — by contribution. 
 
+1. **A note on quantum divide and conquer for minimal string rotation**.  
+Qisheng Wang.  
+*Theoretical Computer Science*, to appear, 2025. [arXiv:2210.09149](https://arxiv.org/abs/2210.09149).  
+Presented as a [poster](https://ken.ieice.org/ken/paper/20221208DCpl/eng/) at [the 47th Quantum Information Technology Symposium (第47回量子情報技術研究会, QIT47)](https://www.ieice.org/es/qit/qit47/index_e.html) in 2022.
 1. **Quantum algorithms for matrix geometric means**.  
 <span style="color:green">Ⓐ</span> [Nana Liu](https://scholar.google.com/citations?user=c1Ha6TwAAAAJ&hl=en), Qisheng Wang, [Mark M. Wilde](https://scholar.google.com/citations?user=vANLRiYAAAAJ&hl=en), and [Zhicheng Zhang](https://scholar.google.com/citations?user=_CHPF-kAAAAJ&hl=en).  
-*npj Quantum Information*, to appear, 2025. [arXiv:2405.00673](https://arxiv.org/abs/2405.00673), 2024.  
+*npj Quantum Information*, to appear, 2025. [arXiv:2405.00673](https://arxiv.org/abs/2405.00673).  
 Presented (by [Nana Liu](https://scholar.google.com/citations?user=c1Ha6TwAAAAJ&hl=en)) as (part of) an invited [talk](https://youtu.be/MbbdzyyQbqw?t=1469) at [the 8th International Conference on Quantum Techniques in Machine Learning (QTML 2024)](https://qtml2024.org/).  
 Presented (by [Mark M. Wilde](https://scholar.google.com/citations?user=vANLRiYAAAAJ&hl=en)) as a contributed [talk](https://quantum.iitm.ac.in/qcmc24/accepted-talks-and-posters/) at [the 16th International Conference on Quantum Communication, Measurement and Computing (QCMC 2024)](https://quantum.iitm.ac.in/qcmc24/).
 1. **On estimating the trace of quantum state powers**.  
@@ -116,10 +120,6 @@ Presented (with [Zhicheng Zhang](https://scholar.google.com/citations?user=_CHPF
 Presented as an online talk invited by [Zhengfeng Ji](https://scholar.google.com/citations?user=2uXdu7AAAAAJ&hl=en) at Tsinghua University in 2023.  
 Presented as an invited [talk (20min)](https://youtu.be/RebEfLFH69I?t=3015) at [Shenzhen–Nagoya Workshop on Quantum Science 2023](https://shenzhen-nagoya.github.io/2023/).  
 Appears as [Monthly News for August 2023](https://ptreview.sublinear.info/2023/09/news-for-august-2023/) in [Property Testing Review](https://ptreview.sublinear.info/).
-1. **A note on quantum divide and conquer for minimal string rotation**.  
-Qisheng Wang.  
-[arXiv:2210.09149](https://arxiv.org/abs/2210.09149), 2022.  
-Presented as a [poster](https://ken.ieice.org/ken/paper/20221208DCpl/eng/) at [the 47th Quantum Information Technology Symposium (第47回量子情報技術研究会, QIT47)](https://www.ieice.org/es/qit/qit47/index_e.html) in 2022.
 1. **Double-ended palindromic trees: a linear-time data structure and its applications**.  
 <span style="color:blue">Ⓒ</span> Qisheng Wang, Ming Yang, and Xinrui Zhu.  
 [arXiv:2210.02292](https://arxiv.org/abs/2210.02292), 2022.  
