@@ -8,15 +8,15 @@ author_profile: true
 <span style="color:green">Ⓐ</span> — in alphabetical order. \
 <span style="color:blue">Ⓒ</span> — by contribution. 
 
-1. **A note on quantum divide and conquer for minimal string rotation**.  
-Qisheng Wang.  
-*Theoretical Computer Science*, to appear, 2025. [arXiv:2210.09149](https://arxiv.org/abs/2210.09149).  
-Presented as a [poster](https://ken.ieice.org/ken/paper/20221208DCpl/eng/) at [the 47th Quantum Information Technology Symposium (第47回量子情報技術研究会, QIT47)](https://www.ieice.org/es/qit/qit47/index_e.html) in 2022.
 1. **Quantum algorithms for matrix geometric means**.  
 <span style="color:green">Ⓐ</span> [Nana Liu](https://scholar.google.com/citations?user=c1Ha6TwAAAAJ&hl=en), Qisheng Wang, [Mark M. Wilde](https://scholar.google.com/citations?user=vANLRiYAAAAJ&hl=en), and [Zhicheng Zhang](https://scholar.google.com/citations?user=_CHPF-kAAAAJ&hl=en).  
 *npj Quantum Information*, to appear, 2025. [arXiv:2405.00673](https://arxiv.org/abs/2405.00673).  
 Presented (by [Nana Liu](https://scholar.google.com/citations?user=c1Ha6TwAAAAJ&hl=en)) as (part of) an invited [talk](https://youtu.be/MbbdzyyQbqw?t=1469) at [the 8th International Conference on Quantum Techniques in Machine Learning (QTML 2024)](https://qtml2024.org/).  
 Presented (by [Mark M. Wilde](https://scholar.google.com/citations?user=vANLRiYAAAAJ&hl=en)) as a contributed [talk](https://quantum.iitm.ac.in/qcmc24/accepted-talks-and-posters/) at [the 16th International Conference on Quantum Communication, Measurement and Computing (QCMC 2024)](https://quantum.iitm.ac.in/qcmc24/).
+1. **A note on quantum divide and conquer for minimal string rotation**.  
+Qisheng Wang.  
+*Theoretical Computer Science*, 1034: 115120, 2025. [doi:10.1016/j.tcs.2025.115120](https://doi.org/10.1016/j.tcs.2025.115120). [arXiv:2210.09149](https://arxiv.org/abs/2210.09149).  
+Presented as a [poster](https://ken.ieice.org/ken/paper/20221208DCpl/eng/) at [the 47th Quantum Information Technology Symposium (第47回量子情報技術研究会, QIT47)](https://www.ieice.org/es/qit/qit47/index_e.html) in 2022.
 1. **On estimating the trace of quantum state powers**.  
 <span style="color:green">Ⓐ</span> [Yupan Liu](https://scholar.google.com/citations?user=KJrYKwMAAAAJ&hl=en) and Qisheng Wang.  
 In *Proceedings of the 2025 Annual ACM-SIAM Symposium on Discrete Algorithms* (SODA 2025), pp. 947-993, 2025. [doi:10.1137/1.9781611978322.28](https://doi.org/10.1137/1.9781611978322.28). [arXiv:2410.13559](https://arxiv.org/abs/2410.13559).  
@@ -87,6 +87,9 @@ Presented as an invited talk, merged with [arXiv:2203.13522](https://arxiv.org/a
 
 ## Preprints
 
+1. **Does there exist a quantum fingerprinting protocol without coherent measurements?**.  
+<span style="color:green">Ⓐ</span> Atsuya Hasegawa, [Srijita Kundu](https://scholar.google.com/citations?user=R8ckW8sAAAAJ&hl=en), [François Le Gall](https://scholar.google.com/citations?user=tpCh6MIAAAAJ&hl=en), [Harumichi Nishimura](https://www.math.cm.is.nagoya-u.ac.jp/~hnishimura/e-index.html), and Qisheng Wang.  
+[arXiv:2502.13427](https://arxiv.org/abs/2502.13427), 2024.
 1. **Quantum approximate $k$-minimum finding**.  
 <span style="color:green">Ⓐ</span> [Minbo Gao](https://scholar.google.com/citations?user=b8i9J_QAAAAJ&hl=en), [Zhengfeng Ji](https://scholar.google.com/citations?user=2uXdu7AAAAAJ&hl=en), and Qisheng Wang.  
 [arXiv:2412.16586](https://arxiv.org/abs/2412.16586), 2024.
