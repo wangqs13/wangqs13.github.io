@@ -21,6 +21,7 @@ I received my B.Sc. degree and Ph.D. degree from the [Department of Computer Sci
 
 ## News
 
+* 2025/02/20: Our paper "[Does There Exist a Quantum Fingerprinting Protocol without Coherent Measurements?](https://arxiv.org/abs/2502.13427)" was on arXiv. 
 * 2025/02/10: Our paper "[A Note on Quantum Divide and Conquer for Minimal String Rotation](https://arxiv.org/abs/2210.09149)" was accepted by *Theoretical Computer Science*.
 * 2025/01/23: Our paper "[Quantum Algorithms for Matrix Geometric Means](https://arxiv.org/abs/2405.00673)" was accepted by *npj Quantum Information*.
 * 2024/12/24: Our paper "[Quantum Approximate $k$-Minimum Finding](https://arxiv.org/abs/2412.16586)" was on arXiv. 
