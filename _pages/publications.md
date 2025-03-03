@@ -20,6 +20,7 @@ Presented as a [poster](https://ken.ieice.org/ken/paper/20221208DCpl/eng/) at [t
 1. **On estimating the trace of quantum state powers**.  
 <span style="color:green">Ⓐ</span> [Yupan Liu](https://scholar.google.com/citations?user=KJrYKwMAAAAJ&hl=en) and Qisheng Wang.  
 In *Proceedings of the 2025 Annual ACM-SIAM Symposium on Discrete Algorithms* (SODA 2025), pp. 947-993, 2025. [doi:10.1137/1.9781611978322.28](https://doi.org/10.1137/1.9781611978322.28). [arXiv:2410.13559](https://arxiv.org/abs/2410.13559).  
+Presented as a contributed [talk](https://rsvp.duke.edu/event/qip2025/accepted-talks) at [the 28th Quantum Information Processing Conference (QIP 2025)](https://rsvp.duke.edu/event/qip2025/home).  
 Presented (by [Yupan Liu](https://scholar.google.com/citations?user=KJrYKwMAAAAJ&hl=en)) as a contributed [talk](https://meetings.siam.org/sess/dsp_talk.cfm?p=145070) at the [2025 Annual ACM-SIAM Symposium on Discrete Algorithms (SODA 2025)](https://www.siam.org/conferences-events/siam-conferences/soda25/).  
 Presented as (part of) a research talk at the NQCC-QSL December Deep Dive Agenda in the University of Edinburgh in 2024.
 1. **Optimal trace distance and fidelity estimations for pure quantum states**.  
@@ -89,7 +90,7 @@ Presented as an invited talk, merged with [arXiv:2203.13522](https://arxiv.org/a
 
 1. **Does there exist a quantum fingerprinting protocol without coherent measurements?**.  
 <span style="color:green">Ⓐ</span> Atsuya Hasegawa, [Srijita Kundu](https://scholar.google.com/citations?user=R8ckW8sAAAAJ&hl=en), [François Le Gall](https://scholar.google.com/citations?user=tpCh6MIAAAAJ&hl=en), [Harumichi Nishimura](https://www.math.cm.is.nagoya-u.ac.jp/~hnishimura/e-index.html), and Qisheng Wang.  
-[arXiv:2502.13427](https://arxiv.org/abs/2502.13427), 2024.
+[arXiv:2502.13427](https://arxiv.org/abs/2502.13427), 2025.
 1. **Quantum approximate $k$-minimum finding**.  
 <span style="color:green">Ⓐ</span> [Minbo Gao](https://scholar.google.com/citations?user=b8i9J_QAAAAJ&hl=en), [Zhengfeng Ji](https://scholar.google.com/citations?user=2uXdu7AAAAAJ&hl=en), and Qisheng Wang.  
 [arXiv:2412.16586](https://arxiv.org/abs/2412.16586), 2024.
@@ -100,6 +101,7 @@ Presented as (part of) a research talk at the NQCC-QSL December Deep Dive Agenda
 1. **Space-bounded quantum interactive proof systems**.  
 <span style="color:green">Ⓐ</span> [François Le Gall](https://scholar.google.com/citations?user=tpCh6MIAAAAJ&hl=en), [Yupan Liu](https://scholar.google.com/citations?user=KJrYKwMAAAAJ&hl=en), [Harumichi Nishimura](https://www.math.cm.is.nagoya-u.ac.jp/~hnishimura/e-index.html), and Qisheng Wang.  
 [arXiv:2410.23958](https://arxiv.org/abs/2410.23958), 2024.  
+Presented (by [Yupan Liu](https://scholar.google.com/citations?user=KJrYKwMAAAAJ&hl=en)) as a contributed [talk](https://rsvp.duke.edu/event/qip2025/accepted-talks) at [the 28th Quantum Information Processing Conference (QIP 2025)](https://rsvp.duke.edu/event/qip2025/home).  
 Presented as (part of) a research talk at the NQCC-QSL December Deep Dive Agenda in the University of Edinburgh in 2024.
 1. **Sample-optimal quantum estimators for pure-state trace distance and fidelity via samplizer**.  
 <span style="color:blue">Ⓒ</span> Qisheng Wang and [Zhicheng Zhang](https://scholar.google.com/citations?user=_CHPF-kAAAAJ&hl=en).  
