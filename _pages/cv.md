@@ -36,9 +36,11 @@ redirect_from:
 
 ## Conference Review
 
+* [*52nd EATCS International Colloquium on Automata, Languages, and Programming (ICALP 2025)*](https://conferences.au.dk/icalp2025), Aarhus, Denmark, 2025.
+* [*2025 IEEE International Symposium on Information Theory (ISIT 2025)*](https://2025.ieee-isit.org/), Ann Arbor, Michigan, United States, 2025.
 * [*41st International Symposium on Computational Geometry (SoCG 2025)*](https://socg25.github.io/), Kanazawa, Japan, 2025.
 * [*International Conference on Quantum Communications, Networking, and Computing 2025 (QCNC 2025)*](https://www.ieee-qcnc.org/2025/), Nara, Japan, 2025. 
-* [*28th Annual Quantum Information Processing Conference (QIP 2025)*](https://rsvp.duke.edu/event/qip2025/summary), New Orleans, United States, 2025.
+* [*28th Annual Quantum Information Processing Conference (QIP 2025)*](https://rsvp.duke.edu/event/qip2025/summary), New Orleans, Louisiana, United States, 2025.
 * [*15th ITU Kaleidoscope Academic Conference*](https://www.itu.int/en/ITU-T/academia/kaleidoscope/2024/Pages/default.aspx), New Delhi, India, 2024.
 * [*24th Asian Quantum Information Science Conference (AQIS 2024)*](http://aqis-conf.org/2024/), Sapporo, Japan, 2024.
 * [*65th IEEE Symposium on Foundations of Computer Science (FOCS 2024)*](https://focs.computer.org/2024/), Chicago, Illinois, United States, 2024.
