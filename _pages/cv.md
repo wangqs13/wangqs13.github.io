@@ -36,20 +36,21 @@ redirect_from:
 
 ## Conference Review
 
-* [*52nd EATCS International Colloquium on Automata, Languages, and Programming (ICALP 2025)*](https://conferences.au.dk/icalp2025), Aarhus, Denmark, 2025.
-* [*2025 IEEE International Symposium on Information Theory (ISIT 2025)*](https://2025.ieee-isit.org/), Ann Arbor, Michigan, United States, 2025.
-* [*41st International Symposium on Computational Geometry (SoCG 2025)*](https://socg25.github.io/), Kanazawa, Japan, 2025.
-* [*International Conference on Quantum Communications, Networking, and Computing 2025 (QCNC 2025)*](https://www.ieee-qcnc.org/2025/), Nara, Japan, 2025. 
-* [*28th Annual Quantum Information Processing Conference (QIP 2025)*](https://rsvp.duke.edu/event/qip2025/summary), New Orleans, Louisiana, United States, 2025.
-* [*15th ITU Kaleidoscope Academic Conference*](https://www.itu.int/en/ITU-T/academia/kaleidoscope/2024/Pages/default.aspx), New Delhi, India, 2024.
-* [*24th Asian Quantum Information Science Conference (AQIS 2024)*](http://aqis-conf.org/2024/), Sapporo, Japan, 2024.
-* [*65th IEEE Symposium on Foundations of Computer Science (FOCS 2024)*](https://focs.computer.org/2024/), Chicago, Illinois, United States, 2024.
-* [*19th Conference on the Theory of Quantum Computation, Communication, and Cryptography (TQC 2024)*](https://tqc-conference.org/), Okinawa, Japan, 2024.
-* [*51st EATCS International Colloquium on Automata, Languages and Programming (ICALP 2024)*](https://compose.ioc.ee/icalp2024/), Tallinn, Estonia, 2024.
-* [*27th Conference on Quantum Information Processing (QIP 2024)*](https://qip2024.tw/site/page.aspx?pid=901&sid=1522&lang=en), Taipei, Taiwan, China, 2024.
-* [*ACM-SIAM Symposium on Discrete Algorithms 2024 (SODA 2024)*](https://www.siam.org/conferences/cm/conference/soda24), Alexandria, Virginia, United States, 2024.
-* [*26th Conference on Quantum Information Processing (QIP 2023)*](https://indico.cern.ch/event/1175020/), Ghent, Belgium, 2023.
-* [*13th International Conference on Algorithms and Complexity (CIAC 2023)*](https://easyconferences.eu/ciac2023/), Larnaca, Cyprus, 2023.
-* [*ACM-SIAM Symposium on Discrete Algorithms 2022 (SODA 2022)*](https://www.siam.org/conferences/cm/conference/soda22), virtual, 2022.
-* [*33rd International Conference on Computer-Aided Verification (CAV 2021)*](http://i-cav.org/2021/), Los Angeles, California, United States, 2021.
-* [*8th International Conference on Principles of Security and Trust (POST 2019)*](https://conf.researchr.org/track/etaps-2019/post-2019-papers), Prague, Czech, 2019.
+* [*TQC 2025 (20th Conference on the Theory of Quantum Computation, Communication, and Cryptography)*](https://tqc-conference.org/), Bengaluru, India, 2025.
+* [*ICALP 2025 (52nd EATCS International Colloquium on Automata, Languages, and Programming)*](https://conferences.au.dk/icalp2025), Aarhus, Denmark, 2025.
+* [*ISIT 2025 (2025 IEEE International Symposium on Information Theory)*](https://2025.ieee-isit.org/), Ann Arbor, Michigan, United States, 2025.
+* [*SoCG 2025 (41st International Symposium on Computational Geometry)*](https://socg25.github.io/), Kanazawa, Japan, 2025.
+* [*QCNC 2025 (International Conference on Quantum Communications, Networking, and Computing 2025)*](https://www.ieee-qcnc.org/2025/), Nara, Japan, 2025. 
+* [*QIP 2025 (28th Annual Quantum Information Processing Conference)*](https://rsvp.duke.edu/event/qip2025/summary), New Orleans, Louisiana, United States, 2025.
+* [*ITU Kaleidoscope 2024 (15th ITU Kaleidoscope Academic Conference)*](https://www.itu.int/en/ITU-T/academia/kaleidoscope/2024/Pages/default.aspx), New Delhi, India, 2024.
+* [*AQIS 2024 (24th Asian Quantum Information Science Conference)*](http://aqis-conf.org/2024/), Sapporo, Japan, 2024.
+* [*FOCS 2024 (65th IEEE Symposium on Foundations of Computer Science)*](https://focs.computer.org/2024/), Chicago, Illinois, United States, 2024.
+* [*TQC 2024 (19th Conference on the Theory of Quantum Computation, Communication, and Cryptography)*](https://tqc-conference.org/), Okinawa, Japan, 2024.
+* [*ICALP 2024 (51st EATCS International Colloquium on Automata, Languages and Programming)*](https://compose.ioc.ee/icalp2024/), Tallinn, Estonia, 2024.
+* [*QIP 2024 (27th Conference on Quantum Information Processing)*](https://qip2024.tw/site/page.aspx?pid=901&sid=1522&lang=en), Taipei, Taiwan, China, 2024.
+* [*SODA 2024 (ACM-SIAM Symposium on Discrete Algorithms 2024)*](https://www.siam.org/conferences/cm/conference/soda24), Alexandria, Virginia, United States, 2024.
+* [*QIP 2023 (26th Conference on Quantum Information Processing)*](https://indico.cern.ch/event/1175020/), Ghent, Belgium, 2023.
+* [*CIAC 2023 (13th International Conference on Algorithms and Complexity)*](https://easyconferences.eu/ciac2023/), Larnaca, Cyprus, 2023.
+* [*SODA 2022 (ACM-SIAM Symposium on Discrete Algorithms 2022)*](https://www.siam.org/conferences/cm/conference/soda22), virtual, 2022.
+* [*CAV 2021 (33rd International Conference on Computer-Aided Verification)*](http://i-cav.org/2021/), Los Angeles, California, United States, 2021.
+* [*POST 2019 (8th International Conference on Principles of Security and Trust)*](https://conf.researchr.org/track/etaps-2019/post-2019-papers), Prague, Czech, 2019.
