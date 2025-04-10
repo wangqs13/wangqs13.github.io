@@ -12,7 +12,7 @@ author_profile: true
 <span style="color:green">Ⓐ</span> [Nana Liu](https://scholar.google.com/citations?user=c1Ha6TwAAAAJ&hl=en), Qisheng Wang, [Mark M. Wilde](https://scholar.google.com/citations?user=vANLRiYAAAAJ&hl=en), and [Zhicheng Zhang](https://scholar.google.com/citations?user=_CHPF-kAAAAJ&hl=en).  
 *npj Quantum Information*, to appear, 2025. [arXiv:2405.00673](https://arxiv.org/abs/2405.00673).  
 Presented (by [Nana Liu](https://scholar.google.com/citations?user=c1Ha6TwAAAAJ&hl=en)) as (part of) an invited [talk](https://youtu.be/MbbdzyyQbqw?t=1469) at [the 8th International Conference on Quantum Techniques in Machine Learning (QTML 2024)](https://qtml2024.org/).  
-Presented (by [Mark M. Wilde](https://scholar.google.com/citations?user=vANLRiYAAAAJ&hl=en)) as a contributed [talk](https://quantum.iitm.ac.in/qcmc24/accepted-talks-and-posters/) at [the 16th International Conference on Quantum Communication, Measurement and Computing (QCMC 2024)](https://quantum.iitm.ac.in/qcmc24/).
+Presented (by [Mark M. Wilde](https://scholar.google.com/citations?user=vANLRiYAAAAJ&hl=en)) as a contributed [talk](https://quantum.iitm.ac.in/qcmc24/accepted-talks-and-posters/) at [the 16th International Conference on Quantum Communication, Measurement and Computing (QCMC 2024)](https://quantum.iitm.ac.in/qcmc24/). [doi:10.5281/zenodo.14309036](https://doi.org/10.5281/zenodo.14309036).
 1. **A note on quantum divide and conquer for minimal string rotation**.  
 Qisheng Wang.  
 *Theoretical Computer Science*, 1034: 115120, 2025. [doi:10.1016/j.tcs.2025.115120](https://doi.org/10.1016/j.tcs.2025.115120). [arXiv:2210.09149](https://arxiv.org/abs/2210.09149).  
