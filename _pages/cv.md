@@ -18,6 +18,7 @@ redirect_from:
 
 ## Program Committee Member
 
+* [*IEEE International Conference on Quantum Computing and Engineering 2025 (QCE)*](https://qce.quantum.ieee.org/2025/technical-papers-program-committee/), Albuquerque, New Mexico, USA, 2025.
 * [*IEEE International Conference on Quantum Computing and Engineering 2024 (QCE)*](https://qce.quantum.ieee.org/2024/committees/program-committee/), Québec, Canada, 2024.
 * [*23rd Asian Quantum Information Science Conference (AQIS)*](http://aqis-conf.org/2023/committees/), Seoul, Korea, 2023.
 
@@ -32,7 +33,9 @@ redirect_from:
 * [*Quantum*](https://quantum-journal.org/)
 * [*Quantum Information and Computation*](https://www.rintonpress.com/journals/qic/)
 * [*Quantum Information Processing*](https://link.springer.com/journal/11128)
+* [*Quantum Science and Technology*](https://iopscience.iop.org/journal/2058-9565)
 * [*SIAM Journal on Control and Optimization*](https://www.siam.org/publications/journals/siam-journal-on-control-and-optimization-sicon)
+* [*Theoretical Computer Science*](https://www.sciencedirect.com/journal/theoretical-computer-science)
 
 ## Conference Review
 
