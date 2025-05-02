@@ -88,6 +88,9 @@ Presented as an invited talk, merged with [arXiv:2203.13522](https://arxiv.org/a
 
 ## Preprints
 
+1. **On estimating the quantum $\ell_\alpha$ distance**.  
+<span style="color:green">Ⓐ</span> [Yupan Liu](https://scholar.google.com/citations?user=KJrYKwMAAAAJ&hl=en) and Qisheng Wang.  
+[arXiv:2505.00457](https://arxiv.org/abs/2505.00457), 2025.
 1. **Does there exist a quantum fingerprinting protocol without coherent measurements?**.  
 <span style="color:green">Ⓐ</span> Atsuya Hasegawa, [Srijita Kundu](https://scholar.google.com/citations?user=R8ckW8sAAAAJ&hl=en), [François Le Gall](https://scholar.google.com/citations?user=tpCh6MIAAAAJ&hl=en), [Harumichi Nishimura](https://www.math.cm.is.nagoya-u.ac.jp/~hnishimura/e-index.html), and Qisheng Wang.  
 [arXiv:2502.13427](https://arxiv.org/abs/2502.13427), 2025.
