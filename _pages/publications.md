@@ -8,6 +8,14 @@ author_profile: true
 <span style="color:green">Ⓐ</span> — in alphabetical order. \
 <span style="color:blue">Ⓒ</span> — by contribution. 
 
+1. **Space-bounded quantum interactive proof systems**.  
+<span style="color:green">Ⓐ</span> [François Le Gall](https://scholar.google.com/citations?user=tpCh6MIAAAAJ&hl=en), [Yupan Liu](https://scholar.google.com/citations?user=KJrYKwMAAAAJ&hl=en), [Harumichi Nishimura](https://www.math.cm.is.nagoya-u.ac.jp/~hnishimura/e-index.html), and Qisheng Wang.  
+In *Proceedings of the 40th Computational Complexity Conference* (CCC 2025), to appear, 2025. [arXiv:2410.23958](https://arxiv.org/abs/2410.23958).  
+Presented (by [Yupan Liu](https://scholar.google.com/citations?user=KJrYKwMAAAAJ&hl=en)) as a contributed [talk](https://rsvp.duke.edu/event/qip2025/accepted-talks) at [the 28th Quantum Information Processing Conference (QIP 2025)](https://rsvp.duke.edu/event/qip2025/home).  
+Presented as (part of) a research talk at the NQCC-QSL December Deep Dive Agenda in the University of Edinburgh in 2024.
+1. **Improved sample upper and lower bounds for trace estimation of quantum state powers**.  
+<span style="color:green">Ⓐ</span> [Kean Chen](https://scholar.google.com/citations?user=Ncvskw4AAAAJ&hl=en) and Qisheng Wang.  
+In *Proceedings of the 38th Annual Conference on Learning Theory* (COLT 2025), to appear, 2025.
 1. **Quantum algorithms for matrix geometric means**.  
 <span style="color:green">Ⓐ</span> [Nana Liu](https://scholar.google.com/citations?user=c1Ha6TwAAAAJ&hl=en), Qisheng Wang, [Mark M. Wilde](https://scholar.google.com/citations?user=vANLRiYAAAAJ&hl=en), and [Zhicheng Zhang](https://scholar.google.com/citations?user=_CHPF-kAAAAJ&hl=en).  
 *npj Quantum Information*, to appear, 2025. [arXiv:2405.00673](https://arxiv.org/abs/2405.00673).  
@@ -100,11 +108,6 @@ Presented as an invited talk, merged with [arXiv:2203.13522](https://arxiv.org/a
 1. **Quantum algorithm for sparse online learning with truncated gradient descent**.  
 <span style="color:green">Ⓐ</span> [Debbie Lim](https://scholar.google.com/citations?user=4PSyMJkAAAAJ&hl=en), [Yixian Qiu](https://scholar.google.com/citations?user=sVqwmRYAAAAJ&hl=en), [Patrick Rebentrost](https://scholar.google.com/citations?user=XWHSBmUAAAAJ&hl=en), Qisheng Wang.  
 [arXiv:2411.03925](https://arxiv.org/abs/2411.03925), 2024.  
-Presented as (part of) a research talk at the NQCC-QSL December Deep Dive Agenda in the University of Edinburgh in 2024.
-1. **Space-bounded quantum interactive proof systems**.  
-<span style="color:green">Ⓐ</span> [François Le Gall](https://scholar.google.com/citations?user=tpCh6MIAAAAJ&hl=en), [Yupan Liu](https://scholar.google.com/citations?user=KJrYKwMAAAAJ&hl=en), [Harumichi Nishimura](https://www.math.cm.is.nagoya-u.ac.jp/~hnishimura/e-index.html), and Qisheng Wang.  
-[arXiv:2410.23958](https://arxiv.org/abs/2410.23958), 2024.  
-Presented (by [Yupan Liu](https://scholar.google.com/citations?user=KJrYKwMAAAAJ&hl=en)) as a contributed [talk](https://rsvp.duke.edu/event/qip2025/accepted-talks) at [the 28th Quantum Information Processing Conference (QIP 2025)](https://rsvp.duke.edu/event/qip2025/home).  
 Presented as (part of) a research talk at the NQCC-QSL December Deep Dive Agenda in the University of Edinburgh in 2024.
 1. **Sample-optimal quantum estimators for pure-state trace distance and fidelity via samplizer**.  
 <span style="color:blue">Ⓒ</span> Qisheng Wang and [Zhicheng Zhang](https://scholar.google.com/citations?user=_CHPF-kAAAAJ&hl=en).  
