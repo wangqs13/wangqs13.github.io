@@ -21,7 +21,7 @@ I received my B.Sc. degree and Ph.D. degree from the [Department of Computer Sci
 
 ## News
 
-* 2025/05/03: Our paper "[Space-Bounded Quantum Interactive Proof Systems](https://arxiv.org/abs/2410.23958)" was accepted by the 40th Computational Complexity Conference (CCC 2025) and our paper "Improved Sample Upper and Lower Bounds for Trace Estimation of Quantum State Powers" was accepted by the 38th Annual Conference on Learning Theory (COLT 2025).
+* 2025/05/03: Our paper "[Space-Bounded Quantum Interactive Proof Systems](https://arxiv.org/abs/2410.23958)" was accepted by the 40th Computational Complexity Conference (CCC 2025) and our paper "[Improved Sample Upper and Lower Bounds for Trace Estimation of Quantum State Powers](https://arxiv.org/abs/2505.09563)" was accepted by the 38th Annual Conference on Learning Theory (COLT 2025).
 * 2025/05/02: Our paper "[On Estimating the Quantum $\ell_\alpha$ distance](https://arxiv.org/abs/2505.00457)" was on arXiv. 
 * 2025/02/20: Our paper "[Does There Exist a Quantum Fingerprinting Protocol without Coherent Measurements?](https://arxiv.org/abs/2502.13427)" was on arXiv. 
 * 2025/02/10: Our paper "[A Note on Quantum Divide and Conquer for Minimal String Rotation](https://arxiv.org/abs/2210.09149)" was accepted by *Theoretical Computer Science*.
