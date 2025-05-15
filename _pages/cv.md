@@ -18,9 +18,9 @@ redirect_from:
 
 ## Program Committee Member
 
-* [*IEEE International Conference on Quantum Computing and Engineering 2025 (QCE)*](https://qce.quantum.ieee.org/2025/technical-papers-program-committee/), Albuquerque, New Mexico, USA, 2025.
-* [*IEEE International Conference on Quantum Computing and Engineering 2024 (QCE)*](https://qce.quantum.ieee.org/2024/committees/program-committee/), Québec, Canada, 2024.
-* [*23rd Asian Quantum Information Science Conference (AQIS)*](http://aqis-conf.org/2023/committees/), Seoul, Korea, 2023.
+* [*QCE 2025 (IEEE International Conference on Quantum Computing and Engineering 2025)*](https://qce.quantum.ieee.org/2025/technical-papers-program-committee/), Albuquerque, New Mexico, USA, 2025.
+* [*QCE 2024 (IEEE International Conference on Quantum Computing and Engineering 2024)*](https://qce.quantum.ieee.org/2024/committees/program-committee/), Québec, Canada, 2024.
+* [*AQIS 2023 (23rd Asian Quantum Information Science Conference)*](http://aqis-conf.org/2023/committees/), Seoul, Korea, 2023.
 
 ## Journal Review
 
@@ -39,6 +39,7 @@ redirect_from:
 
 ## Conference Review
 
+* [*AQIS 2025 (25th Asian Quantum Information Science Conference)*](http://aqis-conf.org/2025/), Hong Kong, China, 2025.
 * [*TQC 2025 (20th Conference on the Theory of Quantum Computation, Communication, and Cryptography)*](https://tqc-conference.org/), Bengaluru, India, 2025.
 * [*ICALP 2025 (52nd EATCS International Colloquium on Automata, Languages, and Programming)*](https://conferences.au.dk/icalp2025), Aarhus, Denmark, 2025.
 * [*ISIT 2025 (2025 IEEE International Symposium on Information Theory)*](https://2025.ieee-isit.org/), Ann Arbor, Michigan, United States, 2025.
