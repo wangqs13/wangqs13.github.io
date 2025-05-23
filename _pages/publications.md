@@ -97,6 +97,9 @@ Presented as an invited talk, merged with [arXiv:2203.13522](https://arxiv.org/a
 
 ## Preprints
 
+1. **Simultaneous estimation of nonlinear functionals of a quantum state**.  
+<span style="color:green">Ⓐ</span> [Kean Chen](https://scholar.google.com/citations?user=Ncvskw4AAAAJ&hl=en), Qisheng Wang, [Zhan Yu](https://scholar.google.com/citations?user=cF8RgGwAAAAJ&hl=en), and [Zhicheng Zhang](https://scholar.google.com/citations?user=_CHPF-kAAAAJ&hl=en).  
+[arXiv:2505.16715](https://arxiv.org/abs/2505.16715), 2025.
 1. **Quantum Hamiltonian certification**.  
 <span style="color:green">Ⓐ</span> [Minbo Gao](https://scholar.google.com/citations?user=b8i9J_QAAAAJ&hl=en), [Zhengfeng Ji](https://scholar.google.com/citations?user=2uXdu7AAAAAJ&hl=en), Qisheng Wang, [Wenjun Yu](https://scholar.google.com/citations?user=VV3FNQoAAAAJ&hl=en), and [Qi Zhao](https://scholar.google.com/citations?user=VVQuTDMAAAAJ&hl=en).  
 [arXiv:2505.13217](https://arxiv.org/abs/2505.13217), 2025.
