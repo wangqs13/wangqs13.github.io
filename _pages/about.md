@@ -21,6 +21,7 @@ I received my B.Sc. degree and Ph.D. degree from the [Department of Computer Sci
 
 ## News
 
+* 2025/05/31: Our three works "Optimal Quantum Estimators for Pure-State Closeness", "[Simultaneous Estimation of Nonlinear Functionals of a Quantum State](https://arxiv.org/abs/2505.16715)", and "[On Estimating the Quantum $\ell_\alpha$ distance](https://arxiv.org/abs/2505.00457)" were accepted by the 25th Asian Quantum Information Science Conference (AQIS 2025) as contributed talks.
 * 2025/05/23: Our paper "[Simultaneous Estimation of Nonlinear Functionals of a Quantum State](https://arxiv.org/abs/2505.16715)" was on arXiv.
 * 2025/05/20: Our paper "[Quantum Hamiltonian Certification](https://arxiv.org/abs/2505.13217)" was on arXiv.
 * 2025/05/19: Our paper "[Time-Efficient Quantum Entropy Estimator via Samplizer](https://arxiv.org/abs/2401.09947)" was accepted by *IEEE Transactions on Information Theory*.
@@ -30,7 +31,7 @@ I received my B.Sc. degree and Ph.D. degree from the [Department of Computer Sci
 * 2025/02/10: Our paper "[A Note on Quantum Divide and Conquer for Minimal String Rotation](https://arxiv.org/abs/2210.09149)" was accepted by *Theoretical Computer Science*.
 * 2025/01/23: Our paper "[Quantum Algorithms for Matrix Geometric Means](https://arxiv.org/abs/2405.00673)" was accepted by *npj Quantum Information*.
 * 2024/12/24: Our paper "[Quantum Approximate $k$-Minimum Finding](https://arxiv.org/abs/2412.16586)" was on arXiv. 
-* 2024/12/07: Our papers "[On Estimating the Trace of Quantum State Powers](https://arxiv.org/abs/2410.13559)" and "[Space-Bounded Quantum Interactive Proof Systems](https://arxiv.org/abs/2410.23958)" were accepted by the 28th Quantum Information Processing Conference (QIP 2025) as regular talks.
+* 2024/12/07: Our two works "[On Estimating the Trace of Quantum State Powers](https://arxiv.org/abs/2410.13559)" and "[Space-Bounded Quantum Interactive Proof Systems](https://arxiv.org/abs/2410.23958)" were accepted by the 28th Quantum Information Processing Conference (QIP 2025) as regular talks.
 * 2024/11/07: Our paper "[Quantum Algorithm for Sparse Online Learning with Truncated Gradient Descent](https://arxiv.org/abs/2411.03925)" was on arXiv. 
 * 2024/11/01: Our paper "[Space-Bounded Quantum Interactive Proof Systems](https://arxiv.org/abs/2410.23958)" was on arXiv.
 * 2024/10/29: Our paper "[Sample-Optimal Quantum Estimators for Pure-State Trace Distance and Fidelity via Samplizer](https://arxiv.org/abs/2410.21201)" was on arXiv. 
