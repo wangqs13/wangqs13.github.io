@@ -10,7 +10,7 @@ author_profile: true
 
 1. **Time-efficient quantum entropy estimator via samplizer**.  
 <span style="color:blue">Ⓒ</span> Qisheng Wang and [Zhicheng Zhang](https://scholar.google.com/citations?user=_CHPF-kAAAAJ&hl=en).  
-*IEEE Transactions on Information Theory*, to appear, 2025.  
+*IEEE Transactions on Information Theory*, to appear, 2025. [doi:10.1109/TIT.2025.3576137](https://doi.org/10.1109/TIT.2025.3576137).  
 In *Proceedings of the 32nd Annual European Symposium on Algorithms* (ESA 2024), pp. 101:1-101:15, 2024. [doi:10.4230/LIPIcs.ESA.2024.101](https://doi.org/10.4230/LIPIcs.ESA.2024.101). [arXiv:2401.09947](https://arxiv.org/abs/2401.09947).  
 Presented as an invited [talk (20min)](https://youtu.be/qkQKNsZk4LQ?t=2805) at [Shenzhen–Nagoya Workshop on Quantum Science 2024](https://shenzhen-nagoya.github.io/2024/).  
 Presented as a contributed talk at [the 32nd Annual European Symposium on Algorithms (ESA 2024)](https://algo-conference.org/2024/esa/).  
