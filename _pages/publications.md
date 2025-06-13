@@ -26,7 +26,7 @@ Presented as (part of) a research talk at the NQCC-QSL December Deep Dive Agenda
 In *Proceedings of the 38th Annual Conference on Learning Theory* (COLT 2025), to appear, 2025. [arXiv:2505.09563](https://arxiv.org/abs/2505.09563).
 1. **Quantum algorithms for matrix geometric means**.  
 <span style="color:green">Ⓐ</span> [Nana Liu](https://scholar.google.com/citations?user=c1Ha6TwAAAAJ&hl=en), Qisheng Wang, [Mark M. Wilde](https://scholar.google.com/citations?user=vANLRiYAAAAJ&hl=en), and [Zhicheng Zhang](https://scholar.google.com/citations?user=_CHPF-kAAAAJ&hl=en).  
-*npj Quantum Information*, to appear, 2025. [arXiv:2405.00673](https://arxiv.org/abs/2405.00673).  
+*npj Quantum Information*, 11: 101, 2025. [doi:10.1038/s41534-025-00973-7](https://doi.org/10.1038/s41534-025-00973-7). [arXiv:2405.00673](https://arxiv.org/abs/2405.00673).  
 Presented (by [Nana Liu](https://scholar.google.com/citations?user=c1Ha6TwAAAAJ&hl=en)) as (part of) an invited [talk](https://youtu.be/MbbdzyyQbqw?t=1469) at [the 8th International Conference on Quantum Techniques in Machine Learning (QTML 2024)](https://qtml2024.org/).  
 Presented (by [Mark M. Wilde](https://scholar.google.com/citations?user=vANLRiYAAAAJ&hl=en)) as a contributed [talk](https://quantum.iitm.ac.in/qcmc24/accepted-talks-and-posters/) at [the 16th International Conference on Quantum Communication, Measurement and Computing (QCMC 2024)](https://quantum.iitm.ac.in/qcmc24/). [doi:10.5281/zenodo.14309036](https://doi.org/10.5281/zenodo.14309036).
 1. **A note on quantum divide and conquer for minimal string rotation**.  
