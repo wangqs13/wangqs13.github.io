@@ -8,6 +8,15 @@ author_profile: true
 <span style="color:green">Ⓐ</span> — in alphabetical order. \
 <span style="color:blue">Ⓒ</span> — by contribution. 
 
+1. **Optimal quantum algorithm for estimating fidelity to a pure state**.  
+<span style="color:green">Ⓐ</span> [Wang Fang](https://scholar.google.com/citations?user=4D3FWQIAAAAJ&hl=en) and Qisheng Wang.  
+In *Proceedings of the 33rd Annual European Symposium on Algorithms* (ESA 2025), to appear, 2025.
+1. **On estimating the quantum $\ell_\alpha$ distance**.  
+<span style="color:green">Ⓐ</span> [Yupan Liu](https://scholar.google.com/citations?user=KJrYKwMAAAAJ&hl=en) and Qisheng Wang.  
+In *Proceedings of the 33rd Annual European Symposium on Algorithms* (ESA 2025), to appear, 2025. [arXiv:2505.00457](https://arxiv.org/abs/2505.00457).
+1. **Quantum approximate $k$-minimum finding**.  
+<span style="color:green">Ⓐ</span> [Minbo Gao](https://scholar.google.com/citations?user=b8i9J_QAAAAJ&hl=en), [Zhengfeng Ji](https://scholar.google.com/citations?user=2uXdu7AAAAAJ&hl=en), and Qisheng Wang.  
+In *Proceedings of the 33rd Annual European Symposium on Algorithms* (ESA 2025), to appear, 2025. [arXiv:2412.16586](https://arxiv.org/abs/2412.16586).
 1. **Time-efficient quantum entropy estimator via samplizer**.  
 <span style="color:blue">Ⓒ</span> Qisheng Wang and [Zhicheng Zhang](https://scholar.google.com/citations?user=_CHPF-kAAAAJ&hl=en).  
 *IEEE Transactions on Information Theory*, to appear, 2025. [doi:10.1109/TIT.2025.3576137](https://doi.org/10.1109/TIT.2025.3576137).  
@@ -103,15 +112,9 @@ Presented as an invited talk, merged with [arXiv:2203.13522](https://arxiv.org/a
 1. **Quantum Hamiltonian certification**.  
 <span style="color:green">Ⓐ</span> [Minbo Gao](https://scholar.google.com/citations?user=b8i9J_QAAAAJ&hl=en), [Zhengfeng Ji](https://scholar.google.com/citations?user=2uXdu7AAAAAJ&hl=en), Qisheng Wang, [Wenjun Yu](https://scholar.google.com/citations?user=VV3FNQoAAAAJ&hl=en), and [Qi Zhao](https://scholar.google.com/citations?user=VVQuTDMAAAAJ&hl=en).  
 [arXiv:2505.13217](https://arxiv.org/abs/2505.13217), 2025.
-1. **On estimating the quantum $\ell_\alpha$ distance**.  
-<span style="color:green">Ⓐ</span> [Yupan Liu](https://scholar.google.com/citations?user=KJrYKwMAAAAJ&hl=en) and Qisheng Wang.  
-[arXiv:2505.00457](https://arxiv.org/abs/2505.00457), 2025.
 1. **Does there exist a quantum fingerprinting protocol without coherent measurements?**.  
 <span style="color:green">Ⓐ</span> Atsuya Hasegawa, [Srijita Kundu](https://scholar.google.com/citations?user=R8ckW8sAAAAJ&hl=en), [François Le Gall](https://scholar.google.com/citations?user=tpCh6MIAAAAJ&hl=en), [Harumichi Nishimura](https://www.math.cm.is.nagoya-u.ac.jp/~hnishimura/e-index.html), and Qisheng Wang.  
 [arXiv:2502.13427](https://arxiv.org/abs/2502.13427), 2025.
-1. **Quantum approximate $k$-minimum finding**.  
-<span style="color:green">Ⓐ</span> [Minbo Gao](https://scholar.google.com/citations?user=b8i9J_QAAAAJ&hl=en), [Zhengfeng Ji](https://scholar.google.com/citations?user=2uXdu7AAAAAJ&hl=en), and Qisheng Wang.  
-[arXiv:2412.16586](https://arxiv.org/abs/2412.16586), 2024.
 1. **Quantum algorithm for sparse online learning with truncated gradient descent**.  
 <span style="color:green">Ⓐ</span> [Debbie Lim](https://scholar.google.com/citations?user=4PSyMJkAAAAJ&hl=en), [Yixian Qiu](https://scholar.google.com/citations?user=sVqwmRYAAAAJ&hl=en), [Patrick Rebentrost](https://scholar.google.com/citations?user=XWHSBmUAAAAJ&hl=en), Qisheng Wang.  
 [arXiv:2411.03925](https://arxiv.org/abs/2411.03925), 2024.  
