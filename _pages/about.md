@@ -21,12 +21,13 @@ I received my B.Sc. degree and Ph.D. degree from the [Department of Computer Sci
 
 ## News
 
-* 2025/05/31: Our three works "Optimal Quantum Estimators for Pure-State Closeness", "[Simultaneous Estimation of Nonlinear Functionals of a Quantum State](https://arxiv.org/abs/2505.16715)", and "[On Estimating the Quantum $\ell_\alpha$ distance](https://arxiv.org/abs/2505.00457)" were accepted by the 25th Asian Quantum Information Science Conference (AQIS 2025) as contributed talks.
+* 2025/06/23: Our three papers "Optimal Quantum Algorithm for Estimating Fidelity to a Pure State", "[On Estimating the Quantum $\ell_\alpha$ Distance](https://arxiv.org/abs/2505.00457)", "[Quantum Approximate $k$-Minimum Finding](https://arxiv.org/abs/2412.16586)" were accepted by the the 33rd Annual European Symposium on Algorithms (ESA 2025).
+* 2025/05/31: Our three works "Optimal Quantum Estimators for Pure-State Closeness", "[Simultaneous Estimation of Nonlinear Functionals of a Quantum State](https://arxiv.org/abs/2505.16715)", and "[On Estimating the Quantum $\ell_\alpha$ Distance](https://arxiv.org/abs/2505.00457)" were accepted by the 25th Asian Quantum Information Science Conference (AQIS 2025) as contributed talks.
 * 2025/05/23: Our paper "[Simultaneous Estimation of Nonlinear Functionals of a Quantum State](https://arxiv.org/abs/2505.16715)" was on arXiv.
 * 2025/05/20: Our paper "[Quantum Hamiltonian Certification](https://arxiv.org/abs/2505.13217)" was on arXiv.
 * 2025/05/19: Our paper "[Time-Efficient Quantum Entropy Estimator via Samplizer](https://arxiv.org/abs/2401.09947)" was accepted by *IEEE Transactions on Information Theory*.
 * 2025/05/03: Our paper "[Space-Bounded Quantum Interactive Proof Systems](https://arxiv.org/abs/2410.23958)" was accepted by the 40th Computational Complexity Conference (CCC 2025) and our paper "[Improved Sample Upper and Lower Bounds for Trace Estimation of Quantum State Powers](https://arxiv.org/abs/2505.09563)" was accepted by the 38th Annual Conference on Learning Theory (COLT 2025).
-* 2025/05/02: Our paper "[On Estimating the Quantum $\ell_\alpha$ distance](https://arxiv.org/abs/2505.00457)" was on arXiv. 
+* 2025/05/02: Our paper "[On Estimating the Quantum $\ell_\alpha$ Distance](https://arxiv.org/abs/2505.00457)" was on arXiv. 
 * 2025/02/20: Our paper "[Does There Exist a Quantum Fingerprinting Protocol without Coherent Measurements?](https://arxiv.org/abs/2502.13427)" was on arXiv. 
 * 2025/02/10: Our paper "[A Note on Quantum Divide and Conquer for Minimal String Rotation](https://arxiv.org/abs/2210.09149)" was accepted by *Theoretical Computer Science*.
 * 2025/01/23: Our paper "[Quantum Algorithms for Matrix Geometric Means](https://arxiv.org/abs/2405.00673)" was accepted by *npj Quantum Information*.
