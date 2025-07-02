@@ -10,7 +10,7 @@ author_profile: true
 
 1. **Optimal quantum algorithm for estimating fidelity to a pure state**.  
 <span style="color:green">Ⓐ</span> [Wang Fang](https://scholar.google.com/citations?user=4D3FWQIAAAAJ&hl=en) and Qisheng Wang.  
-In *Proceedings of the 33rd Annual European Symposium on Algorithms* (ESA 2025), to appear, 2025.
+In *Proceedings of the 33rd Annual European Symposium on Algorithms* (ESA 2025), to appear, 2025. [arXiv:2506.23650](https://arxiv.org/abs/2506.23650).
 1. **On estimating the quantum $\ell_\alpha$ distance**.  
 <span style="color:green">Ⓐ</span> [Yupan Liu](https://scholar.google.com/citations?user=KJrYKwMAAAAJ&hl=en) and Qisheng Wang.  
 In *Proceedings of the 33rd Annual European Symposium on Algorithms* (ESA 2025), to appear, 2025. [arXiv:2505.00457](https://arxiv.org/abs/2505.00457).
