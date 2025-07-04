@@ -32,7 +32,8 @@ Presented (by [Yupan Liu](https://scholar.google.com/citations?user=KJrYKwMAAAAJ
 Presented as (part of) a research talk at the NQCC-QSL December Deep Dive Agenda in the University of Edinburgh in 2024.
 1. **Improved sample upper and lower bounds for trace estimation of quantum state powers**.  
 <span style="color:green">Ⓐ</span> [Kean Chen](https://scholar.google.com/citations?user=Ncvskw4AAAAJ&hl=en) and Qisheng Wang.  
-In *Proceedings of the 38th Annual Conference on Learning Theory* (COLT 2025), to appear, 2025. [arXiv:2505.09563](https://arxiv.org/abs/2505.09563).
+In *Proceedings of the 38th Annual Conference on Learning Theory* (COLT 2025), to appear, 2025. [arXiv:2505.09563](https://arxiv.org/abs/2505.09563).  
+Presented as a contributed talk at [the 38th Annual Conference on Learning Theory (COLT 2025)](https://learningtheory.org/colt2025/).
 1. **Quantum algorithms for matrix geometric means**.  
 <span style="color:green">Ⓐ</span> [Nana Liu](https://scholar.google.com/citations?user=c1Ha6TwAAAAJ&hl=en), Qisheng Wang, [Mark M. Wilde](https://scholar.google.com/citations?user=vANLRiYAAAAJ&hl=en), and [Zhicheng Zhang](https://scholar.google.com/citations?user=_CHPF-kAAAAJ&hl=en).  
 *npj Quantum Information*, 11: 101, 2025. [doi:10.1038/s41534-025-00973-7](https://doi.org/10.1038/s41534-025-00973-7). [arXiv:2405.00673](https://arxiv.org/abs/2405.00673).  
