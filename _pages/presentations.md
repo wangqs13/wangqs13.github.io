@@ -5,6 +5,7 @@ permalink: /presentations/
 author_profile: true
 ---
 
+* 2025/07/08: **Optimal Trace Distance and Fidelity Estimations for Pure Quantum States** (based on [arXiv:2408.16655](https://arxiv.org/abs/2408.16655)) as an invited talk at [Quantum Summer School 2025](https://quantum-tech-alliance.co.uk/2025/04/24/quantum-summer-school/) in the University of St Andrews, St Andrews, United Kingdom.
 * 2025/07/04: **Improved Sample Upper and Lower Bounds for Trace Estimation of Quantum State Powers** (based on [arXiv:2505.09563](https://arxiv.org/abs/2505.09563)) as a contributed talk at [the 38th Annual Conference on Learning Theory (COLT 2025)](https://learningtheory.org/colt2025/).
 * 2025/06/23: **Improved Sample Upper and Lower Bounds for Trace Estimation of Quantum State Powers** (based on [arXiv:2505.09563](https://arxiv.org/abs/2505.09563)) as an invited talk at [the 2025 QSL Quantum Algorithms and Complexity Workshop](https://www.eventbrite.co.uk/e/quantum-algorithms-and-complexity-workshop-tickets-1328042624239?aff=oddtdtcreator).
 * 2025/02/28: **On Estimating the Trace of Quantum State Powers** (based on [arXiv:2410.13559](https://arxiv.org/abs/2410.13559)) as a contributed talk at [the 28th Quantum Information Processing Conference (QIP 2025)](https://rsvp.duke.edu/event/qip2025/home).
