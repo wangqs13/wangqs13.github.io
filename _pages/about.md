@@ -21,6 +21,7 @@ I received my B.Sc. degree and Ph.D. degree from the [Department of Computer Sci
 
 ## News
 
+* 2025/07/24: Our paper "[Quantum Lower Bounds by Sample-to-Query Lifting](https://arxiv.org/abs/2308.01794)" was accepted by *SIAM Journal on Computing*.
 * 2025/06/23: Our three papers "[Optimal Quantum Algorithm for Estimating Fidelity to a Pure State](https://arxiv.org/abs/2506.23650)", "[On Estimating the Quantum $\ell_\alpha$ Distance](https://arxiv.org/abs/2505.00457)", "[Quantum Approximate $k$-Minimum Finding](https://arxiv.org/abs/2412.16586)" were accepted by the the 33rd Annual European Symposium on Algorithms (ESA 2025).
 * 2025/05/31: Our three works "Optimal Quantum Estimators for Pure-State Closeness", "[Simultaneous Estimation of Nonlinear Functionals of a Quantum State](https://arxiv.org/abs/2505.16715)", and "[On Estimating the Quantum $\ell_\alpha$ Distance](https://arxiv.org/abs/2505.00457)" were accepted by the 25th Asian Quantum Information Science Conference (AQIS 2025) as contributed talks.
 * 2025/05/23: Our paper "[Simultaneous Estimation of Nonlinear Functionals of a Quantum State](https://arxiv.org/abs/2505.16715)" was on arXiv.
