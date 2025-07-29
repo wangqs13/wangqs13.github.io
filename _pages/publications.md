@@ -32,15 +32,15 @@ Presented as an invited [talk (20min)](https://youtu.be/qkQKNsZk4LQ?t=2805) at [
 Presented as a contributed talk at [the 32nd Annual European Symposium on Algorithms (ESA 2024)](https://algo-conference.org/2024/esa/).  
 Presented as an online talk invited by [Patrick Rebentrost](https://scholar.google.com/citations?user=XWHSBmUAAAAJ&hl=en) at the National University of Singapore in 2024.  
 Presented as an online talk invited by [Zhengfeng Ji](https://scholar.google.com/citations?user=2uXdu7AAAAAJ&hl=en) at Tsinghua University in 2024.
-1. **Space-bounded quantum interactive proof systems**.  
-<span style="color:green">Ⓐ</span> [François Le Gall](https://scholar.google.com/citations?user=tpCh6MIAAAAJ&hl=en), [Yupan Liu](https://scholar.google.com/citations?user=KJrYKwMAAAAJ&hl=en), [Harumichi Nishimura](https://www.math.cm.is.nagoya-u.ac.jp/~hnishimura/e-index.html), and Qisheng Wang.  
-In *Proceedings of the 40th Computational Complexity Conference* (CCC 2025), to appear, 2025. [arXiv:2410.23958](https://arxiv.org/abs/2410.23958).  
-Presented (by [Yupan Liu](https://scholar.google.com/citations?user=KJrYKwMAAAAJ&hl=en)) as a contributed [talk](https://rsvp.duke.edu/event/qip2025/accepted-talks) at [the 28th Quantum Information Processing Conference (QIP 2025)](https://rsvp.duke.edu/event/qip2025/home).  
-Presented as (part of) a research talk at the NQCC-QSL December Deep Dive Agenda in the University of Edinburgh in 2024.
 1. **Improved sample upper and lower bounds for trace estimation of quantum state powers**.  
 <span style="color:green">Ⓐ</span> [Kean Chen](https://scholar.google.com/citations?user=Ncvskw4AAAAJ&hl=en) and Qisheng Wang.  
 In *Proceedings of the 38th Annual Conference on Learning Theory* (COLT 2025), to appear, 2025. [arXiv:2505.09563](https://arxiv.org/abs/2505.09563).  
 Presented as a contributed talk at [the 38th Annual Conference on Learning Theory (COLT 2025)](https://learningtheory.org/colt2025/).
+1. **Space-bounded quantum interactive proof systems**.  
+<span style="color:green">Ⓐ</span> [François Le Gall](https://scholar.google.com/citations?user=tpCh6MIAAAAJ&hl=en), [Yupan Liu](https://scholar.google.com/citations?user=KJrYKwMAAAAJ&hl=en), [Harumichi Nishimura](https://www.math.cm.is.nagoya-u.ac.jp/~hnishimura/e-index.html), and Qisheng Wang.  
+In *Proceedings of the 40th Computational Complexity Conference* (CCC 2025), pp. 17:1-17:18, 2025. [doi:10.4230/LIPIcs.CCC.2025.17](https://doi.org/10.4230/LIPIcs.CCC.2025.17). [arXiv:2410.23958](https://arxiv.org/abs/2410.23958).  
+Presented (by [Yupan Liu](https://scholar.google.com/citations?user=KJrYKwMAAAAJ&hl=en)) as a contributed [talk](https://rsvp.duke.edu/event/qip2025/accepted-talks) at [the 28th Quantum Information Processing Conference (QIP 2025)](https://rsvp.duke.edu/event/qip2025/home).  
+Presented as (part of) a research talk at the NQCC-QSL December Deep Dive Agenda in the University of Edinburgh in 2024.
 1. **Quantum algorithms for matrix geometric means**.  
 <span style="color:green">Ⓐ</span> [Nana Liu](https://scholar.google.com/citations?user=c1Ha6TwAAAAJ&hl=en), Qisheng Wang, [Mark M. Wilde](https://scholar.google.com/citations?user=vANLRiYAAAAJ&hl=en), and [Zhicheng Zhang](https://scholar.google.com/citations?user=_CHPF-kAAAAJ&hl=en).  
 *npj Quantum Information*, 11: 101, 2025. [doi:10.1038/s41534-025-00973-7](https://doi.org/10.1038/s41534-025-00973-7). [arXiv:2405.00673](https://arxiv.org/abs/2405.00673).  
