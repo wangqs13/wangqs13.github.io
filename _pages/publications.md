@@ -20,7 +20,8 @@ Appears as [Monthly News for August 2023](https://ptreview.sublinear.info/2023/0
 In *Proceedings of the 33rd Annual European Symposium on Algorithms* (ESA 2025), to appear, 2025. [arXiv:2506.23650](https://arxiv.org/abs/2506.23650).
 1. **On estimating the quantum $\ell_\alpha$ distance**.  
 <span style="color:green">Ⓐ</span> [Yupan Liu](https://scholar.google.com/citations?user=KJrYKwMAAAAJ&hl=en) and Qisheng Wang.  
-In *Proceedings of the 33rd Annual European Symposium on Algorithms* (ESA 2025), to appear, 2025. [arXiv:2505.00457](https://arxiv.org/abs/2505.00457).
+In *Proceedings of the 33rd Annual European Symposium on Algorithms* (ESA 2025), to appear, 2025. [arXiv:2505.00457](https://arxiv.org/abs/2505.00457).  
+Appears as [Monthly News for May 2025](https://ptreview.sublinear.info/2025/06/news-for-may-2025/) in [Property Testing Review](https://ptreview.sublinear.info/).
 1. **Quantum approximate $k$-minimum finding**.  
 <span style="color:green">Ⓐ</span> [Minbo Gao](https://scholar.google.com/citations?user=b8i9J_QAAAAJ&hl=en), [Zhengfeng Ji](https://scholar.google.com/citations?user=2uXdu7AAAAAJ&hl=en), and Qisheng Wang.  
 In *Proceedings of the 33rd Annual European Symposium on Algorithms* (ESA 2025), to appear, 2025. [arXiv:2412.16586](https://arxiv.org/abs/2412.16586).
@@ -40,7 +41,8 @@ Presented as (part of) a research talk at the NQCC-QSL December Deep Dive Agenda
 1. **Improved sample upper and lower bounds for trace estimation of quantum state powers**.  
 <span style="color:green">Ⓐ</span> [Kean Chen](https://scholar.google.com/citations?user=Ncvskw4AAAAJ&hl=en) and Qisheng Wang.  
 In *Proceedings of the 38th Conference on Learning Theory* (COLT 2025), pp. 1008-1028, 2025. URL:[https://proceedings.mlr.press/v291/chen25d.html](https://proceedings.mlr.press/v291/chen25d.html). [arXiv:2505.09563](https://arxiv.org/abs/2505.09563).  
-Presented as a contributed talk at [the 38th Annual Conference on Learning Theory (COLT 2025)](https://learningtheory.org/colt2025/).
+Presented as a contributed talk at [the 38th Annual Conference on Learning Theory (COLT 2025)](https://learningtheory.org/colt2025/).  
+Appears as [Monthly News for May 2025](https://ptreview.sublinear.info/2025/06/news-for-may-2025/) in [Property Testing Review](https://ptreview.sublinear.info/).
 1. **Quantum algorithms for matrix geometric means**.  
 <span style="color:green">Ⓐ</span> [Nana Liu](https://scholar.google.com/citations?user=c1Ha6TwAAAAJ&hl=en), Qisheng Wang, [Mark M. Wilde](https://scholar.google.com/citations?user=vANLRiYAAAAJ&hl=en), and [Zhicheng Zhang](https://scholar.google.com/citations?user=_CHPF-kAAAAJ&hl=en).  
 *npj Quantum Information*, 11: 101, 2025. [doi:10.1038/s41534-025-00973-7](https://doi.org/10.1038/s41534-025-00973-7). [arXiv:2405.00673](https://arxiv.org/abs/2405.00673).  
@@ -120,7 +122,8 @@ Presented as an invited talk, merged with [arXiv:2203.13522](https://arxiv.org/a
 [arXiv:2505.16715](https://arxiv.org/abs/2505.16715), 2025.
 1. **Quantum Hamiltonian certification**.  
 <span style="color:green">Ⓐ</span> [Minbo Gao](https://scholar.google.com/citations?user=b8i9J_QAAAAJ&hl=en), [Zhengfeng Ji](https://scholar.google.com/citations?user=2uXdu7AAAAAJ&hl=en), Qisheng Wang, [Wenjun Yu](https://scholar.google.com/citations?user=VV3FNQoAAAAJ&hl=en), and [Qi Zhao](https://scholar.google.com/citations?user=VVQuTDMAAAAJ&hl=en).  
-[arXiv:2505.13217](https://arxiv.org/abs/2505.13217), 2025.
+[arXiv:2505.13217](https://arxiv.org/abs/2505.13217), 2025.  
+Appears as [Monthly News for May 2025](https://ptreview.sublinear.info/2025/06/news-for-may-2025/) in [Property Testing Review](https://ptreview.sublinear.info/).
 1. **Does there exist a quantum fingerprinting protocol without coherent measurements?**.  
 <span style="color:green">Ⓐ</span> Atsuya Hasegawa, [Srijita Kundu](https://scholar.google.com/citations?user=R8ckW8sAAAAJ&hl=en), [François Le Gall](https://scholar.google.com/citations?user=tpCh6MIAAAAJ&hl=en), [Harumichi Nishimura](https://www.math.cm.is.nagoya-u.ac.jp/~hnishimura/e-index.html), and Qisheng Wang.  
 [arXiv:2502.13427](https://arxiv.org/abs/2502.13427), 2025.
