@@ -17,7 +17,8 @@ Presented as an invited [talk (20min)](https://youtu.be/RebEfLFH69I?t=3015) at [
 Appears as [Monthly News for August 2023](https://ptreview.sublinear.info/2023/09/news-for-august-2023/) in [Property Testing Review](https://ptreview.sublinear.info/).
 1. **Optimal quantum algorithm for estimating fidelity to a pure state**.  
 <span style="color:green">Ⓐ</span> [Wang Fang](https://scholar.google.com/citations?user=4D3FWQIAAAAJ&hl=en) and Qisheng Wang.  
-In *Proceedings of the 33rd Annual European Symposium on Algorithms* (ESA 2025), to appear, 2025. [arXiv:2506.23650](https://arxiv.org/abs/2506.23650).
+In *Proceedings of the 33rd Annual European Symposium on Algorithms* (ESA 2025), to appear, 2025. [arXiv:2506.23650](https://arxiv.org/abs/2506.23650).  
+Presented as (part of) a contributed talk at [the 25th Asian Quantum Information Science Conference](http://aqis-conf.org/2025/program/).
 1. **On estimating the quantum $\ell_\alpha$ distance**.  
 <span style="color:green">Ⓐ</span> [Yupan Liu](https://scholar.google.com/citations?user=KJrYKwMAAAAJ&hl=en) and Qisheng Wang.  
 In *Proceedings of the 33rd Annual European Symposium on Algorithms* (ESA 2025), to appear, 2025. [arXiv:2505.00457](https://arxiv.org/abs/2505.00457).  
@@ -61,6 +62,7 @@ Presented as (part of) a research talk at the NQCC-QSL December Deep Dive Agenda
 1. **Optimal trace distance and fidelity estimations for pure quantum states**.  
 Qisheng Wang.  
 *IEEE Transactions on Information Theory*, 70(12): 8791-8805, 2024. [doi:10.1109/TIT.2024.3447915](https://doi.org/10.1109/TIT.2024.3447915). [arXiv:2408.16655](https://arxiv.org/abs/2408.16655).  
+Presented as (part of) a contributed talk at [the 25th Asian Quantum Information Science Conference](http://aqis-conf.org/2025/program/).  
 Presented as an invited talk at the [Quantum Summer School 2025](https://quantum-tech-alliance.co.uk/2025/04/24/quantum-summer-school/) in the University of St Andrews.  
 Presented as a seminar talk at the QSL Seminar organized by [Robert I. Booth](https://scholar.google.com/citations?user=YMsAJG8AAAAJ&hl=en) in the University of Edinburgh in 2024.
 1. **Quantum Büchi automata**.  
@@ -134,6 +136,7 @@ Presented as (part of) a research talk at the NQCC-QSL December Deep Dive Agenda
 1. **Sample-optimal quantum estimators for pure-state trace distance and fidelity via samplizer**.  
 <span style="color:blue">Ⓒ</span> Qisheng Wang and [Zhicheng Zhang](https://scholar.google.com/citations?user=_CHPF-kAAAAJ&hl=en).  
 [arXiv:2410.21201](https://arxiv.org/abs/2410.21201), 2024.  
+Presented as (part of) a contributed talk at [the 25th Asian Quantum Information Science Conference](http://aqis-conf.org/2025/program/).  
 Presented as (part of) a research talk at the NQCC-QSL December Deep Dive Agenda in the University of Edinburgh in 2024.
 1. **Local test for unitarily invariant properties of bipartite quantum states**.  
 <span style="color:green">Ⓐ</span> [Kean Chen](https://scholar.google.com/citations?user=Ncvskw4AAAAJ&hl=en), Qisheng Wang, and [Zhicheng Zhang](https://scholar.google.com/citations?user=_CHPF-kAAAAJ&hl=en).  
