@@ -22,7 +22,7 @@ Presented as (part of) a contributed talk at [the 25th Asian Quantum Information
 1. **On estimating the quantum $\ell_\alpha$ distance**.  
 <span style="color:green">Ⓐ</span> [Yupan Liu](https://scholar.google.com/citations?user=KJrYKwMAAAAJ&hl=en) and Qisheng Wang.  
 In *Proceedings of the 33rd Annual European Symposium on Algorithms* (ESA 2025), to appear, 2025. [arXiv:2505.00457](https://arxiv.org/abs/2505.00457).  
-Presented as a contributed talk at [the 25th Asian Quantum Information Science Conference (AQIS 2025)](http://aqis-conf.org/2025/program/).  
+Presented as a contributed long talk at [the 25th Asian Quantum Information Science Conference (AQIS 2025)](http://aqis-conf.org/2025/program/).  
 Appears as [Monthly News for May 2025](https://ptreview.sublinear.info/2025/06/news-for-may-2025/) in [Property Testing Review](https://ptreview.sublinear.info/).
 1. **Quantum approximate $k$-minimum finding**.  
 <span style="color:green">Ⓐ</span> [Minbo Gao](https://scholar.google.com/citations?user=b8i9J_QAAAAJ&hl=en), [Zhengfeng Ji](https://scholar.google.com/citations?user=2uXdu7AAAAAJ&hl=en), and Qisheng Wang.  
@@ -122,7 +122,8 @@ Presented as an invited talk, merged with [arXiv:2203.13522](https://arxiv.org/a
 
 1. **Simultaneous estimation of nonlinear functionals of a quantum state**.  
 <span style="color:green">Ⓐ</span> [Kean Chen](https://scholar.google.com/citations?user=Ncvskw4AAAAJ&hl=en), Qisheng Wang, [Zhan Yu](https://scholar.google.com/citations?user=cF8RgGwAAAAJ&hl=en), and [Zhicheng Zhang](https://scholar.google.com/citations?user=_CHPF-kAAAAJ&hl=en).  
-[arXiv:2505.16715](https://arxiv.org/abs/2505.16715), 2025.
+[arXiv:2505.16715](https://arxiv.org/abs/2505.16715), 2025.  
+Presented (by [Zhan Yu](https://scholar.google.com/citations?user=cF8RgGwAAAAJ&hl=en)) as a contributed talk at the [the 25th Asian Quantum Information Science Conference (AQIS 2025)](http://aqis-conf.org/2025/program/).
 1. **Quantum Hamiltonian certification**.  
 <span style="color:green">Ⓐ</span> [Minbo Gao](https://scholar.google.com/citations?user=b8i9J_QAAAAJ&hl=en), [Zhengfeng Ji](https://scholar.google.com/citations?user=2uXdu7AAAAAJ&hl=en), Qisheng Wang, [Wenjun Yu](https://scholar.google.com/citations?user=VV3FNQoAAAAJ&hl=en), and [Qi Zhao](https://scholar.google.com/citations?user=VVQuTDMAAAAJ&hl=en).  
 [arXiv:2505.13217](https://arxiv.org/abs/2505.13217), 2025.  
