@@ -8,6 +8,10 @@ author_profile: true
 <span style="color:green">Ⓐ</span> — in alphabetical order. \
 <span style="color:blue">Ⓒ</span> — by contribution. 
 
+1. **Double-ended palindromic trees in linear time**.  
+<span style="color:green">Ⓐ</span> Qisheng Wang, Ming Yang, and Xinrui Zhu.  
+*Information and Computation*, to appear, 2025. [arXiv:2210.02292](https://arxiv.org/abs/2210.02292).  
+Implemented on [Library Checker](https://judge.yosupo.jp/problem/palindromes_in_deque).
 1. **Quantum lower bounds by sample-to-query lifting**.  
 <span style="color:blue">Ⓒ</span> Qisheng Wang and [Zhicheng Zhang](https://scholar.google.com/citations?user=_CHPF-kAAAAJ&hl=en).  
 *SIAM Journal on Computing*, to appear, 2025. [arXiv:2308.01794](https://arxiv.org/abs/2308.01794).  
@@ -151,10 +155,6 @@ Presented (by [Yupan Liu](https://scholar.google.com/citations?user=KJrYKwMAAAAJ
 Presented (with [Yupan Liu](https://scholar.google.com/citations?user=KJrYKwMAAAAJ&hl=en)) as a [poster](https://qip2024.tw/site/mypage.aspx?pid=263&lang=en&sid=1522) at [the 27th Conference on Quantum Information Processing (QIP 2024)](https://qip2024.tw/site/page.aspx?pid=901&sid=1522&lang=en).  
 Presented (by [Yupan Liu](https://scholar.google.com/citations?user=KJrYKwMAAAAJ&hl=en)) as an [invited online talk](https://www.youtube.com/watch?v=H-AHKy00-co) at the Research Center for Quantum Software (QuSoft) in 2023.  
 Appears as [Monthly News for August 2023](https://ptreview.sublinear.info/2023/09/news-for-august-2023/) in [Property Testing Review](https://ptreview.sublinear.info/).
-1. **Double-ended palindromic trees: a linear-time data structure and its applications**.  
-<span style="color:blue">Ⓒ</span> Qisheng Wang, Ming Yang, and Xinrui Zhu.  
-[arXiv:2210.02292](https://arxiv.org/abs/2210.02292), 2022.  
-Implemented on [Library Checker](https://judge.yosupo.jp/problem/palindromes_in_deque).
 1. **VeriQBench: a benchmark for multiple types of quantum circuits**.  
 <span style="color:green">Ⓐ</span> [Kean Chen](https://scholar.google.com/citations?user=Ncvskw4AAAAJ&hl=en), [Wang Fang](https://scholar.google.com/citations?user=4D3FWQIAAAAJ&hl=en), [Ji Guan](https://scholar.google.com/citations?user=muIp5UIAAAAJ&hl=en), [Xin Hong](https://scholar.google.com/citations?user=Vm4a-uMAAAAJ&hl=en), Mingyu Huang, [Junyi Liu](https://scholar.google.com/citations?user=jJ0y2JEAAAAJ&hl=en), Qisheng Wang, and [Mingsheng Ying](https://scholar.google.com/citations?user=jjPif6cAAAAJ&hl=en).  
 [arXiv:2206.10880](https://arxiv.org/abs/2206.10880), 2022.
