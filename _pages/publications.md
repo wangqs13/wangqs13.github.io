@@ -67,6 +67,7 @@ Presented as (part of) a research talk at the NQCC-QSL December Deep Dive Agenda
 1. **Optimal trace distance and fidelity estimations for pure quantum states**.  
 Qisheng Wang.  
 *IEEE Transactions on Information Theory*, 70(12): 8791-8805, 2024. [doi:10.1109/TIT.2024.3447915](https://doi.org/10.1109/TIT.2024.3447915). [arXiv:2408.16655](https://arxiv.org/abs/2408.16655).  
+Presented as a talk invited by [Li Zhou](https://scholar.google.com/citations?user=oEZ7iPkAAAAJ) at the Institute of Software, Chinese Academy of Sciences in 2025.  
 Presented as (part of) a contributed talk at [the 25th Asian Quantum Information Science Conference (AQIS 2025)](http://aqis-conf.org/2025/program/).  
 Presented as an invited talk at the [Quantum Summer School 2025](https://quantum-tech-alliance.co.uk/2025/04/24/quantum-summer-school/) in the University of St Andrews.  
 Presented as a seminar talk at the QSL Seminar organized by [Robert I. Booth](https://scholar.google.com/citations?user=YMsAJG8AAAAJ&hl=en) in the University of Edinburgh in 2024.
