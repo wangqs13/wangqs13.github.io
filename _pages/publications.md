@@ -125,6 +125,9 @@ Presented as an invited talk, merged with [arXiv:2203.13522](https://arxiv.org/a
 
 ## Preprints
 
+1. **Information-theoretic lower bounds for approximating monomials via optimal quantum Tsallis entropy estimation**.  
+Qisheng Wang.  
+[arXiv:2509.03496](https://arxiv.org/abs/2509.03496), 2025.
 1. **Simultaneous estimation of nonlinear functionals of a quantum state**.  
 <span style="color:green">Ⓐ</span> [Kean Chen](https://scholar.google.com/citations?user=Ncvskw4AAAAJ&hl=en), Qisheng Wang, [Zhan Yu](https://scholar.google.com/citations?user=cF8RgGwAAAAJ&hl=en), and [Zhicheng Zhang](https://scholar.google.com/citations?user=_CHPF-kAAAAJ&hl=en).  
 [arXiv:2505.16715](https://arxiv.org/abs/2505.16715), 2025.  
