@@ -21,6 +21,7 @@ I received my B.Sc. degree and Ph.D. degree from the [Department of Computer Sci
 
 ## News
 
+* 2025/09/05: Our paper "[Quantum Algorithms for Uhlmann Transformation](https://arxiv.org/abs/2509.03619)" was on arXiv.
 * 2025/09/04: Our paper "[Information-Theoretic Lower Bounds for Approximating Monomials via Optimal Quantum Tsallis Entropy Estimation](https://arxiv.org/abs/2509.03496)" was on arXiv.
 * 2025/08/18: Our paper "[Double-Ended Palindromic Trees in Linear Time](https://arxiv.org/abs/2210.02292)" was accepted by *Information and Computation*.
 * 2025/07/24: Our paper "[Quantum Lower Bounds by Sample-to-Query Lifting](https://arxiv.org/abs/2308.01794)" was accepted by *SIAM Journal on Computing*.
