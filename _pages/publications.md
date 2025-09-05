@@ -125,6 +125,9 @@ Presented as an invited talk, merged with [arXiv:2203.13522](https://arxiv.org/a
 
 ## Preprints
 
+1. **Quantum algorithms for Uhlmann transformation**.  
+<span style="color:blue">Ⓒ</span> [Takeru Utsumi](https://scholar.google.com/citations?user=8vB7hGQAAAAJ&hl=en), [Yoshifumi Nakata](https://scholar.google.com/citations?user=CpkyDoMAAAAJ&hl=en), Qisheng Wang, and [Ryuji Takagi](https://scholar.google.com/citations?user=UAe-79QAAAAJ&hl=en).  
+[arXiv:2509.03619](https://arxiv.org/abs/2509.03619), 2025.
 1. **Information-theoretic lower bounds for approximating monomials via optimal quantum Tsallis entropy estimation**.  
 Qisheng Wang.  
 [arXiv:2509.03496](https://arxiv.org/abs/2509.03496), 2025.
