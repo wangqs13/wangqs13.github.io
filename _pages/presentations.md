@@ -5,6 +5,8 @@ permalink: /presentations/
 author_profile: true
 ---
 
+* 2025/09/17: **Quantum Approximate $k$-Minimum Finding** (based on [arXiv:2412.16586](https://arxiv.org/abs/2412.16586)) as a contributed talk at [the 33rd Annual European Symposium on Algorithms (ESA 2025)](https://algo-conference.org/2025/esa/).
+* 2025/09/16: **Optimal Quantum Algorithm for Estimating Fidelity to a Pure State** (based on [arXiv:2506.23650](https://arxiv.org/abs/2506.23650)) as a contributed talk at [the 33rd Annual European Symposium on Algorithms (ESA 2025)](https://algo-conference.org/2025/esa/).
 * 2025/08/22: **Optimal Trace Distance and Fidelity Estimations for Pure Quantum States** (based on [arXiv:2408.16655](https://arxiv.org/abs/2408.16655)) as a talk  invited by [Li Zhou](https://scholar.google.com/citations?user=oEZ7iPkAAAAJ) at the Institute of Software, Chinese Academy of Sciences, Beijing, China.
 * 2025/08/07: **On Estimating the Quantum $\ell_\alpha$ Distance** (based on [arXiv:2505.00457](https://arxiv.org/abs/2505.00457)) as a contributed talk at [the 25th Asian Quantum Information Science Conference (AQIS 2025)](http://aqis-conf.org/2025/program/).
 * 2025/08/05: **Optimal Quantum Estimators for Pure-State Closeness** (based on [arXiv:2408.16655](https://arxiv.org/abs/2408.16655), [arXiv:2410.21201](https://arxiv.org/abs/2410.21201), and [arXiv:2506.23650](https://arxiv.org/abs/2506.23650)) as a contributed talk at [the 25th Asian Quantum Information Science Conference (AQIS 2025)](http://aqis-conf.org/2025/program/).
