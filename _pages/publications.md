@@ -22,18 +22,18 @@ Appears as [Monthly News for August 2023](https://ptreview.sublinear.info/2023/0
 1. **Optimal quantum algorithm for estimating fidelity to a pure state**.  
 <span style="color:green">Ⓐ</span> [Wang Fang](https://scholar.google.com/citations?user=4D3FWQIAAAAJ&hl=en) and Qisheng Wang.  
 In *Proceedings of the 33rd Annual European Symposium on Algorithms* (ESA 2025), to appear, 2025. [arXiv:2506.23650](https://arxiv.org/abs/2506.23650).  
-Presented at [the 33rd Annual European Symposium on Algorithms (ESA 2025)](https://algo-conference.org/2025/esa/).  
+Presented as a contributed talk at [the 33rd Annual European Symposium on Algorithms (ESA 2025)](https://algo-conference.org/2025/esa/).  
 Presented as (part of) a contributed talk at [the 25th Asian Quantum Information Science Conference (AQIS 2025)](http://aqis-conf.org/2025/program/).
 1. **On estimating the quantum $\ell_\alpha$ distance**.  
 <span style="color:green">Ⓐ</span> [Yupan Liu](https://scholar.google.com/citations?user=KJrYKwMAAAAJ&hl=en) and Qisheng Wang.  
 In *Proceedings of the 33rd Annual European Symposium on Algorithms* (ESA 2025), to appear, 2025. [arXiv:2505.00457](https://arxiv.org/abs/2505.00457).  
-Presented (by [Yupan Liu](https://scholar.google.com/citations?user=KJrYKwMAAAAJ&hl=en)) at [the 33rd Annual European Symposium on Algorithms (ESA 2025)](https://algo-conference.org/2025/esa/).  
+Presented (by [Yupan Liu](https://scholar.google.com/citations?user=KJrYKwMAAAAJ&hl=en)) as a contributed talk at [the 33rd Annual European Symposium on Algorithms (ESA 2025)](https://algo-conference.org/2025/esa/).  
 Presented as a contributed long talk at [the 25th Asian Quantum Information Science Conference (AQIS 2025)](http://aqis-conf.org/2025/program/).  
 Appears as [Monthly News for May 2025](https://ptreview.sublinear.info/2025/06/news-for-may-2025/) in [Property Testing Review](https://ptreview.sublinear.info/).
 1. **Quantum approximate $k$-minimum finding**.  
 <span style="color:green">Ⓐ</span> [Minbo Gao](https://scholar.google.com/citations?user=b8i9J_QAAAAJ&hl=en), [Zhengfeng Ji](https://scholar.google.com/citations?user=2uXdu7AAAAAJ&hl=en), and Qisheng Wang.  
 In *Proceedings of the 33rd Annual European Symposium on Algorithms* (ESA 2025), to appear, 2025. [arXiv:2412.16586](https://arxiv.org/abs/2412.16586).  
-Presented at [the 33rd Annual European Symposium on Algorithms (ESA 2025)](https://algo-conference.org/2025/esa/).
+Presented as a contributed talk at [the 33rd Annual European Symposium on Algorithms (ESA 2025)](https://algo-conference.org/2025/esa/).
 1. **Time-efficient quantum entropy estimator via samplizer**.  
 <span style="color:blue">Ⓒ</span> Qisheng Wang and [Zhicheng Zhang](https://scholar.google.com/citations?user=_CHPF-kAAAAJ&hl=en).  
 *IEEE Transactions on Information Theory*, to appear, 2025. [doi:10.1109/TIT.2025.3576137](https://doi.org/10.1109/TIT.2025.3576137).  
