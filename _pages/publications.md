@@ -15,6 +15,7 @@ Implemented on [Library Checker](https://judge.yosupo.jp/problem/palindromes_in_
 1. **Quantum lower bounds by sample-to-query lifting**.  
 <span style="color:blue">Ⓒ</span> Qisheng Wang and [Zhicheng Zhang](https://scholar.google.com/citations?user=_CHPF-kAAAAJ&hl=en).  
 *SIAM Journal on Computing*, to appear, 2025. [arXiv:2308.01794](https://arxiv.org/abs/2308.01794).  
+Presented as (part of) an [invitied talk (40min)](https://youtu.be/LVsHzXb0hts?t=5268) at [Shenzhen–Nagoya Workshop on Quantum Science 2025](https://shenzhen-nagoya.github.io/2025/).  
 Presented (with [Zhicheng Zhang](https://scholar.google.com/citations?user=_CHPF-kAAAAJ&hl=en)) as a [poster](https://qip2024.tw/site/mypage.aspx?pid=263&lang=en&sid=1522) at [the 27th Conference on Quantum Information Processing (QIP 2024)](https://qip2024.tw/site/page.aspx?pid=901&sid=1522&lang=en).  
 Presented as an online talk invited by [Zhengfeng Ji](https://scholar.google.com/citations?user=2uXdu7AAAAAJ&hl=en) at Tsinghua University in 2023.  
 Presented as an invited [talk (20min)](https://youtu.be/RebEfLFH69I?t=3015) at [Shenzhen–Nagoya Workshop on Quantum Science 2023](https://shenzhen-nagoya.github.io/2023/).  
@@ -38,6 +39,7 @@ Presented as a contributed talk at [the 33rd Annual European Symposium on Algori
 <span style="color:blue">Ⓒ</span> Qisheng Wang and [Zhicheng Zhang](https://scholar.google.com/citations?user=_CHPF-kAAAAJ&hl=en).  
 *IEEE Transactions on Information Theory*, to appear, 2025. [doi:10.1109/TIT.2025.3576137](https://doi.org/10.1109/TIT.2025.3576137).  
 In *Proceedings of the 32nd Annual European Symposium on Algorithms* (ESA 2024), pp. 101:1-101:15, 2024. [doi:10.4230/LIPIcs.ESA.2024.101](https://doi.org/10.4230/LIPIcs.ESA.2024.101). [arXiv:2401.09947](https://arxiv.org/abs/2401.09947).  
+Presented as (part of) an [invitied talk (40min)](https://youtu.be/LVsHzXb0hts?t=5268) at [Shenzhen–Nagoya Workshop on Quantum Science 2025](https://shenzhen-nagoya.github.io/2025/).  
 Presented as an invited [talk (20min)](https://youtu.be/qkQKNsZk4LQ?t=2805) at [Shenzhen–Nagoya Workshop on Quantum Science 2024](https://shenzhen-nagoya.github.io/2024/).  
 Presented as a contributed talk at [the 32nd Annual European Symposium on Algorithms (ESA 2024)](https://algo-conference.org/2024/esa/).  
 Presented as an online talk invited by [Patrick Rebentrost](https://scholar.google.com/citations?user=XWHSBmUAAAAJ&hl=en) at the National University of Singapore in 2024.  
@@ -64,6 +66,7 @@ Presented as a [poster](https://ken.ieice.org/ken/paper/20221208DCpl/eng/) at [t
 1. **On estimating the trace of quantum state powers**.  
 <span style="color:green">Ⓐ</span> [Yupan Liu](https://scholar.google.com/citations?user=KJrYKwMAAAAJ&hl=en) and Qisheng Wang.  
 In *Proceedings of the 2025 Annual ACM-SIAM Symposium on Discrete Algorithms* (SODA 2025), pp. 947-993, 2025. [doi:10.1137/1.9781611978322.28](https://doi.org/10.1137/1.9781611978322.28). [arXiv:2410.13559](https://arxiv.org/abs/2410.13559).  
+Presented as (part of) an [invitied talk (40min)](https://youtu.be/LVsHzXb0hts?t=5268) at [Shenzhen–Nagoya Workshop on Quantum Science 2025](https://shenzhen-nagoya.github.io/2025/).  
 Presented as a contributed [talk](https://rsvp.duke.edu/event/qip2025/accepted-talks) at [the 28th Quantum Information Processing Conference (QIP 2025)](https://rsvp.duke.edu/event/qip2025/home).  
 Presented (by [Yupan Liu](https://scholar.google.com/citations?user=KJrYKwMAAAAJ&hl=en)) as a contributed [talk](https://meetings.siam.org/sess/dsp_talk.cfm?p=145070) at the [2025 Annual ACM-SIAM Symposium on Discrete Algorithms (SODA 2025)](https://www.siam.org/conferences-events/siam-conferences/soda25/).  
 Presented as (part of) a research talk at the NQCC-QSL December Deep Dive Agenda in the University of Edinburgh in 2024.
@@ -152,11 +155,13 @@ Presented as (part of) a research talk at the NQCC-QSL December Deep Dive Agenda
 1. **Sample-optimal quantum estimators for pure-state trace distance and fidelity via samplizer**.  
 <span style="color:blue">Ⓒ</span> Qisheng Wang and [Zhicheng Zhang](https://scholar.google.com/citations?user=_CHPF-kAAAAJ&hl=en).  
 [arXiv:2410.21201](https://arxiv.org/abs/2410.21201), 2024.  
+Presented as (part of) an [invitied talk (40min)](https://youtu.be/LVsHzXb0hts?t=5268) at [Shenzhen–Nagoya Workshop on Quantum Science 2025](https://shenzhen-nagoya.github.io/2025/).  
 Presented as (part of) a contributed talk at [the 25th Asian Quantum Information Science Conference (AQIS 2025)](http://aqis-conf.org/2025/program/).  
 Presented as (part of) a research talk at the NQCC-QSL December Deep Dive Agenda in the University of Edinburgh in 2024.
 1. **Local test for unitarily invariant properties of bipartite quantum states**.  
 <span style="color:green">Ⓐ</span> [Kean Chen](https://scholar.google.com/citations?user=Ncvskw4AAAAJ&hl=en), Qisheng Wang, and [Zhicheng Zhang](https://scholar.google.com/citations?user=_CHPF-kAAAAJ&hl=en).  
 [arXiv:2404.04599](https://arxiv.org/abs/2404.04599), 2024.  
+Presented as (part of) an [invitied talk (40min)](https://youtu.be/LVsHzXb0hts?t=5268) at [Shenzhen–Nagoya Workshop on Quantum Science 2025](https://shenzhen-nagoya.github.io/2025/).  
 Appears as [Monthly News for April 2024](https://ptreview.sublinear.info/2024/05/news-for-april-2024/) in [Property Testing Review](https://ptreview.sublinear.info/).
 1. **Space-bounded quantum state testing via space-efficient quantum singular value transformation**.  
 <span style="color:green">Ⓐ</span> [François Le Gall](https://scholar.google.com/citations?user=tpCh6MIAAAAJ&hl=en), [Yupan Liu](https://scholar.google.com/citations?user=KJrYKwMAAAAJ&hl=en), and Qisheng Wang.  
