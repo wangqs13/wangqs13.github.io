@@ -26,6 +26,7 @@ redirect_from:
 
 * [*Acta Informatica*](https://www.springer.com/journal/236)
 * [*Algorithmica*](https://www.springer.com/journal/453)
+* [*Computer Science Review*](https://www.sciencedirect.com/journal/computer-science-review)
 * [*Entropy*](https://www.mdpi.com/journal/entropy)
 * [*Frontiers of Computer Science*](https://www.springer.com/journal/11704)
 * [*IEEE Transactions on Computers*](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=12)
@@ -39,6 +40,8 @@ redirect_from:
 
 ## Conference Review
 
+* [*ITCS 2026 (17th Innovations in Theoretical Computer Science Conference)*](http://itcs-conf.org/index.html), Milan, Italy, 2026.
+* [*QIP 2026 (29th Annual Quantum Information Processing Conference)*](https://qip2026.lu.lv/), Riga, Latvia, 2026.
 * [*AQIS 2025 (25th Asian Quantum Information Science Conference)*](http://aqis-conf.org/2025/), Hong Kong, China, 2025.
 * [*TQC 2025 (20th Conference on the Theory of Quantum Computation, Communication, and Cryptography)*](https://tqc-conference.org/), Bengaluru, India, 2025.
 * [*ICALP 2025 (52nd EATCS International Colloquium on Automata, Languages, and Programming)*](https://conferences.au.dk/icalp2025), Aarhus, Denmark, 2025.
