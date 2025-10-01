@@ -20,21 +20,6 @@ Presented (with [Zhicheng Zhang](https://scholar.google.com/citations?user=_CHPF
 Presented as an online talk invited by [Zhengfeng Ji](https://scholar.google.com/citations?user=2uXdu7AAAAAJ&hl=en) at Tsinghua University in 2023.  
 Presented as an invited [talk (20min)](https://youtu.be/RebEfLFH69I?t=3015) at [Shenzhen–Nagoya Workshop on Quantum Science 2023](https://shenzhen-nagoya.github.io/2023/).  
 Appears as [Monthly News for August 2023](https://ptreview.sublinear.info/2023/09/news-for-august-2023/) in [Property Testing Review](https://ptreview.sublinear.info/).
-1. **Optimal quantum algorithm for estimating fidelity to a pure state**.  
-<span style="color:green">Ⓐ</span> [Wang Fang](https://scholar.google.com/citations?user=4D3FWQIAAAAJ&hl=en) and Qisheng Wang.  
-In *Proceedings of the 33rd Annual European Symposium on Algorithms* (ESA 2025), to appear, 2025. [arXiv:2506.23650](https://arxiv.org/abs/2506.23650).  
-Presented as a contributed talk at [the 33rd Annual European Symposium on Algorithms (ESA 2025)](https://algo-conference.org/2025/esa/).  
-Presented as (part of) a contributed talk at [the 25th Asian Quantum Information Science Conference (AQIS 2025)](http://aqis-conf.org/2025/program/).
-1. **On estimating the quantum $\ell_\alpha$ distance**.  
-<span style="color:green">Ⓐ</span> [Yupan Liu](https://scholar.google.com/citations?user=KJrYKwMAAAAJ&hl=en) and Qisheng Wang.  
-In *Proceedings of the 33rd Annual European Symposium on Algorithms* (ESA 2025), to appear, 2025. [arXiv:2505.00457](https://arxiv.org/abs/2505.00457).  
-Presented (by [Yupan Liu](https://scholar.google.com/citations?user=KJrYKwMAAAAJ&hl=en)) as a contributed talk at [the 33rd Annual European Symposium on Algorithms (ESA 2025)](https://algo-conference.org/2025/esa/).  
-Presented as a contributed long talk at [the 25th Asian Quantum Information Science Conference (AQIS 2025)](http://aqis-conf.org/2025/program/).  
-Appears as [Monthly News for May 2025](https://ptreview.sublinear.info/2025/06/news-for-may-2025/) in [Property Testing Review](https://ptreview.sublinear.info/).
-1. **Quantum approximate $k$-minimum finding**.  
-<span style="color:green">Ⓐ</span> [Minbo Gao](https://scholar.google.com/citations?user=b8i9J_QAAAAJ&hl=en), [Zhengfeng Ji](https://scholar.google.com/citations?user=2uXdu7AAAAAJ&hl=en), and Qisheng Wang.  
-In *Proceedings of the 33rd Annual European Symposium on Algorithms* (ESA 2025), to appear, 2025. [arXiv:2412.16586](https://arxiv.org/abs/2412.16586).  
-Presented as a contributed talk at [the 33rd Annual European Symposium on Algorithms (ESA 2025)](https://algo-conference.org/2025/esa/).
 1. **Time-efficient quantum entropy estimator via samplizer**.  
 <span style="color:blue">Ⓒ</span> Qisheng Wang and [Zhicheng Zhang](https://scholar.google.com/citations?user=_CHPF-kAAAAJ&hl=en).  
 *IEEE Transactions on Information Theory*, to appear, 2025. [doi:10.1109/TIT.2025.3576137](https://doi.org/10.1109/TIT.2025.3576137).  
@@ -44,6 +29,21 @@ Presented as an invited [talk (20min)](https://youtu.be/qkQKNsZk4LQ?t=2805) at [
 Presented as a contributed talk at [the 32nd Annual European Symposium on Algorithms (ESA 2024)](https://algo-conference.org/2024/esa/).  
 Presented as an online talk invited by [Patrick Rebentrost](https://scholar.google.com/citations?user=XWHSBmUAAAAJ&hl=en) at the National University of Singapore in 2024.  
 Presented as an online talk invited by [Zhengfeng Ji](https://scholar.google.com/citations?user=2uXdu7AAAAAJ&hl=en) at Tsinghua University in 2024.
+1. **On estimating the quantum $\ell_\alpha$ distance**.  
+<span style="color:green">Ⓐ</span> [Yupan Liu](https://scholar.google.com/citations?user=KJrYKwMAAAAJ&hl=en) and Qisheng Wang.  
+In *Proceedings of the 33rd Annual European Symposium on Algorithms* (ESA 2025), pp. 106:1-106:19, 2025. [doi:10.4230/LIPIcs.ESA.2025.106](https://doi.org/10.4230/LIPIcs.ESA.2025.106). [arXiv:2505.00457](https://arxiv.org/abs/2505.00457).  
+Presented (by [Yupan Liu](https://scholar.google.com/citations?user=KJrYKwMAAAAJ&hl=en)) as a contributed talk at [the 33rd Annual European Symposium on Algorithms (ESA 2025)](https://algo-conference.org/2025/esa/).  
+Presented as a contributed long talk at [the 25th Asian Quantum Information Science Conference (AQIS 2025)](http://aqis-conf.org/2025/program/).  
+Appears as [Monthly News for May 2025](https://ptreview.sublinear.info/2025/06/news-for-may-2025/) in [Property Testing Review](https://ptreview.sublinear.info/).
+1. **Quantum approximate $k$-minimum finding**.  
+<span style="color:green">Ⓐ</span> [Minbo Gao](https://scholar.google.com/citations?user=b8i9J_QAAAAJ&hl=en), [Zhengfeng Ji](https://scholar.google.com/citations?user=2uXdu7AAAAAJ&hl=en), and Qisheng Wang.  
+In *Proceedings of the 33rd Annual European Symposium on Algorithms* (ESA 2025), pp. 51:1-51:15, 2025. [doi:10.4230/LIPIcs.ESA.2025.51](https://doi.org/10.4230/LIPIcs.ESA.2025.51). [arXiv:2412.16586](https://arxiv.org/abs/2412.16586).  
+Presented as a contributed talk at [the 33rd Annual European Symposium on Algorithms (ESA 2025)](https://algo-conference.org/2025/esa/).
+1. **Optimal quantum algorithm for estimating fidelity to a pure state**.  
+<span style="color:green">Ⓐ</span> [Wang Fang](https://scholar.google.com/citations?user=4D3FWQIAAAAJ&hl=en) and Qisheng Wang.  
+In *Proceedings of the 33rd Annual European Symposium on Algorithms* (ESA 2025), pp. 4:1-4:12, 2025. [doi:10.4230/LIPIcs.ESA.2025.4](https://doi.org/10.4230/LIPIcs.ESA.2025.4). [arXiv:2506.23650](https://arxiv.org/abs/2506.23650).  
+Presented as a contributed talk at [the 33rd Annual European Symposium on Algorithms (ESA 2025)](https://algo-conference.org/2025/esa/).  
+Presented as (part of) a contributed talk at [the 25th Asian Quantum Information Science Conference (AQIS 2025)](http://aqis-conf.org/2025/program/).
 1. **Space-bounded quantum interactive proof systems**.  
 <span style="color:green">Ⓐ</span> [François Le Gall](https://scholar.google.com/citations?user=tpCh6MIAAAAJ&hl=en), [Yupan Liu](https://scholar.google.com/citations?user=KJrYKwMAAAAJ&hl=en), [Harumichi Nishimura](https://www.math.cm.is.nagoya-u.ac.jp/~hnishimura/e-index.html), and Qisheng Wang.  
 In *Proceedings of the 40th Computational Complexity Conference* (CCC 2025), pp. 17:1-17:18, 2025. [doi:10.4230/LIPIcs.CCC.2025.17](https://doi.org/10.4230/LIPIcs.CCC.2025.17). [arXiv:2410.23958](https://arxiv.org/abs/2410.23958).  
