@@ -21,11 +21,13 @@ I received my B.Sc. degree and Ph.D. degree from the [Department of Computer Sci
 
 ## News
 
+* 2025/10/03: Our paper "[Quantum Hamiltonian Certification](https://arxiv.org/abs/2505.13217)" was accepted by the 2026 Annual ACM-SIAM Symposium on Discrete Algorithms (SODA 2026).
+* 2025/10/02: Our paper "[On Estimating the Quantum Tsallis Relative Entropy](https://arxiv.org/abs/2510.00752)" was on arXiv.
 * 2025/09/05: Our paper "[Quantum Algorithms for Uhlmann Transformation](https://arxiv.org/abs/2509.03619)" was on arXiv.
 * 2025/09/04: Our paper "[Information-Theoretic Lower Bounds for Approximating Monomials via Optimal Quantum Tsallis Entropy Estimation](https://arxiv.org/abs/2509.03496)" was on arXiv.
 * 2025/08/18: Our paper "[Double-Ended Palindromic Trees in Linear Time](https://arxiv.org/abs/2210.02292)" was accepted by *Information and Computation*.
 * 2025/07/24: Our paper "[Quantum Lower Bounds by Sample-to-Query Lifting](https://arxiv.org/abs/2308.01794)" was accepted by *SIAM Journal on Computing*.
-* 2025/06/23: Our three papers "[Optimal Quantum Algorithm for Estimating Fidelity to a Pure State](https://arxiv.org/abs/2506.23650)", "[On Estimating the Quantum $\ell_\alpha$ Distance](https://arxiv.org/abs/2505.00457)", "[Quantum Approximate $k$-Minimum Finding](https://arxiv.org/abs/2412.16586)" were accepted by the the 33rd Annual European Symposium on Algorithms (ESA 2025).
+* 2025/06/23: Our three papers "[Optimal Quantum Algorithm for Estimating Fidelity to a Pure State](https://arxiv.org/abs/2506.23650)", "[On Estimating the Quantum $\ell_\alpha$ Distance](https://arxiv.org/abs/2505.00457)", "[Quantum Approximate $k$-Minimum Finding](https://arxiv.org/abs/2412.16586)" were accepted by the 33rd Annual European Symposium on Algorithms (ESA 2025).
 * 2025/05/31: Our three works "Optimal Quantum Estimators for Pure-State Closeness", "[Simultaneous Estimation of Nonlinear Functionals of a Quantum State](https://arxiv.org/abs/2505.16715)", and "[On Estimating the Quantum $\ell_\alpha$ Distance](https://arxiv.org/abs/2505.00457)" were accepted by the 25th Asian Quantum Information Science Conference (AQIS 2025) as contributed talks.
 * 2025/05/23: Our paper "[Simultaneous Estimation of Nonlinear Functionals of a Quantum State](https://arxiv.org/abs/2505.16715)" was on arXiv.
 * 2025/05/20: Our paper "[Quantum Hamiltonian Certification](https://arxiv.org/abs/2505.13217)" was on arXiv.
