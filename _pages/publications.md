@@ -8,6 +8,10 @@ author_profile: true
 <span style="color:green">Ⓐ</span> — in alphabetical order. \
 <span style="color:blue">Ⓒ</span> — by contribution. 
 
+1. **Quantum Hamiltonian certification**.  
+<span style="color:green">Ⓐ</span> [Minbo Gao](https://scholar.google.com/citations?user=b8i9J_QAAAAJ&hl=en), [Zhengfeng Ji](https://scholar.google.com/citations?user=2uXdu7AAAAAJ&hl=en), Qisheng Wang, [Wenjun Yu](https://scholar.google.com/citations?user=VV3FNQoAAAAJ&hl=en), and [Qi Zhao](https://scholar.google.com/citations?user=VVQuTDMAAAAJ&hl=en).  
+In *Proceedings of the 2026 Annual ACM-SIAM Symposium on Discrete Algorithms* (SODA 2026), to appear, 2026. [arXiv:2505.13217](https://arxiv.org/abs/2505.13217).  
+Appears as [Monthly News for May 2025](https://ptreview.sublinear.info/2025/06/news-for-may-2025/) in [Property Testing Review](https://ptreview.sublinear.info/).
 1. **Double-ended palindromic trees in linear time**.  
 <span style="color:green">Ⓐ</span> Qisheng Wang, Ming Yang, and Xinrui Zhu.  
 *Information and Computation*, to appear, 2025. [arXiv:2210.02292](https://arxiv.org/abs/2210.02292).  
@@ -131,6 +135,9 @@ Presented as an invited talk, merged with [arXiv:2203.13522](https://arxiv.org/a
 
 ## Preprints
 
+1. **On estimating the quantum Tsallis relative entropy**.  
+<span style="color:green">Ⓐ</span> [Jinge Bao](https://scholar.google.com/citations?user=U1TGq_gAAAAJ&hl=en), [Minbo Gao](https://scholar.google.com/citations?user=b8i9J_QAAAAJ&hl=en), and Qisheng Wang.  
+[arXiv:2510.00752](https://arxiv.org/abs/2510.00752), 2025.
 1. **Quantum algorithms for Uhlmann transformation**.  
 <span style="color:blue">Ⓒ</span> [Takeru Utsumi](https://scholar.google.com/citations?user=8vB7hGQAAAAJ&hl=en), [Yoshifumi Nakata](https://scholar.google.com/citations?user=CpkyDoMAAAAJ&hl=en), Qisheng Wang, and [Ryuji Takagi](https://scholar.google.com/citations?user=UAe-79QAAAAJ&hl=en).  
 [arXiv:2509.03619](https://arxiv.org/abs/2509.03619), 2025.
@@ -141,10 +148,6 @@ Qisheng Wang.
 <span style="color:green">Ⓐ</span> [Kean Chen](https://scholar.google.com/citations?user=Ncvskw4AAAAJ&hl=en), Qisheng Wang, [Zhan Yu](https://scholar.google.com/citations?user=cF8RgGwAAAAJ&hl=en), and [Zhicheng Zhang](https://scholar.google.com/citations?user=_CHPF-kAAAAJ&hl=en).  
 [arXiv:2505.16715](https://arxiv.org/abs/2505.16715), 2025.  
 Presented (by [Zhan Yu](https://scholar.google.com/citations?user=cF8RgGwAAAAJ&hl=en)) as a contributed talk at the [the 25th Asian Quantum Information Science Conference (AQIS 2025)](http://aqis-conf.org/2025/program/).
-1. **Quantum Hamiltonian certification**.  
-<span style="color:green">Ⓐ</span> [Minbo Gao](https://scholar.google.com/citations?user=b8i9J_QAAAAJ&hl=en), [Zhengfeng Ji](https://scholar.google.com/citations?user=2uXdu7AAAAAJ&hl=en), Qisheng Wang, [Wenjun Yu](https://scholar.google.com/citations?user=VV3FNQoAAAAJ&hl=en), and [Qi Zhao](https://scholar.google.com/citations?user=VVQuTDMAAAAJ&hl=en).  
-[arXiv:2505.13217](https://arxiv.org/abs/2505.13217), 2025.  
-Appears as [Monthly News for May 2025](https://ptreview.sublinear.info/2025/06/news-for-may-2025/) in [Property Testing Review](https://ptreview.sublinear.info/).
 1. **Does there exist a quantum fingerprinting protocol without coherent measurements?**.  
 <span style="color:green">Ⓐ</span> Atsuya Hasegawa, [Srijita Kundu](https://scholar.google.com/citations?user=R8ckW8sAAAAJ&hl=en), [François Le Gall](https://scholar.google.com/citations?user=tpCh6MIAAAAJ&hl=en), [Harumichi Nishimura](https://www.math.cm.is.nagoya-u.ac.jp/~hnishimura/e-index.html), and Qisheng Wang.  
 [arXiv:2502.13427](https://arxiv.org/abs/2502.13427), 2025.
