@@ -40,6 +40,7 @@ redirect_from:
 
 ## Conference Review
 
+* [*SOFSEM 2026 (51st International Conference on Current Trends in Theory and Practice of Computer Science)*](https://sofsem.uj.edu.pl/index.html), Kraków, Poland, 2026.
 * [*ITCS 2026 (17th Innovations in Theoretical Computer Science Conference)*](http://itcs-conf.org/index.html), Milan, Italy, 2026.
 * [*QIP 2026 (29th Annual Quantum Information Processing Conference)*](https://qip2026.lu.lv/), Riga, Latvia, 2026.
 * [*AQIS 2025 (25th Asian Quantum Information Science Conference)*](http://aqis-conf.org/2025/), Hong Kong, China, 2025.
