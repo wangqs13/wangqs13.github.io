@@ -40,6 +40,7 @@ redirect_from:
 
 ## Conference Review
 
+* [*STACS 2026 (43rd International Symposium on Theoretical Aspects of Computer Science)*](https://stacs2026.imag.fr/), Grenoble, France, 2026.
 * [*SOFSEM 2026 (51st International Conference on Current Trends in Theory and Practice of Computer Science)*](https://sofsem.uj.edu.pl/index.html), Kraków, Poland, 2026.
 * [*ITCS 2026 (17th Innovations in Theoretical Computer Science Conference)*](http://itcs-conf.org/index.html), Milan, Italy, 2026.
 * [*QIP 2026 (29th Annual Quantum Information Processing Conference)*](https://qip2026.lu.lv/), Riga, Latvia, 2026.
@@ -49,7 +50,7 @@ redirect_from:
 * [*ISIT 2025 (2025 IEEE International Symposium on Information Theory)*](https://2025.ieee-isit.org/), Ann Arbor, Michigan, United States, 2025.
 * [*SoCG 2025 (41st International Symposium on Computational Geometry)*](https://socg25.github.io/), Kanazawa, Japan, 2025.
 * [*QCNC 2025 (International Conference on Quantum Communications, Networking, and Computing 2025)*](https://www.ieee-qcnc.org/2025/), Nara, Japan, 2025. 
-* [*QIP 2025 (28th Annual Quantum Information Processing Conference)*](https://rsvp.duke.edu/event/qip2025/summary), New Orleans, Louisiana, United States, 2025.
+* [*QIP 2025 (28th Annual Quantum Information Processing Conference)*](https://rsvp.duke.edu/event/qip2025/summary), Raleigh, North Carolina, United States, 2025.
 * [*ITU Kaleidoscope 2024 (15th ITU Kaleidoscope Academic Conference)*](https://www.itu.int/en/ITU-T/academia/kaleidoscope/2024/Pages/default.aspx), New Delhi, India, 2024.
 * [*AQIS 2024 (24th Asian Quantum Information Science Conference)*](http://aqis-conf.org/2024/), Sapporo, Japan, 2024.
 * [*FOCS 2024 (65th IEEE Symposium on Foundations of Computer Science)*](https://focs.computer.org/2024/), Chicago, Illinois, United States, 2024.
