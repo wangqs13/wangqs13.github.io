@@ -21,6 +21,7 @@ I received my B.Sc. degree and Ph.D. degree from the [Department of Computer Sci
 
 ## News
 
+* 2025/11/08: Our paper "[Quantum Algorithms for Uhlmann Transformation](https://arxiv.org/abs/2509.03619)" was accepted by the 29th Quantum Information Processing Conference (QIP 2026) as a regular talk.
 * 2025/10/17: Our paper "[Space-Bounded Quantum State Testing via Space-Efficient Quantum Singular Value Transformation](https://arxiv.org/abs/2308.05079)" was accepted by *Computational Complexity*.
 * 2025/10/03: Our paper "[Quantum Hamiltonian Certification](https://arxiv.org/abs/2505.13217)" was accepted by the 2026 Annual ACM-SIAM Symposium on Discrete Algorithms (SODA 2026).
 * 2025/10/02: Our paper "[On Estimating the Quantum Tsallis Relative Entropy](https://arxiv.org/abs/2510.00752)" was on arXiv.
