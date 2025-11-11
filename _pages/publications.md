@@ -21,7 +21,7 @@ Presented (by [Yupan Liu](https://scholar.google.com/citations?user=KJrYKwMAAAAJ
 Appears as [Monthly News for August 2023](https://ptreview.sublinear.info/2023/09/news-for-august-2023/) in [Property Testing Review](https://ptreview.sublinear.info/).
 1. **Double-ended palindromic trees in linear time**.  
 <span style="color:green">Ⓐ</span> Qisheng Wang, Ming Yang, and Xinrui Zhu.  
-*Information and Computation*, to appear, 2025. [arXiv:2210.02292](https://arxiv.org/abs/2210.02292).  
+*Information and Computation*, to appear, 2025. [doi:10.1016/j.ic.2025.105379](https://doi.org/10.1016/j.ic.2025.105379). [arXiv:2210.02292](https://arxiv.org/abs/2210.02292).  
 Implemented on [Library Checker](https://judge.yosupo.jp/problem/palindromes_in_deque).
 1. **Time-efficient quantum entropy estimator via samplizer**.  
 <span style="color:blue">Ⓒ</span> Qisheng Wang and [Zhicheng Zhang](https://scholar.google.com/citations?user=_CHPF-kAAAAJ&hl=en).  
