@@ -44,6 +44,7 @@ redirect_from:
 * [*SOFSEM 2026 (51st International Conference on Current Trends in Theory and Practice of Computer Science)*](https://sofsem.uj.edu.pl/index.html), Kraków, Poland, 2026.
 * [*ITCS 2026 (17th Innovations in Theoretical Computer Science Conference)*](http://itcs-conf.org/index.html), Milan, Italy, 2026.
 * [*QIP 2026 (29th Annual Quantum Information Processing Conference)*](https://qip2026.lu.lv/), Riga, Latvia, 2026.
+* [*NeurIPS 2025 (39th Annual Conference on Neural Information Processing Systems)*](https://neurips.cc/Conferences/2025), San Diego, California, USA, 2025.
 * [*AQIS 2025 (25th Asian Quantum Information Science Conference)*](http://aqis-conf.org/2025/), Hong Kong, China, 2025.
 * [*TQC 2025 (20th Conference on the Theory of Quantum Computation, Communication, and Cryptography)*](https://tqc-conference.org/), Bengaluru, India, 2025.
 * [*ICALP 2025 (52nd EATCS International Colloquium on Automata, Languages, and Programming)*](https://conferences.au.dk/icalp2025), Aarhus, Denmark, 2025.
