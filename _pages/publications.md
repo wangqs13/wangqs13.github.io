@@ -19,10 +19,6 @@ Presented (by [Yupan Liu](https://scholar.google.com/citations?user=KJrYKwMAAAAJ
 Presented (with [Yupan Liu](https://scholar.google.com/citations?user=KJrYKwMAAAAJ&hl=en)) as a [poster](https://qip2024.tw/site/mypage.aspx?pid=263&lang=en&sid=1522) at [the 27th Conference on Quantum Information Processing (QIP 2024)](https://qip2024.tw/site/page.aspx?pid=901&sid=1522&lang=en).  
 Presented (by [Yupan Liu](https://scholar.google.com/citations?user=KJrYKwMAAAAJ&hl=en)) as an [invited online talk](https://www.youtube.com/watch?v=H-AHKy00-co) at the Research Center for Quantum Software (QuSoft) in 2023.  
 Appears as [Monthly News for August 2023](https://ptreview.sublinear.info/2023/09/news-for-august-2023/) in [Property Testing Review](https://ptreview.sublinear.info/).
-1. **Double-ended palindromic trees in linear time**.  
-<span style="color:green">Ⓐ</span> Qisheng Wang, Ming Yang, and Xinrui Zhu.  
-*Information and Computation*, to appear, 2025. [doi:10.1016/j.ic.2025.105379](https://doi.org/10.1016/j.ic.2025.105379). [arXiv:2210.02292](https://arxiv.org/abs/2210.02292).  
-Implemented on [Library Checker](https://judge.yosupo.jp/problem/palindromes_in_deque).
 1. **Time-efficient quantum entropy estimator via samplizer**.  
 <span style="color:blue">Ⓒ</span> Qisheng Wang and [Zhicheng Zhang](https://scholar.google.com/citations?user=_CHPF-kAAAAJ&hl=en).  
 *IEEE Transactions on Information Theory*, to appear, 2025. [doi:10.1109/TIT.2025.3576137](https://doi.org/10.1109/TIT.2025.3576137).  
@@ -32,6 +28,10 @@ Presented as an invited [talk (20min)](https://youtu.be/qkQKNsZk4LQ?t=2805) at [
 Presented as a contributed talk at [the 32nd Annual European Symposium on Algorithms (ESA 2024)](https://algo-conference.org/2024/esa/).  
 Presented as an online talk invited by [Patrick Rebentrost](https://scholar.google.com/citations?user=XWHSBmUAAAAJ&hl=en) at the National University of Singapore in 2024.  
 Presented as an online talk invited by [Zhengfeng Ji](https://scholar.google.com/citations?user=2uXdu7AAAAAJ&hl=en) at Tsinghua University in 2024.
+1. **Double-ended palindromic trees in linear time**.  
+<span style="color:green">Ⓐ</span> Qisheng Wang, Ming Yang, and Xinrui Zhu.  
+*Information and Computation*, 307: 105379, 2025. [doi:10.1016/j.ic.2025.105379](https://doi.org/10.1016/j.ic.2025.105379). [arXiv:2210.02292](https://arxiv.org/abs/2210.02292).  
+Testable on [Library Checker](https://judge.yosupo.jp/problem/palindromes_in_deque).
 1. **Quantum lower bounds by sample-to-query lifting**.  
 <span style="color:blue">Ⓒ</span> Qisheng Wang and [Zhicheng Zhang](https://scholar.google.com/citations?user=_CHPF-kAAAAJ&hl=en).  
 *SIAM Journal on Computing*, 54(5): 1294-1334, 2025. [doi:10.1137/24M1638616](https://doi.org/10.1137/24M1638616). [arXiv:2308.01794](https://arxiv.org/abs/2308.01794).  
