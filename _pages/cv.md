@@ -26,6 +26,7 @@ redirect_from:
 
 * [*Acta Informatica*](https://www.springer.com/journal/236)
 * [*Algorithmica*](https://www.springer.com/journal/453)
+* [*Communications Physics*](https://www.nature.com/commsphys)
 * [*Computer Science Review*](https://www.sciencedirect.com/journal/computer-science-review)
 * [*Entropy*](https://www.mdpi.com/journal/entropy)
 * [*Frontiers of Computer Science*](https://www.springer.com/journal/11704)
