@@ -16,6 +16,10 @@ redirect_from:
   * Thesis: *Sequential Quantum Circuits: Formal Models and Verification*
   * Advisor: Prof. Mingsheng Ying
 
+## Journal Editor
+
+* [*Entropy*](https://www.mdpi.com/journal/entropy), Guest Editor of Special Issue "[The Role of Entropy in Quantum Computation and Algorithms](https://www.mdpi.com/journal/entropy/special_issues/1WX3RY33N0)", 2025-2026.
+
 ## Program Committee Member
 
 * [*QCE 2025 (IEEE International Conference on Quantum Computing and Engineering 2025)*](https://qce.quantum.ieee.org/2025/technical-papers-program-committee/), Albuquerque, New Mexico, USA, 2025.
