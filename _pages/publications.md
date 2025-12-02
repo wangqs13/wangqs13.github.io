@@ -142,6 +142,9 @@ Presented as an invited talk, merged with [arXiv:2203.13522](https://arxiv.org/a
 
 ## Preprints
 
+1. **A list of complexity bounds for property testing by quantum sample-to-query lifting**.  
+<span style="color:green">Ⓐ</span> [Kean Chen](https://scholar.google.com/citations?user=Ncvskw4AAAAJ&hl=en), Qisheng Wang, and [Zhicheng Zhang](https://scholar.google.com/citations?user=_CHPF-kAAAAJ&hl=en).  
+[arXiv:2512.01971](https://arxiv.org/abs/2512.01971), 2025.
 1. **On estimating the quantum Tsallis relative entropy**.  
 <span style="color:green">Ⓐ</span> [Jinge Bao](https://scholar.google.com/citations?user=U1TGq_gAAAAJ&hl=en), [Minbo Gao](https://scholar.google.com/citations?user=b8i9J_QAAAAJ&hl=en), and Qisheng Wang.  
 [arXiv:2510.00752](https://arxiv.org/abs/2510.00752), 2025.
