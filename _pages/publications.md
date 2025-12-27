@@ -17,7 +17,7 @@ Presented (by [Yupan Liu](https://scholar.google.com/citations?user=KJrYKwMAAAAJ
 Presented (with [Yupan Liu](https://scholar.google.com/citations?user=KJrYKwMAAAAJ&hl=en)) as a [poster](https://qip2024.tw/site/mypage.aspx?pid=263&lang=en&sid=1522) at [the 27th Conference on Quantum Information Processing (QIP 2024)](https://qip2024.tw/site/page.aspx?pid=901&sid=1522&lang=en).  
 Presented (by [Yupan Liu](https://scholar.google.com/citations?user=KJrYKwMAAAAJ&hl=en)) as an [invited online talk](https://www.youtube.com/watch?v=H-AHKy00-co) at the Research Center for Quantum Software (QuSoft) in 2023.  
 Appears as [Monthly News for August 2023](https://ptreview.sublinear.info/2023/09/news-for-august-2023/) in [Property Testing Review](https://ptreview.sublinear.info/).
-1. **Time-efficient quantum entropy estimator via samplizer**. <a name="samplizer"></a>  
+1. <a name="journal-time-efficient-quantum-entropy-estimator-via-samplizer"></a>**Time-efficient quantum entropy estimator via samplizer**. [Conference version @ESA 2024](#conference-time-efficient-quantum-entropy-estimator-via-samplizer)  
 <span style="color:blue">Ⓒ</span> Qisheng Wang and [Zhicheng Zhang](https://scholar.google.com/citations?user=_CHPF-kAAAAJ&hl=en).  
 *IEEE Transactions on Information Theory*, 71(12): 9569-9599, 2025. [doi:10.1109/TIT.2025.3576137](https://doi.org/10.1109/TIT.2025.3576137). [arXiv:2401.09947](https://arxiv.org/abs/2401.09947).  
 Presented as (part of) an [invitied talk (40min)](https://youtu.be/LVsHzXb0hts?t=5268) at [Shenzhen–Nagoya Workshop on Quantum Science 2025](https://shenzhen-nagoya.github.io/2025/).  
@@ -137,7 +137,7 @@ Presented as (part of) an [invitied talk (40min)](https://youtu.be/LVsHzXb0hts?t
 Presented as a contributed [talk](https://rsvp.duke.edu/event/qip2025/accepted-talks) at [the 28th Quantum Information Processing Conference (QIP 2025)](https://rsvp.duke.edu/event/qip2025/home).  
 Presented (by [Yupan Liu](https://scholar.google.com/citations?user=KJrYKwMAAAAJ&hl=en)) as a contributed [talk](https://meetings.siam.org/sess/dsp_talk.cfm?p=145070) at the [2025 Annual ACM-SIAM Symposium on Discrete Algorithms (SODA 2025)](https://www.siam.org/conferences-events/siam-conferences/soda25/).  
 Presented as (part of) a research talk at the NQCC-QSL December Deep Dive Agenda in the University of Edinburgh in 2024.
-1. **Time-efficient quantum entropy estimator via samplizer**. See [journal version](#samplizer).  
+1. <a name="conference-time-efficient-quantum-entropy-estimator-via-samplizer"></a>**Time-efficient quantum entropy estimator via samplizer**. [Journal version @TIT](#journal-time-efficient-quantum-entropy-estimator-via-samplizer)  
 <span style="color:blue">Ⓒ</span> Qisheng Wang and [Zhicheng Zhang](https://scholar.google.com/citations?user=_CHPF-kAAAAJ&hl=en).  
 In *Proceedings of the 32nd Annual European Symposium on Algorithms* (ESA 2024), pp. 101:1-101:15, 2024. [doi:10.4230/LIPIcs.ESA.2024.101](https://doi.org/10.4230/LIPIcs.ESA.2024.101). [arXiv:2401.09947](https://arxiv.org/abs/2401.09947).
 1. **Logarithmic-regret quantum learning algorithms for zero-sum games**.  
