@@ -19,13 +19,16 @@ I received my B.Sc. degree and Ph.D. degree from the [Department of Computer Sci
   * Quantum Computing
   * Algorithms and Complexity
 
-## News
+## Pinned News
 
-* 2025/11/26: I became a Guest Editor of the Special Issue "[The Role of Entropy in Quantum Computation and Algorithms](https://www.mdpi.com/journal/entropy/special_issues/1WX3RY33N0)" of *Entropy*. Submissions are welcome!
+* 2025/12/26: I served as a PC Member of [TQC 2026](https://tqc-conference.org/2026/). Submissions are welcome!
+* 2025/11/26: I served as a Guest Editor of the Special Issue "[The Role of Entropy in Quantum Computation and Algorithms](https://www.mdpi.com/journal/entropy/special_issues/1WX3RY33N0)" of *Entropy*. Submissions are welcome!
 
 ## History
 
-* 2025/12/15: OUr paper "[A Slightly Improved Upper Bound for Quantum Statistical Zero-Knowledge](https://arxiv.org/abs/2512.11597)" was on arXiv.
+### 2025
+
+* 2025/12/15: Our paper "[A Slightly Improved Upper Bound for Quantum Statistical Zero-Knowledge](https://arxiv.org/abs/2512.11597)" was on arXiv.
 * 2025/12/02: Our paper "[A List of Complexity Bounds for Property Testing by Quantum Sample-to-Query Lifting](https://arxiv.org/abs/2512.01971)" was on arXiv.
 * 2025/11/08: Our paper "[Quantum Algorithms for Uhlmann Transformation](https://arxiv.org/abs/2509.03619)" was accepted by the 29th Quantum Information Processing Conference (QIP 2026) as a regular talk.
 * 2025/10/17: Our paper "[Space-Bounded Quantum State Testing via Space-Efficient Quantum Singular Value Transformation](https://arxiv.org/abs/2308.05079)" was accepted by *Computational Complexity*.
@@ -45,6 +48,9 @@ I received my B.Sc. degree and Ph.D. degree from the [Department of Computer Sci
 * 2025/02/20: Our paper "[Does There Exist a Quantum Fingerprinting Protocol without Coherent Measurements?](https://arxiv.org/abs/2502.13427)" was on arXiv. 
 * 2025/02/10: Our paper "[A Note on Quantum Divide and Conquer for Minimal String Rotation](https://arxiv.org/abs/2210.09149)" was accepted by *Theoretical Computer Science*.
 * 2025/01/23: Our paper "[Quantum Algorithms for Matrix Geometric Means](https://arxiv.org/abs/2405.00673)" was accepted by *npj Quantum Information*.
+
+### 2024
+
 * 2024/12/24: Our paper "[Quantum Approximate $k$-Minimum Finding](https://arxiv.org/abs/2412.16586)" was on arXiv. 
 * 2024/12/07: Our two works "[On Estimating the Trace of Quantum State Powers](https://arxiv.org/abs/2410.13559)" and "[Space-Bounded Quantum Interactive Proof Systems](https://arxiv.org/abs/2410.23958)" were accepted by the 28th Quantum Information Processing Conference (QIP 2025) as regular talks.
 * 2024/11/07: Our paper "[Quantum Algorithm for Sparse Online Learning with Truncated Gradient Descent](https://arxiv.org/abs/2411.03925)" was on arXiv. 
@@ -60,6 +66,9 @@ I received my B.Sc. degree and Ph.D. degree from the [Department of Computer Sci
 * 2024/04/14: Our paper "[Succinct Quantum Testers for Closeness and $k$-Wise Uniformity of Probability Distributions](https://arxiv.org/abs/2304.12916)" was accepted by *IEEE Transactions on Information Theory*. 
 * 2024/04/09: Our paper "[Local Test for Unitarily Invariant Properties of Bipartite Quantum States](https://arxiv.org/abs/2404.04599)" was on arXiv. 
 * 2024/01/19: Our paper "[Time-Efficient Quantum Entropy Estimator via Samplizer](https://arxiv.org/abs/2401.09947)" was on arXiv. 
+
+### 2023
+
 * 2023/10/06: Our paper "[Parallel Quantum Algorithm for Hamiltonian Simulation](https://arxiv.org/abs/2105.11889)" was accepted by *Quantum*.
 * 2023/09/22: Our paper "[Logarithmic-Regret Quantum Learning Algorithms for Zero-Sum Games](https://arxiv.org/abs/2304.14197)" was accepted by the 37th Conference on Neural Information Processing Systems (NeurIPS 2023).
 * 2023/09/15: Our paper "[Fast Quantum Algorithms for Trace Distance Estimation](https://arxiv.org/abs/2301.06783)" was accepted by *IEEE Transactions on Information Theory*.
