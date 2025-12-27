@@ -22,6 +22,7 @@ redirect_from:
 
 ## Program Committee Member
 
+* [*TQC 2026 (21st Conference on the Theory of Quantum Computation, Communication, and Cryptography)*](https://tqc-conference.org/2026/team/), Sherbrooke, Québec, Canada, 2026.
 * [*QCE 2025 (IEEE International Conference on Quantum Computing and Engineering 2025)*](https://qce.quantum.ieee.org/2025/technical-papers-program-committee/), Albuquerque, New Mexico, USA, 2025.
 * [*QCE 2024 (IEEE International Conference on Quantum Computing and Engineering 2024)*](https://qce.quantum.ieee.org/2024/committees/program-committee/), Québec, Canada, 2024.
 * [*AQIS 2023 (23rd Asian Quantum Information Science Conference)*](http://aqis-conf.org/2023/committees/), Seoul, Korea, 2023.
@@ -36,6 +37,7 @@ redirect_from:
 * [*Frontiers of Computer Science*](https://www.springer.com/journal/11704)
 * [*IEEE Transactions on Computers*](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=12)
 * [*IEEE Transactions on Information Theory*](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=18)
+* [*Physics Letters A*](https://www.sciencedirect.com/journal/physics-letters-a)
 * [*Quantum*](https://quantum-journal.org/)
 * [*Quantum Information and Computation*](https://www.rintonpress.com/journals/qic/)
 * [*Quantum Information Processing*](https://link.springer.com/journal/11128)
