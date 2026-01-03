@@ -26,6 +26,10 @@ I received my B.Sc. degree and Ph.D. degree from the [Department of Computer Sci
 
 ## History
 
+### 2026
+
+* 2026/01/03: Our paper "Quantum Data Structure for Range Minimum Query" was accepted by *Journal of Computer and System Sciences*.
+
 ### 2025
 
 * 2025/12/15: Our paper "[A Slightly Improved Upper Bound for Quantum Statistical Zero-Knowledge](https://arxiv.org/abs/2512.11597)" was on arXiv.
