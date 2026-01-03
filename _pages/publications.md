@@ -10,6 +10,9 @@ author_profile: true
 
 ## Journals
 
+1. **Quantum Data Structure for Range Minimum Query**.  
+<span style="color:green">Ⓐ</span> Qisheng Wang, Zhean Xu, and [Zhicheng Zhang](https://scholar.google.com/citations?user=_CHPF-kAAAAJ&hl=en).  
+*Journal of Computer and System Sciences*, to appear, 2026.
 1. **Space-bounded quantum state testing via space-efficient quantum singular value transformation**.  
 <span style="color:green">Ⓐ</span> [François Le Gall](https://scholar.google.com/citations?user=tpCh6MIAAAAJ&hl=en), [Yupan Liu](https://scholar.google.com/citations?user=KJrYKwMAAAAJ&hl=en), and Qisheng Wang.  
 *Computational Complexity*, to appear, 2025. [arXiv:2308.05079](https://arxiv.org/abs/2308.05079).  
