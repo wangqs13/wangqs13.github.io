@@ -47,6 +47,7 @@ redirect_from:
 
 ## Conference Review
 
+* [*QCNC 2026 (International Conference on Quantum Communications, Networking, and Computing 2026)*](https://www.ieee-qcnc.org/2026/), Kobe, Japan, 2026.
 * [*STOC 2026 (58th ACM Symposium on Theory of Computing)*](https://acm-stoc.org/stoc2026/), Salt Lake City, Utah, USA, 2026.
 * [*STACS 2026 (43rd International Symposium on Theoretical Aspects of Computer Science)*](https://stacs2026.imag.fr/), Grenoble, France, 2026.
 * [*SOFSEM 2026 (51st International Conference on Current Trends in Theory and Practice of Computer Science)*](https://sofsem.uj.edu.pl/index.html), Kraków, Poland, 2026.
