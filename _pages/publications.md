@@ -10,16 +10,16 @@ author_profile: true
 
 ## Journals
 
-1. **Quantum Data Structure for Range Minimum Query**.  
-<span style="color:green">Ⓐ</span> Qisheng Wang, Zhean Xu, and [Zhicheng Zhang](https://scholar.google.com/citations?user=_CHPF-kAAAAJ&hl=en).  
-*Journal of Computer and System Sciences*, to appear, 2026.
 1. **Space-bounded quantum state testing via space-efficient quantum singular value transformation**.  
 <span style="color:green">Ⓐ</span> [François Le Gall](https://scholar.google.com/citations?user=tpCh6MIAAAAJ&hl=en), [Yupan Liu](https://scholar.google.com/citations?user=KJrYKwMAAAAJ&hl=en), and Qisheng Wang.  
-*Computational Complexity*, to appear, 2025. [arXiv:2308.05079](https://arxiv.org/abs/2308.05079).  
+*Computational Complexity*, to appear, 2026. [arXiv:2308.05079](https://arxiv.org/abs/2308.05079).  
 Presented (by [Yupan Liu](https://scholar.google.com/citations?user=KJrYKwMAAAAJ&hl=en)) as a poster at the 2023 Annual Q-LEAP Quantum AI Meeting (令和5年度Q-LEAP量子AI領域研究会) in 2024.  
 Presented (with [Yupan Liu](https://scholar.google.com/citations?user=KJrYKwMAAAAJ&hl=en)) as a [poster](https://qip2024.tw/site/mypage.aspx?pid=263&lang=en&sid=1522) at [the 27th Conference on Quantum Information Processing (QIP 2024)](https://qip2024.tw/site/page.aspx?pid=901&sid=1522&lang=en).  
 Presented (by [Yupan Liu](https://scholar.google.com/citations?user=KJrYKwMAAAAJ&hl=en)) as an [invited online talk](https://www.youtube.com/watch?v=H-AHKy00-co) at the Research Center for Quantum Software (QuSoft) in 2023.  
 Appears as [Monthly News for August 2023](https://ptreview.sublinear.info/2023/09/news-for-august-2023/) in [Property Testing Review](https://ptreview.sublinear.info/).
+1. **Quantum data structure for range minimum query**.  
+<span style="color:green">Ⓐ</span> Qisheng Wang, [Zhean Xu](https://scholar.google.com/citations?user=N_tFHSEAAAAJ), and [Zhicheng Zhang](https://scholar.google.com/citations?user=_CHPF-kAAAAJ&hl=en).  
+*Journal of Computer and System Sciences*, 157: 103756, 2026. [doi:10.1016/j.jcss.2026.103756](https://doi.org/10.1016/j.jcss.2026.103756).
 1. <a name="journal-time-efficient-quantum-entropy-estimator-via-samplizer"></a>**Time-efficient quantum entropy estimator via samplizer**. [Conference version @ESA 2024](#conference-time-efficient-quantum-entropy-estimator-via-samplizer)  
 <span style="color:blue">Ⓒ</span> Qisheng Wang and [Zhicheng Zhang](https://scholar.google.com/citations?user=_CHPF-kAAAAJ&hl=en).  
 *IEEE Transactions on Information Theory*, 71(12): 9569-9599, 2025. [doi:10.1109/TIT.2025.3576137](https://doi.org/10.1109/TIT.2025.3576137). [arXiv:2401.09947](https://arxiv.org/abs/2401.09947).  
@@ -106,7 +106,7 @@ Presented as an invited talk, merged with [arXiv:2203.13522](https://arxiv.org/a
 
 1. **Quantum Hamiltonian certification**.  
 <span style="color:green">Ⓐ</span> [Minbo Gao](https://scholar.google.com/citations?user=b8i9J_QAAAAJ&hl=en), [Zhengfeng Ji](https://scholar.google.com/citations?user=2uXdu7AAAAAJ&hl=en), Qisheng Wang, [Wenjun Yu](https://scholar.google.com/citations?user=VV3FNQoAAAAJ&hl=en), and [Qi Zhao](https://scholar.google.com/citations?user=VVQuTDMAAAAJ&hl=en).  
-In *Proceedings of the 2026 Annual ACM-SIAM Symposium on Discrete Algorithms* (SODA 2026), to appear, 2026. [arXiv:2505.13217](https://arxiv.org/abs/2505.13217).  
+In *Proceedings of the 2026 Annual ACM-SIAM Symposium on Discrete Algorithms* (SODA 2026), pp. 1424-1467, 2026. [doi:10.1137/1.9781611978971.53](https://doi.org/10.1137/1.9781611978971.53). [arXiv:2505.13217](https://arxiv.org/abs/2505.13217).  
 Appears as [Monthly News for May 2025](https://ptreview.sublinear.info/2025/06/news-for-may-2025/) in [Property Testing Review](https://ptreview.sublinear.info/).
 1. **On estimating the quantum $\ell_\alpha$ distance**.  
 <span style="color:green">Ⓐ</span> [Yupan Liu](https://scholar.google.com/citations?user=KJrYKwMAAAAJ&hl=en) and Qisheng Wang.  
