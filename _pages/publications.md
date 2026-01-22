@@ -19,7 +19,7 @@ Presented (by [Yupan Liu](https://scholar.google.com/citations?user=KJrYKwMAAAAJ
 Appears as [Monthly News for August 2023](https://ptreview.sublinear.info/2023/09/news-for-august-2023/) in [Property Testing Review](https://ptreview.sublinear.info/).
 1. **Quantum data structure for range minimum query**.  
 <span style="color:green">Ⓐ</span> Qisheng Wang, [Zhean Xu](https://scholar.google.com/citations?user=N_tFHSEAAAAJ), and [Zhicheng Zhang](https://scholar.google.com/citations?user=_CHPF-kAAAAJ&hl=en).  
-*Journal of Computer and System Sciences*, 157: 103756, 2026. [doi:10.1016/j.jcss.2026.103756](https://doi.org/10.1016/j.jcss.2026.103756).
+*Journal of Computer and System Sciences*, 157: 103756, 2026. [doi:10.1016/j.jcss.2026.103756](https://doi.org/10.1016/j.jcss.2026.103756). [arXiv:2601.13195](https://arxiv.org/abs/2601.13195).  
 1. <a name="journal-time-efficient-quantum-entropy-estimator-via-samplizer"></a>**Time-efficient quantum entropy estimator via samplizer**. [Conference version @ESA 2024](#conference-time-efficient-quantum-entropy-estimator-via-samplizer)  
 <span style="color:blue">Ⓒ</span> Qisheng Wang and [Zhicheng Zhang](https://scholar.google.com/citations?user=_CHPF-kAAAAJ&hl=en).  
 *IEEE Transactions on Information Theory*, 71(12): 9569-9599, 2025. [doi:10.1109/TIT.2025.3576137](https://doi.org/10.1109/TIT.2025.3576137). [arXiv:2401.09947](https://arxiv.org/abs/2401.09947).  
