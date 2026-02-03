@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Since February 2026, I am a tenure-track Associate Professor at the [School of Computer Science](https://www.cs.sjtu.edu.cn/) (计算机学院), [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) (上海交通大学), China.
+Since February 2026, I am a [tenure-track Associate Professor](https://www.cs.sjtu.edu.cn/jiaoshiml/wangqisheng.html) at the [School of Computer Science](https://www.cs.sjtu.edu.cn/) (计算机学院), [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) (上海交通大学), China.
 
 From September 2024 to January 2026, I was a [Senior Researcher](https://www.research.ed.ac.uk/en/persons/qisheng-wang/publications/) at the [School of Informatics](https://informatics.ed.ac.uk/), [University of Edinburgh](https://www.ed.ac.uk/), United Kingdom, and in the [Quantum Software Lab](https://www.quantumsoftwarelab.com/) led by Prof. [Elham Kashefi](https://scholar.google.com/citations?user=oXpgxTIAAAAJ&hl=en).
 
