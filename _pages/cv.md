@@ -23,7 +23,7 @@ redirect_from:
 ## Program Committee Member
 
 * [*TQC 2026 (21st Conference on the Theory of Quantum Computation, Communication, and Cryptography)*](https://tqc-conference.org/2026/team/), Sherbrooke, Québec, Canada, 2026.
-* [*QCE 2025 (IEEE International Conference on Quantum Computing and Engineering 2025)*](https://qce.quantum.ieee.org/2025/technical-papers-program-committee/), Albuquerque, New Mexico, USA, 2025.
+* [*QCE 2025 (IEEE International Conference on Quantum Computing and Engineering 2025)*](https://qce.quantum.ieee.org/2025/technical-papers-program-committee/), Albuquerque, New Mexico, United States, 2025.
 * [*QCE 2024 (IEEE International Conference on Quantum Computing and Engineering 2024)*](https://qce.quantum.ieee.org/2024/committees/program-committee/), Québec, Canada, 2024.
 * [*AQIS 2023 (23rd Asian Quantum Information Science Conference)*](http://aqis-conf.org/2023/committees/), Seoul, Korea, 2023.
 
@@ -47,13 +47,14 @@ redirect_from:
 
 ## Conference Review
 
+* [*QCTiP 2026 (Quantum Computing Theory in Practice 2026)*](https://qctipconf.github.io/), Oxford, United Kingdom, 2026.
 * [*QCNC 2026 (International Conference on Quantum Communications, Networking, and Computing 2026)*](https://www.ieee-qcnc.org/2026/), Kobe, Japan, 2026.
-* [*STOC 2026 (58th ACM Symposium on Theory of Computing)*](https://acm-stoc.org/stoc2026/), Salt Lake City, Utah, USA, 2026.
+* [*STOC 2026 (58th ACM Symposium on Theory of Computing)*](https://acm-stoc.org/stoc2026/), Salt Lake City, Utah, United States, 2026.
 * [*STACS 2026 (43rd International Symposium on Theoretical Aspects of Computer Science)*](https://stacs2026.imag.fr/), Grenoble, France, 2026.
 * [*SOFSEM 2026 (51st International Conference on Current Trends in Theory and Practice of Computer Science)*](https://sofsem.uj.edu.pl/index.html), Kraków, Poland, 2026.
 * [*ITCS 2026 (17th Innovations in Theoretical Computer Science Conference)*](http://itcs-conf.org/index.html), Milan, Italy, 2026.
 * [*QIP 2026 (29th Annual Quantum Information Processing Conference)*](https://qip2026.lu.lv/), Riga, Latvia, 2026.
-* [*NeurIPS 2025 (39th Annual Conference on Neural Information Processing Systems)*](https://neurips.cc/Conferences/2025), San Diego, California, USA, 2025.
+* [*NeurIPS 2025 (39th Annual Conference on Neural Information Processing Systems)*](https://neurips.cc/Conferences/2025), San Diego, California, United States, 2025.
 * [*AQIS 2025 (25th Asian Quantum Information Science Conference)*](http://aqis-conf.org/2025/), Hong Kong, China, 2025.
 * [*TQC 2025 (20th Conference on the Theory of Quantum Computation, Communication, and Cryptography)*](https://tqc-conference.org/), Bengaluru, India, 2025.
 * [*ICALP 2025 (52nd EATCS International Colloquium on Automata, Languages, and Programming)*](https://conferences.au.dk/icalp2025), Aarhus, Denmark, 2025.
