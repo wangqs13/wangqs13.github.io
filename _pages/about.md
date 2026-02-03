@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Since September 2024, I have been a [Senior Researcher](https://www.research.ed.ac.uk/en/persons/qisheng-wang/publications/) at the [School of Informatics](https://informatics.ed.ac.uk/), [University of Edinburgh](https://www.ed.ac.uk/), United Kingdom, and in the [Quantum Software Lab](https://www.quantumsoftwarelab.com/) led by Prof. [Elham Kashefi](https://scholar.google.com/citations?user=oXpgxTIAAAAJ&hl=en).
+Since February 2026, I am a tenure-track Associate Professor at the [School of Computer Science](https://www.cs.sjtu.edu.cn/) (计算机学院), [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) (上海交通大学), China.
+
+From September 2024 to January 2026, I was a [Senior Researcher](https://www.research.ed.ac.uk/en/persons/qisheng-wang/publications/) at the [School of Informatics](https://informatics.ed.ac.uk/), [University of Edinburgh](https://www.ed.ac.uk/), United Kingdom, and in the [Quantum Software Lab](https://www.quantumsoftwarelab.com/) led by Prof. [Elham Kashefi](https://scholar.google.com/citations?user=oXpgxTIAAAAJ&hl=en).
 
 From September 2022 to September 2024, I was a [Designated Assistant Professor](https://profs.provost.nagoya-u.ac.jp/html/100012550_en.html) (特任助教) at the [Graduate School of Mathematics](https://www.math.nagoya-u.ac.jp/) (大学院多元数理科学研究科), [Nagoya University](https://en.nagoya-u.ac.jp/) (名古屋大学), Japan, and was in the [QLEAP theory group](https://www.math.nagoya-u.ac.jp/~legall/index.html) led by Prof. [François Le Gall](http://www.francoislegall.com/).
 
