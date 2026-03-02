@@ -47,6 +47,7 @@ redirect_from:
 
 ## Conference Review
 
+* [*ICALP 2026 (53rd EATCS International Colloquium on Automata, Languages, and Programming)*](https://icalppodcspaa2026.cs.rhul.ac.uk/icalp/), London, United Kingdom, 2026.
 * [*QCTiP 2026 (Quantum Computing Theory in Practice 2026)*](https://qctipconf.github.io/), Oxford, United Kingdom, 2026.
 * [*QCNC 2026 (International Conference on Quantum Communications, Networking, and Computing 2026)*](https://www.ieee-qcnc.org/2026/), Kobe, Japan, 2026.
 * [*STOC 2026 (58th ACM Symposium on Theory of Computing)*](https://acm-stoc.org/stoc2026/), Salt Lake City, Utah, United States, 2026.
