@@ -16,6 +16,12 @@ redirect_from:
   * Thesis: *Sequential Quantum Circuits: Formal Models and Verification*
   * Advisor: Prof. Mingsheng Ying
 
+## Professional Experience
+
+* February 2026 - present: Tenure-Track Associate Professor, School of Computer Science, Shanghai Jiao Tong University
+* September 2024 - January 2026: Senior Researcher, School of Informatics, University of Edinburgh
+* September 2022 - September 2024: Designated Assistant Professor, Graduate School of Mathematics, Nagoya University
+
 ## Journal Editor
 
 * [*Entropy*](https://www.mdpi.com/journal/entropy), Guest Editor of Special Issue "[The Role of Entropy in Quantum Computation and Algorithms](https://www.mdpi.com/journal/entropy/special_issues/1WX3RY33N0)", 2025-2026.
