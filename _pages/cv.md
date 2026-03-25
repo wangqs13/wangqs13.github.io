@@ -22,6 +22,7 @@ redirect_from:
 
 ## Program Committee Member
 
+* [*QCE 2026 (IEEE International Conference on Quantum Computing and Engineering 2025)*](https://qce.quantum.ieee.org/2026/committees/technical-papers-program-committee/), Toronto, Ontario, Canada, 2026.
 * [*TQC 2026 (21st Conference on the Theory of Quantum Computation, Communication, and Cryptography)*](https://tqc-conference.org/2026/team/), Sherbrooke, Québec, Canada, 2026.
 * [*QCE 2025 (IEEE International Conference on Quantum Computing and Engineering 2025)*](https://qce.quantum.ieee.org/2025/technical-papers-program-committee/), Albuquerque, New Mexico, United States, 2025.
 * [*QCE 2024 (IEEE International Conference on Quantum Computing and Engineering 2024)*](https://qce.quantum.ieee.org/2024/committees/program-committee/), Québec, Canada, 2024.
