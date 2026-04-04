@@ -24,17 +24,18 @@ I received my B.Sc. degree and Ph.D. degree from the [Department of Computer Sci
 ## Pinned News
 
 * 2026/03/25: I served as a PC Member of [QCE 2026](https://qce.quantum.ieee.org/2026/). Submissions are welcome!
-* 2025/12/26: I served as a PC Member of [TQC 2026](https://tqc-conference.org/2026/). Submissions are welcome!
 * 2025/11/26: I served as a Guest Editor of the Special Issue "[The Role of Entropy in Quantum Computation and Algorithms](https://www.mdpi.com/journal/entropy/special_issues/1WX3RY33N0)" of *Entropy*. Submissions are welcome!
 
 ## History
 
 ### 2026
 
+* 2026/04/03: Our paper "[Trace Estimation of Quantum State Powers: Sample Complexity and Computational Hardness](https://arxiv.org/abs/2505.09563v2)" was on arXiv.
 * 2026/01/03: Our paper "[Quantum Data Structure for Range Minimum Query](https://arxiv.org/abs/2601.13195)" was accepted by *Journal of Computer and System Sciences*.
 
 ### 2025
 
+* 2025/12/26: I served as a PC Member of [TQC 2026](https://tqc-conference.org/2026/).
 * 2025/12/15: Our paper "[A Slightly Improved Upper Bound for Quantum Statistical Zero-Knowledge](https://arxiv.org/abs/2512.11597)" was on arXiv.
 * 2025/12/02: Our paper "[A List of Complexity Bounds for Property Testing by Quantum Sample-to-Query Lifting](https://arxiv.org/abs/2512.01971)" was on arXiv.
 * 2025/11/08: Our paper "[Quantum Algorithms for Uhlmann Transformation](https://arxiv.org/abs/2509.03619)" was accepted by the 29th Quantum Information Processing Conference (QIP 2026) as a regular talk.
@@ -50,7 +51,7 @@ I received my B.Sc. degree and Ph.D. degree from the [Department of Computer Sci
 * 2025/05/23: Our paper "[Simultaneous Estimation of Nonlinear Functionals of a Quantum State](https://arxiv.org/abs/2505.16715)" was on arXiv.
 * 2025/05/20: Our paper "[Quantum Hamiltonian Certification](https://arxiv.org/abs/2505.13217)" was on arXiv.
 * 2025/05/19: Our paper "[Time-Efficient Quantum Entropy Estimator via Samplizer](https://arxiv.org/abs/2401.09947)" was accepted by *IEEE Transactions on Information Theory*.
-* 2025/05/03: Our paper "[Space-Bounded Quantum Interactive Proof Systems](https://arxiv.org/abs/2410.23958)" was accepted by the 40th Computational Complexity Conference (CCC 2025) and our paper "[Improved Sample Upper and Lower Bounds for Trace Estimation of Quantum State Powers](https://arxiv.org/abs/2505.09563)" was accepted by the 38th Annual Conference on Learning Theory (COLT 2025).
+* 2025/05/03: Our paper "[Space-Bounded Quantum Interactive Proof Systems](https://arxiv.org/abs/2410.23958)" was accepted by the 40th Computational Complexity Conference (CCC 2025) and our paper "[Improved Sample Upper and Lower Bounds for Trace Estimation of Quantum State Powers](https://arxiv.org/abs/2505.09563v1)" was accepted by the 38th Annual Conference on Learning Theory (COLT 2025).
 * 2025/05/02: Our paper "[On Estimating the Quantum $\ell_\alpha$ Distance](https://arxiv.org/abs/2505.00457)" was on arXiv. 
 * 2025/02/20: Our paper "[Does There Exist a Quantum Fingerprinting Protocol without Coherent Measurements?](https://arxiv.org/abs/2502.13427)" was on arXiv. 
 * 2025/02/10: Our paper "[A Note on Quantum Divide and Conquer for Minimal String Rotation](https://arxiv.org/abs/2210.09149)" was accepted by *Theoretical Computer Science*.
