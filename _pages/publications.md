@@ -26,6 +26,7 @@ author_profile: true
 }
 .pub-number {
   font-weight: normal;
+  text-align: right;
 }
 .pub-title {
   font-weight: bold;
@@ -299,6 +300,7 @@ author_profile: true
 }
 .pub-number {
   font-weight: normal;
+  text-align: right;
 }
 .pub-title {
   font-weight: bold;
@@ -443,6 +445,7 @@ author_profile: true
 }
 .pub-number {
   font-weight: normal;
+  text-align: right;
 }
 .pub-title {
   font-weight: bold;
