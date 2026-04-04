@@ -166,9 +166,9 @@ Presented (online by [Minbo Gao](https://scholar.google.com/citations?user=b8i9J
   align-items: flex-start;
 }
 .pub-number {
-  min-width: 6.5ch;   /* 足够容纳 [P100] 及一般更长的编号 */
+  min-width: 3.2em;    /* 恢复为原来的宽度 */
   font-weight: normal;
-  margin-right: 0.5ch; /* 编号与内容之间的间距 */
+  margin-right: 0.5em;
 }
 .pub-content {
   flex: 1;
