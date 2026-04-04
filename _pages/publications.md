@@ -154,29 +154,44 @@ Presented (online by [Minbo Gao](https://scholar.google.com/citations?user=b8i9J
 ## Preprints
 
 <style>
-  .reversed-list {
-    list-style: none;
-    padding-left: 0;
-  }
-  .reversed-list li {
-    counter-increment: none;
-    margin-bottom: 8px;
-  }
-  .reversed-list li::before {
-    content: "[P" counter(list-item) "] ";
-    font-weight: bold;
-    margin-right: 8px;
-  }
+.pub-list {
+  list-style: none;
+  padding-left: 0;
+}
+.pub-list li {
+  margin-bottom: 1.2em;
+}
+.pub-list li strong {
+  display: block;
+  margin-bottom: 0.2em;
+}
+.pub-list .authors {
+  display: block;
+  margin-left: 1.5em;
+}
+.pub-list .arxiv {
+  display: block;
+  margin-left: 1.5em;
+}
 </style>
 
-<ol reversed class="reversed-list">
-  <li>**Trace estimation of quantum state powers: Sample complexity and computational hardness**.  
-<span style="color:green">Ⓐ</span> [Kean Chen](https://scholar.google.com/citations?user=Ncvskw4AAAAJ&hl=en), [Yupan Liu](https://scholar.google.com/citations?user=KJrYKwMAAAAJ&hl=en), and Qisheng Wang.  
-[arXiv:2505.09563v2](https://arxiv.org/abs/2505.09563v2), 2026.</li>
-  <li>**A slightly improved upper bound for quantum statistical zero-knowledge**.  
-<span style="color:green">Ⓐ</span> [François Le Gall](https://scholar.google.com/citations?user=tpCh6MIAAAAJ&hl=en), [Yupan Liu](https://scholar.google.com/citations?user=KJrYKwMAAAAJ&hl=en), and Qisheng Wang.  
-[arXiv:2512.11597](https://arxiv.org/abs/2512.11597), 2025.</li>
-</ol>
+<ul class="pub-list">
+  <li>
+    <strong>[P3] Trace estimation of quantum state powers: Sample complexity and computational hardness.</strong>
+    <span class="authors">Ⓐ Kean Chen, Yupan Liu, and Qisheng Wang.</span>
+    <span class="arxiv">arXiv:2505.09563v2, 2026.</span>
+  </li>
+  <li>
+    <strong>[P2] A slightly improved upper bound for quantum statistical zero-knowledge.</strong>
+    <span class="authors">Ⓐ François Le Gall, Yupan Liu, and Qisheng Wang.</span>
+    <span class="arxiv">arXiv:2512.11597, 2025.</span>
+  </li>
+  <li>
+    <strong>[P1] A list of complexity bounds for property testing by quantum sample-to-query lifting.</strong>
+    <span class="authors">Ⓐ Kean Chen, Qisheng Wang, and Zhicheng Zhang.</span>
+    <span class="arxiv">arXiv:2512.01971, 2025.</span>
+  </li>
+</ul>
 
 [P13] **Trace estimation of quantum state powers: Sample complexity and computational hardness**.  
 &emsp;&emsp;&emsp;<span style="color:green">Ⓐ</span> [Kean Chen](https://scholar.google.com/citations?user=Ncvskw4AAAAJ&hl=en), [Yupan Liu](https://scholar.google.com/citations?user=KJrYKwMAAAAJ&hl=en), and Qisheng Wang.  
