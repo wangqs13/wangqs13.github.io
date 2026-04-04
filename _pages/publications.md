@@ -167,7 +167,7 @@ Presented (online by [Minbo Gao](https://scholar.google.com/citations?user=b8i9J
 }
 .pub-number {
   font-weight: normal;
-  margin-right: 0.5em;   /* 编号和内容之间的间距，可按需调整 */
+  margin-right: 0.5em;
 }
 .pub-content {
   flex: 1;
@@ -175,22 +175,132 @@ Presented (online by [Minbo Gao](https://scholar.google.com/citations?user=b8i9J
 .pub-title {
   font-weight: bold;
 }
-.pub-authors, .pub-arxiv {
+.pub-authors, .pub-arxiv, .pub-extra {
   display: block;
 }
 .pub-authors {
   margin-top: 0.2em;
+}
+.pub-extra {
+  margin-top: 0.1em;
 }
 </style>
 
 <ul class="pub-list">
   <li>
     <div class="pub-item">
-      <span class="pub-number">[P3]</span>
+      <span class="pub-number">[P13]</span>
       <div class="pub-content">
         <div class="pub-title">Trace estimation of quantum state powers: Sample complexity and computational hardness.</div>
-        <div class="pub-authors">Ⓐ Kean Chen, Yupan Liu, and Qisheng Wang.</div>
-        <div class="pub-arxiv">arXiv:2505.09563v2, 2026.</div>
+        <div class="pub-authors"><span style="color:green">Ⓐ</span> <a href="https://scholar.google.com/citations?user=Ncvskw4AAAAJ&hl=en">Kean Chen</a>, <a href="https://scholar.google.com/citations?user=KJrYKwMAAAAJ&hl=en">Yupan Liu</a>, and Qisheng Wang.</div>
+        <div class="pub-arxiv"><a href="https://arxiv.org/abs/2505.09563v2">arXiv:2505.09563v2</a>, 2026.</div>
+      </div>
+    </div>
+  </li>
+  <li>
+    <div class="pub-item">
+      <span class="pub-number">[P12]</span>
+      <div class="pub-content">
+        <div class="pub-title">A slightly improved upper bound for quantum statistical zero-knowledge.</div>
+        <div class="pub-authors"><span style="color:green">Ⓐ</span> <a href="https://scholar.google.com/citations?user=tpCh6MIAAAAJ&hl=en">François Le Gall</a>, <a href="https://scholar.google.com/citations?user=KJrYKwMAAAAJ&hl=en">Yupan Liu</a>, and Qisheng Wang.</div>
+        <div class="pub-arxiv"><a href="https://arxiv.org/abs/2512.11597">arXiv:2512.11597</a>, 2025.</div>
+      </div>
+    </div>
+  </li>
+  <li>
+    <div class="pub-item">
+      <span class="pub-number">[P11]</span>
+      <div class="pub-content">
+        <div class="pub-title">A list of complexity bounds for property testing by quantum sample-to-query lifting.</div>
+        <div class="pub-authors"><span style="color:green">Ⓐ</span> <a href="https://scholar.google.com/citations?user=Ncvskw4AAAAJ&hl=en">Kean Chen</a>, Qisheng Wang, and <a href="https://scholar.google.com/citations?user=_CHPF-kAAAAJ&hl=en">Zhicheng Zhang</a>.</div>
+        <div class="pub-arxiv"><a href="https://arxiv.org/abs/2512.01971">arXiv:2512.01971</a>, 2025.</div>
+      </div>
+    </div>
+  </li>
+  <li>
+    <div class="pub-item">
+      <span class="pub-number">[P10]</span>
+      <div class="pub-content">
+        <div class="pub-title">On estimating the quantum Tsallis relative entropy.</div>
+        <div class="pub-authors"><span style="color:green">Ⓐ</span> <a href="https://scholar.google.com/citations?user=U1TGq_gAAAAJ&hl=en">Jinge Bao</a>, <a href="https://scholar.google.com/citations?user=b8i9J_QAAAAJ&hl=en">Minbo Gao</a>, and Qisheng Wang.</div>
+        <div class="pub-arxiv"><a href="https://arxiv.org/abs/2510.00752">arXiv:2510.00752</a>, 2025.</div>
+      </div>
+    </div>
+  </li>
+  <li>
+    <div class="pub-item">
+      <span class="pub-number">[P9]</span>
+      <div class="pub-content">
+        <div class="pub-title">Quantum algorithms for Uhlmann transformation.</div>
+        <div class="pub-authors"><span style="color:blue">Ⓒ</span> <a href="https://scholar.google.com/citations?user=8vB7hGQAAAAJ&hl=en">Takeru Utsumi</a>, <a href="https://scholar.google.com/citations?user=CpkyDoMAAAAJ&hl=en">Yoshifumi Nakata</a>, Qisheng Wang, and <a href="https://scholar.google.com/citations?user=UAe-79QAAAAJ&hl=en">Ryuji Takagi</a>.</div>
+        <div class="pub-arxiv"><a href="https://arxiv.org/abs/2509.03619">arXiv:2509.03619</a>, 2025.</div>
+      </div>
+    </div>
+  </li>
+  <li>
+    <div class="pub-item">
+      <span class="pub-number">[P8]</span>
+      <div class="pub-content">
+        <div class="pub-title">Information-theoretic lower bounds for approximating monomials via optimal quantum Tsallis entropy estimation.</div>
+        <div class="pub-authors">Qisheng Wang.</div>
+        <div class="pub-arxiv"><a href="https://arxiv.org/abs/2509.03496">arXiv:2509.03496</a>, 2025.</div>
+      </div>
+    </div>
+  </li>
+  <li>
+    <div class="pub-item">
+      <span class="pub-number">[P7]</span>
+      <div class="pub-content">
+        <div class="pub-title">Simultaneous estimation of nonlinear functionals of a quantum state.</div>
+        <div class="pub-authors"><span style="color:green">Ⓐ</span> <a href="https://scholar.google.com/citations?user=Ncvskw4AAAAJ&hl=en">Kean Chen</a>, Qisheng Wang, <a href="https://scholar.google.com/citations?user=cF8RgGwAAAAJ&hl=en">Zhan Yu</a>, and <a href="https://scholar.google.com/citations?user=_CHPF-kAAAAJ&hl=en">Zhicheng Zhang</a>.</div>
+        <div class="pub-arxiv"><a href="https://arxiv.org/abs/2505.16715">arXiv:2505.16715</a>, 2025.</div>
+        <div class="pub-extra">Presented (by <a href="https://scholar.google.com/citations?user=cF8RgGwAAAAJ&hl=en">Zhan Yu</a>) as a contributed talk at the <a href="http://aqis-conf.org/2025/program/">the 25th Asian Quantum Information Science Conference (AQIS 2025)</a>.</div>
+      </div>
+    </div>
+  </li>
+  <li>
+    <div class="pub-item">
+      <span class="pub-number">[P6]</span>
+      <div class="pub-content">
+        <div class="pub-title">Does there exist a quantum fingerprinting protocol without coherent measurements?.</div>
+        <div class="pub-authors"><span style="color:green">Ⓐ</span> Atsuya Hasegawa, <a href="https://scholar.google.com/citations?user=R8ckW8sAAAAJ&hl=en">Srijita Kundu</a>, <a href="https://scholar.google.com/citations?user=tpCh6MIAAAAJ&hl=en">François Le Gall</a>, <a href="https://www.math.cm.is.nagoya-u.ac.jp/~hnishimura/e-index.html">Harumichi Nishimura</a>, and Qisheng Wang.</div>
+        <div class="pub-arxiv"><a href="https://arxiv.org/abs/2502.13427">arXiv:2502.13427</a>, 2025.</div>
+      </div>
+    </div>
+  </li>
+  <li>
+    <div class="pub-item">
+      <span class="pub-number">[P5]</span>
+      <div class="pub-content">
+        <div class="pub-title">Quantum algorithm for sparse online learning with truncated gradient descent.</div>
+        <div class="pub-authors"><span style="color:green">Ⓐ</span> <a href="https://scholar.google.com/citations?user=4PSyMJkAAAAJ&hl=en">Debbie Lim</a>, <a href="https://scholar.google.com/citations?user=sVqwmRYAAAAJ&hl=en">Yixian Qiu</a>, <a href="https://scholar.google.com/citations?user=XWHSBmUAAAAJ&hl=en">Patrick Rebentrost</a>, Qisheng Wang.</div>
+        <div class="pub-arxiv"><a href="https://arxiv.org/abs/2411.03925">arXiv:2411.03925</a>, 2024.</div>
+        <div class="pub-extra">Presented as (part of) a research talk at the NQCC-QSL December Deep Dive Agenda in the University of Edinburgh in 2024.</div>
+      </div>
+    </div>
+  </li>
+  <li>
+    <div class="pub-item">
+      <span class="pub-number">[P4]</span>
+      <div class="pub-content">
+        <div class="pub-title">Sample-optimal quantum estimators for pure-state trace distance and fidelity via samplizer.</div>
+        <div class="pub-authors"><span style="color:blue">Ⓒ</span> Qisheng Wang and <a href="https://scholar.google.com/citations?user=_CHPF-kAAAAJ&hl=en">Zhicheng Zhang</a>.</div>
+        <div class="pub-arxiv"><a href="https://arxiv.org/abs/2410.21201">arXiv:2410.21201</a>, 2024.</div>
+        <div class="pub-extra">Presented as (part of) an <a href="https://youtu.be/LVsHzXb0hts?t=5268">invited talk (40min)</a> at <a href="https://shenzhen-nagoya.github.io/2025/">Shenzhen–Nagoya Workshop on Quantum Science 2025</a>.</div>
+        <div class="pub-extra">Presented as (part of) a contributed talk at <a href="http://aqis-conf.org/2025/program/">the 25th Asian Quantum Information Science Conference (AQIS 2025)</a>.</div>
+        <div class="pub-extra">Presented as (part of) a research talk at the NQCC-QSL December Deep Dive Agenda in the University of Edinburgh in 2024.</div>
+      </div>
+    </div>
+  </li>
+  <li>
+    <div class="pub-item">
+      <span class="pub-number">[P3]</span>
+      <div class="pub-content">
+        <div class="pub-title">Local test for unitarily invariant properties of bipartite quantum states.</div>
+        <div class="pub-authors"><span style="color:green">Ⓐ</span> <a href="https://scholar.google.com/citations?user=Ncvskw4AAAAJ&hl=en">Kean Chen</a>, Qisheng Wang, and <a href="https://scholar.google.com/citations?user=_CHPF-kAAAAJ&hl=en">Zhicheng Zhang</a>.</div>
+        <div class="pub-arxiv"><a href="https://arxiv.org/abs/2404.04599">arXiv:2404.04599</a>, 2024.</div>
+        <div class="pub-extra">Presented as (part of) an <a href="https://youtu.be/LVsHzXb0hts?t=5268">invited talk (40min)</a> at <a href="https://shenzhen-nagoya.github.io/2025/">Shenzhen–Nagoya Workshop on Quantum Science 2025</a>.</div>
+        <div class="pub-extra">Appears as <a href="https://ptreview.sublinear.info/2024/05/news-for-april-2024/">Monthly News for April 2024</a> in <a href="https://ptreview.sublinear.info/">Property Testing Review</a>.</div>
       </div>
     </div>
   </li>
@@ -198,9 +308,9 @@ Presented (online by [Minbo Gao](https://scholar.google.com/citations?user=b8i9J
     <div class="pub-item">
       <span class="pub-number">[P2]</span>
       <div class="pub-content">
-        <div class="pub-title">A slightly improved upper bound for quantum statistical zero-knowledge.</div>
-        <div class="pub-authors">Ⓐ François Le Gall, Yupan Liu, and Qisheng Wang.</div>
-        <div class="pub-arxiv">arXiv:2512.11597, 2025.</div>
+        <div class="pub-title">VeriQBench: a benchmark for multiple types of quantum circuits.</div>
+        <div class="pub-authors"><span style="color:green">Ⓐ</span> <a href="https://scholar.google.com/citations?user=Ncvskw4AAAAJ&hl=en">Kean Chen</a>, <a href="https://scholar.google.com/citations?user=4D3FWQIAAAAJ&hl=en">Wang Fang</a>, <a href="https://scholar.google.com/citations?user=muIp5UIAAAAJ&hl=en">Ji Guan</a>, <a href="https://scholar.google.com/citations?user=Vm4a-uMAAAAJ&hl=en">Xin Hong</a>, Mingyu Huang, <a href="https://scholar.google.com/citations?user=jJ0y2JEAAAAJ&hl=en">Junyi Liu</a>, Qisheng Wang, and <a href="https://scholar.google.com/citations?user=jjPif6cAAAAJ&hl=en">Mingsheng Ying</a>.</div>
+        <div class="pub-arxiv"><a href="https://arxiv.org/abs/2206.10880">arXiv:2206.10880</a>, 2022.</div>
       </div>
     </div>
   </li>
@@ -208,69 +318,10 @@ Presented (online by [Minbo Gao](https://scholar.google.com/citations?user=b8i9J
     <div class="pub-item">
       <span class="pub-number">[P1]</span>
       <div class="pub-content">
-        <div class="pub-title">A list of complexity bounds for property testing by quantum sample-to-query lifting.</div>
-        <div class="pub-authors">Ⓐ Kean Chen, Qisheng Wang, and Zhicheng Zhang.</div>
-        <div class="pub-arxiv">arXiv:2512.01971, 2025.</div>
+        <div class="pub-title">Improving positive unlabeled learning: practical AUL estimation and new training method for extremely imbalanced data sets.</div>
+        <div class="pub-authors"><span style="color:blue">Ⓒ</span> Liwei Jiang, <a href="https://scholar.google.com/citations?user=GFGN-ykAAAAJ&hl=en">Dan Li</a>, Qisheng Wang, <a href="https://scholar.google.com/citations?user=Yo0BTHMAAAAJ&hl=en">Shuai Wang</a>, and Songtao Wang.</div>
+        <div class="pub-arxiv"><a href="https://arxiv.org/abs/2004.09820">arXiv:2004.09820</a>, 2020.</div>
       </div>
     </div>
   </li>
 </ul>
-
-[P13] **Trace estimation of quantum state powers: Sample complexity and computational hardness**.  
-&emsp;&emsp;&emsp;<span style="color:green">Ⓐ</span> [Kean Chen](https://scholar.google.com/citations?user=Ncvskw4AAAAJ&hl=en), [Yupan Liu](https://scholar.google.com/citations?user=KJrYKwMAAAAJ&hl=en), and Qisheng Wang.  
-&emsp;&emsp;&emsp;[arXiv:2505.09563v2](https://arxiv.org/abs/2505.09563v2), 2026.
-
-[P12] **A slightly improved upper bound for quantum statistical zero-knowledge**.  
-&emsp;&emsp;&ensp;<span style="color:green">Ⓐ</span> [François Le Gall](https://scholar.google.com/citations?user=tpCh6MIAAAAJ&hl=en), [Yupan Liu](https://scholar.google.com/citations?user=KJrYKwMAAAAJ&hl=en), and Qisheng Wang.  
-&emsp;&emsp;&ensp;[arXiv:2512.11597](https://arxiv.org/abs/2512.11597), 2025.
-
-[P11] **A list of complexity bounds for property testing by quantum sample-to-query lifting**.  
-&emsp;<span style="color:green">Ⓐ</span> [Kean Chen](https://scholar.google.com/citations?user=Ncvskw4AAAAJ&hl=en), Qisheng Wang, and [Zhicheng Zhang](https://scholar.google.com/citations?user=_CHPF-kAAAAJ&hl=en).  
-&emsp;[arXiv:2512.01971](https://arxiv.org/abs/2512.01971), 2025.
-
-[P10] **On estimating the quantum Tsallis relative entropy**.  
-&emsp;<span style="color:green">Ⓐ</span> [Jinge Bao](https://scholar.google.com/citations?user=U1TGq_gAAAAJ&hl=en), [Minbo Gao](https://scholar.google.com/citations?user=b8i9J_QAAAAJ&hl=en), and Qisheng Wang.  
-&emsp;[arXiv:2510.00752](https://arxiv.org/abs/2510.00752), 2025.
-
-[P9] **Quantum algorithms for Uhlmann transformation**.  
-&emsp;<span style="color:blue">Ⓒ</span> [Takeru Utsumi](https://scholar.google.com/citations?user=8vB7hGQAAAAJ&hl=en), [Yoshifumi Nakata](https://scholar.google.com/citations?user=CpkyDoMAAAAJ&hl=en), Qisheng Wang, and [Ryuji Takagi](https://scholar.google.com/citations?user=UAe-79QAAAAJ&hl=en).  
-&emsp;[arXiv:2509.03619](https://arxiv.org/abs/2509.03619), 2025.
-
-[P8] **Information-theoretic lower bounds for approximating monomials via optimal quantum Tsallis entropy estimation**.  
-&emsp;Qisheng Wang.  
-&emsp;[arXiv:2509.03496](https://arxiv.org/abs/2509.03496), 2025.
-
-[P7] **Simultaneous estimation of nonlinear functionals of a quantum state**.  
-&emsp;<span style="color:green">Ⓐ</span> [Kean Chen](https://scholar.google.com/citations?user=Ncvskw4AAAAJ&hl=en), Qisheng Wang, [Zhan Yu](https://scholar.google.com/citations?user=cF8RgGwAAAAJ&hl=en), and [Zhicheng Zhang](https://scholar.google.com/citations?user=_CHPF-kAAAAJ&hl=en).  
-&emsp;[arXiv:2505.16715](https://arxiv.org/abs/2505.16715), 2025.  
-&emsp;Presented (by [Zhan Yu](https://scholar.google.com/citations?user=cF8RgGwAAAAJ&hl=en)) as a contributed talk at the [the 25th Asian Quantum Information Science Conference (AQIS 2025)](http://aqis-conf.org/2025/program/).
-
-[P6] **Does there exist a quantum fingerprinting protocol without coherent measurements?**.  
-&emsp;<span style="color:green">Ⓐ</span> Atsuya Hasegawa, [Srijita Kundu](https://scholar.google.com/citations?user=R8ckW8sAAAAJ&hl=en), [François Le Gall](https://scholar.google.com/citations?user=tpCh6MIAAAAJ&hl=en), [Harumichi Nishimura](https://www.math.cm.is.nagoya-u.ac.jp/~hnishimura/e-index.html), and Qisheng Wang.  
-&emsp;[arXiv:2502.13427](https://arxiv.org/abs/2502.13427), 2025.
-
-[P5] **Quantum algorithm for sparse online learning with truncated gradient descent**.  
-&emsp;<span style="color:green">Ⓐ</span> [Debbie Lim](https://scholar.google.com/citations?user=4PSyMJkAAAAJ&hl=en), [Yixian Qiu](https://scholar.google.com/citations?user=sVqwmRYAAAAJ&hl=en), [Patrick Rebentrost](https://scholar.google.com/citations?user=XWHSBmUAAAAJ&hl=en), Qisheng Wang.  
-&emsp;[arXiv:2411.03925](https://arxiv.org/abs/2411.03925), 2024.  
-&emsp;Presented as (part of) a research talk at the NQCC-QSL December Deep Dive Agenda in the University of Edinburgh in 2024.
-
-[P4] **Sample-optimal quantum estimators for pure-state trace distance and fidelity via samplizer**.  
-&emsp;<span style="color:blue">Ⓒ</span> Qisheng Wang and [Zhicheng Zhang](https://scholar.google.com/citations?user=_CHPF-kAAAAJ&hl=en).  
-&emsp;[arXiv:2410.21201](https://arxiv.org/abs/2410.21201), 2024.  
-&emsp;Presented as (part of) an [invitied talk (40min)](https://youtu.be/LVsHzXb0hts?t=5268) at [Shenzhen–Nagoya Workshop on Quantum Science 2025](https://shenzhen-nagoya.github.io/2025/).  
-&emsp;Presented as (part of) a contributed talk at [the 25th Asian Quantum Information Science Conference (AQIS 2025)](http://aqis-conf.org/2025/program/).  
-&emsp;Presented as (part of) a research talk at the NQCC-QSL December Deep Dive Agenda in the University of Edinburgh in 2024.
-
-[P3] **Local test for unitarily invariant properties of bipartite quantum states**.  
-&emsp;<span style="color:green">Ⓐ</span> [Kean Chen](https://scholar.google.com/citations?user=Ncvskw4AAAAJ&hl=en), Qisheng Wang, and [Zhicheng Zhang](https://scholar.google.com/citations?user=_CHPF-kAAAAJ&hl=en).  
-&emsp;[arXiv:2404.04599](https://arxiv.org/abs/2404.04599), 2024.  
-&emsp;Presented as (part of) an [invitied talk (40min)](https://youtu.be/LVsHzXb0hts?t=5268) at [Shenzhen–Nagoya Workshop on Quantum Science 2025](https://shenzhen-nagoya.github.io/2025/).  
-&emsp;Appears as [Monthly News for April 2024](https://ptreview.sublinear.info/2024/05/news-for-april-2024/) in [Property Testing Review](https://ptreview.sublinear.info/).
-
-[P2] **VeriQBench: a benchmark for multiple types of quantum circuits**.  
-&emsp;<span style="color:green">Ⓐ</span> [Kean Chen](https://scholar.google.com/citations?user=Ncvskw4AAAAJ&hl=en), [Wang Fang](https://scholar.google.com/citations?user=4D3FWQIAAAAJ&hl=en), [Ji Guan](https://scholar.google.com/citations?user=muIp5UIAAAAJ&hl=en), [Xin Hong](https://scholar.google.com/citations?user=Vm4a-uMAAAAJ&hl=en), Mingyu Huang, [Junyi Liu](https://scholar.google.com/citations?user=jJ0y2JEAAAAJ&hl=en), Qisheng Wang, and [Mingsheng Ying](https://scholar.google.com/citations?user=jjPif6cAAAAJ&hl=en).  
-&emsp;[arXiv:2206.10880](https://arxiv.org/abs/2206.10880), 2022.
-
-[P1] **Improving positive unlabeled learning: practical AUL estimation and new training method for extremely imbalanced data sets**.  
-&emsp;<span style="color:blue">Ⓒ</span> Liwei Jiang, [Dan Li](https://scholar.google.com/citations?user=GFGN-ykAAAAJ&hl=en), Qisheng Wang, [Shuai Wang](https://scholar.google.com/citations?user=Yo0BTHMAAAAJ&hl=en), and Songtao Wang.  
-&emsp;[arXiv:2004.09820](https://arxiv.org/abs/2004.09820), 2020.
