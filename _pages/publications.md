@@ -619,57 +619,46 @@ author_profile: true
   </li>
 </ul>
 
-<html>
-<head>
 <style>
-  /* 重置可能干扰的样式 */
-  * {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-  }
-  .pub-list {
-    list-style: none;
-    padding-left: 0;
-    width: 100%;
-  }
-  .pub-list li {
-    margin-bottom: 1.2em;
-  }
-  .pub-item {
-    display: table;
-    width: 100%;
-    table-layout: fixed;   /* 强制列宽由第一行决定，但这里不需要，因为宽度自动 */
-  }
-  .pub-number {
-    display: table-cell;
-    white-space: nowrap;
-    width: 1%;             /* 让宽度由内容撑开 */
-    text-align: right;
-    font-weight: normal;
-    padding-right: 0.8em;  /* 编号与内容的间距 */
-    vertical-align: top;
-  }
-  .pub-content {
-    display: table-cell;
-    width: 100%;           /* 占据剩余宽度 */
-    vertical-align: top;
-  }
-  .pub-title {
-    font-weight: bold;
-  }
-  .pub-authors, .pub-journal, .pub-extra {
-    display: block;
-  }
-  .pub-authors {
-    margin-top: 0.2em;
-  }
-  .pub-extra {
-    margin-top: 0.1em;
-  }
+.pub-list {
+  list-style: none;
+  padding-left: 0;
+}
+.pub-list li {
+  margin-bottom: 1.2em;
+}
+.pub-item {
+  display: table;
+  width: 100%;
+  /* 不使用 table-layout: fixed，让浏览器自动调整列宽 */
+}
+.pub-number {
+  display: table-cell;
+  white-space: nowrap;      /* 强制编号不换行 */
+  width: 1px;               /* 让列宽尽可能收缩，但内容会撑开 */
+  text-align: right;
+  font-weight: normal;
+  padding-right: 0.8em;     /* 编号与内容的间距 */
+  vertical-align: top;
+}
+.pub-content {
+  display: table-cell;
+  width: 100%;              /* 内容区域占满剩余宽度 */
+  vertical-align: top;
+}
+.pub-title {
+  font-weight: bold;
+}
+.pub-authors, .pub-journal, .pub-extra {
+  display: block;
+}
+.pub-authors {
+  margin-top: 0.2em;
+}
+.pub-extra {
+  margin-top: 0.1em;
+}
 </style>
-</head>
-<body>
 <ul class="pub-list">
   <li>
     <div class="pub-item">
@@ -692,5 +681,3 @@ author_profile: true
     </div>
   </li>
 </ul>
-</body>
-</html>
