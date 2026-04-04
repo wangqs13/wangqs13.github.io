@@ -70,7 +70,7 @@ author_profile: true
     <div class="pub-item">
       <span class="pub-number">[J19]</span>
       <div class="pub-content">
-        <div class="pub-title"><a name="journal-time-efficient-quantum-entropy-estimator-via-samplizer"></a>Time-efficient quantum entropy estimator via samplizer. <a href="#conference-time-efficient-quantum-entropy-estimator-via-samplizer">[Conference version @ESA 2024]</a></div>
+        <div class="pub-title"><a name="J19"></a>Time-efficient quantum entropy estimator via samplizer. <a href="#C2">[C2 @ESA 2024]</a></div>
         <div class="pub-authors"><span style="color:blue">Ⓒ</span> Qisheng Wang and <a href="https://scholar.google.com/citations?user=_CHPF-kAAAAJ&hl=en">Zhicheng Zhang</a>.</div>
         <div class="pub-journal"><em>IEEE Transactions on Information Theory</em>, 71(12): 9569-9599, 2025. <a href="https://doi.org/10.1109/TIT.2025.3576137">doi:10.1109/TIT.2025.3576137</a>. <a href="https://arxiv.org/abs/2401.09947">arXiv:2401.09947</a>.</div>
         <div class="pub-extra">Presented as (part of) an <a href="https://youtu.be/LVsHzXb0hts?t=5268">invited talk (40min)</a> at <a href="https://shenzhen-nagoya.github.io/2025/">Shenzhen–Nagoya Workshop on Quantum Science 2025</a>.</div>
@@ -411,7 +411,7 @@ author_profile: true
     <div class="pub-item">
       <span class="pub-number">[C2]</span>
       <div class="pub-content">
-        <div class="pub-title"><a name="conference-time-efficient-quantum-entropy-estimator-via-samplizer"></a>Time-efficient quantum entropy estimator via samplizer. <a href="#journal-time-efficient-quantum-entropy-estimator-via-samplizer">[Journal version @TIT]</a></div>
+        <div class="pub-title"><a name="C2"></a>Time-efficient quantum entropy estimator via samplizer. <a href="#J19">[J19 @TIT]</a></div>
         <div class="pub-authors"><span style="color:blue">Ⓒ</span> Qisheng Wang and <a href="https://scholar.google.com/citations?user=_CHPF-kAAAAJ&hl=en">Zhicheng Zhang</a>.</div>
         <div class="pub-arxiv">In <em>Proceedings of the 32nd Annual European Symposium on Algorithms</em> (ESA 2024), pp. 101:1-101:15, 2024. <a href="https://doi.org/10.4230/LIPIcs.ESA.2024.101">doi:10.4230/LIPIcs.ESA.2024.101</a>. <a href="https://arxiv.org/abs/2401.09947">arXiv:2401.09947</a>.</div>
       </div>
