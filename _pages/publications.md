@@ -161,35 +161,59 @@ Presented (online by [Minbo Gao](https://scholar.google.com/citations?user=b8i9J
 .pub-list li {
   margin-bottom: 1.2em;
 }
-.pub-list li strong {
-  display: block;
-  margin-bottom: 0.2em;
+.pub-item {
+  display: flex;
+  align-items: flex-start;
 }
-.pub-list .authors {
-  display: block;
-  margin-left: 1.5em;
+.pub-number {
+  min-width: 6.5ch;   /* 足够容纳 [P100] 及一般更长的编号 */
+  font-weight: normal;
+  margin-right: 0.5ch; /* 编号与内容之间的间距 */
 }
-.pub-list .arxiv {
+.pub-content {
+  flex: 1;
+}
+.pub-title {
+  font-weight: bold;
+}
+.pub-authors, .pub-arxiv {
   display: block;
-  margin-left: 1.5em;
+}
+.pub-authors {
+  margin-top: 0.2em;
 }
 </style>
 
 <ul class="pub-list">
   <li>
-    <strong>[P3] Trace estimation of quantum state powers: Sample complexity and computational hardness.</strong>
-    <span class="authors">Ⓐ Kean Chen, Yupan Liu, and Qisheng Wang.</span>
-    <span class="arxiv">arXiv:2505.09563v2, 2026.</span>
+    <div class="pub-item">
+      <span class="pub-number">[P3]</span>
+      <div class="pub-content">
+        <div class="pub-title">Trace estimation of quantum state powers: Sample complexity and computational hardness.</div>
+        <div class="pub-authors">Ⓐ Kean Chen, Yupan Liu, and Qisheng Wang.</div>
+        <div class="pub-arxiv">arXiv:2505.09563v2, 2026.</div>
+      </div>
+    </div>
   </li>
   <li>
-    <strong>[P2] A slightly improved upper bound for quantum statistical zero-knowledge.</strong>
-    <span class="authors">Ⓐ François Le Gall, Yupan Liu, and Qisheng Wang.</span>
-    <span class="arxiv">arXiv:2512.11597, 2025.</span>
+    <div class="pub-item">
+      <span class="pub-number">[P2]</span>
+      <div class="pub-content">
+        <div class="pub-title">A slightly improved upper bound for quantum statistical zero-knowledge.</div>
+        <div class="pub-authors">Ⓐ François Le Gall, Yupan Liu, and Qisheng Wang.</div>
+        <div class="pub-arxiv">arXiv:2512.11597, 2025.</div>
+      </div>
+    </div>
   </li>
   <li>
-    <strong>[P1] A list of complexity bounds for property testing by quantum sample-to-query lifting.</strong>
-    <span class="authors">Ⓐ Kean Chen, Qisheng Wang, and Zhicheng Zhang.</span>
-    <span class="arxiv">arXiv:2512.01971, 2025.</span>
+    <div class="pub-item">
+      <span class="pub-number">[P1]</span>
+      <div class="pub-content">
+        <div class="pub-title">A list of complexity bounds for property testing by quantum sample-to-query lifting.</div>
+        <div class="pub-authors">Ⓐ Kean Chen, Qisheng Wang, and Zhicheng Zhang.</div>
+        <div class="pub-arxiv">arXiv:2512.01971, 2025.</div>
+      </div>
+    </div>
   </li>
 </ul>
 
