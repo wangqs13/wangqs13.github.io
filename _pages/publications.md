@@ -10,29 +10,32 @@ author_profile: true
 
 ## Journals
 
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
 <style>
+/* 基础样式 */
 .pub-list {
   list-style: none;
   padding-left: 0;
+  margin: 0;
 }
 .pub-list li {
   margin-bottom: 1.2em;
 }
 .pub-item {
-  display: table;
-  width: 100%;
+  display: flex;
+  align-items: flex-start;
 }
+/* 编号初始样式，JS 会覆盖宽度和 text-align */
 .pub-number {
-  display: table-cell;
-  white-space: nowrap;
-  width: 0.1%;          /* 让宽度由内容撑开，不占多余空间 */
-  text-align: right;    /* 编号右对齐 */
   font-weight: normal;
-  padding-right: 0.6em; /* 编号与内容之间的间距 */
+  white-space: nowrap;
+  margin-right: 0.8em;
 }
 .pub-content {
-  display: table-cell;
-  width: 100%;          /* 内容区域占满剩余宽度 */
+  flex: 1;
 }
 .pub-title {
   font-weight: bold;
@@ -47,8 +50,11 @@ author_profile: true
   margin-top: 0.1em;
 }
 </style>
+</head>
+<body>
 
 <ul class="pub-list">
+  <!-- 原第1条 → 编号 [J21] -->
   <li>
     <div class="pub-item">
       <span class="pub-number">[J21]</span>
@@ -56,13 +62,14 @@ author_profile: true
         <div class="pub-title">Space-bounded quantum state testing via space-efficient quantum singular value transformation.</div>
         <div class="pub-authors"><span style="color:green">Ⓐ</span> <a href="https://scholar.google.com/citations?user=tpCh6MIAAAAJ&hl=en">François Le Gall</a>, <a href="https://scholar.google.com/citations?user=KJrYKwMAAAAJ&hl=en">Yupan Liu</a>, and Qisheng Wang.</div>
         <div class="pub-journal"><em>Computational Complexity</em>, to appear, 2026. <a href="https://arxiv.org/abs/2308.05079">arXiv:2308.05079</a>.</div>
-        <div class="pub-extra">Presented (by <a href="https://scholar.google.com/citations?user=KJrYKwMAAAAJ&hl=en">Yupan Liu</a>) as a poster at the 2023 Annual Q-LEAP Quantum AI Meeting (令和5年度Q-LEAP量子AI領域研究会) in 2024.</div>
-        <div class="pub-extra">Presented (with <a href="https://scholar.google.com/citations?user=KJrYKwMAAAAJ&hl=en">Yupan Liu</a>) as a <a href="https://qip2024.tw/site/mypage.aspx?pid=263&lang=en&sid=1522">poster</a> at <a href="https://qip2024.tw/site/page.aspx?pid=901&sid=1522&lang=en">the 27th Conference on Quantum Information Processing (QIP 2024)</a>.</div>
-        <div class="pub-extra">Presented (by <a href="https://scholar.google.com/citations?user=KJrYKwMAAAAJ&hl=en">Yupan Liu</a>) as an <a href="https://www.youtube.com/watch?v=H-AHKy00-co">invited online talk</a> at the Research Center for Quantum Software (QuSoft) in 2023.</div>
+        <div class="pub-extra">Presented (by Yupan Liu) as a poster at the 2023 Annual Q-LEAP Quantum AI Meeting (令和5年度Q-LEAP量子AI領域研究会) in 2024.</div>
+        <div class="pub-extra">Presented (with Yupan Liu) as a <a href="https://qip2024.tw/site/mypage.aspx?pid=263&lang=en&sid=1522">poster</a> at <a href="https://qip2024.tw/site/page.aspx?pid=901&sid=1522&lang=en">the 27th Conference on Quantum Information Processing (QIP 2024)</a>.</div>
+        <div class="pub-extra">Presented (by Yupan Liu) as an <a href="https://www.youtube.com/watch?v=H-AHKy00-co">invited online talk</a> at the Research Center for Quantum Software (QuSoft) in 2023.</div>
         <div class="pub-extra">Appears as <a href="https://ptreview.sublinear.info/2023/09/news-for-august-2023/">Monthly News for August 2023</a> in <a href="https://ptreview.sublinear.info/">Property Testing Review</a>.</div>
       </div>
     </div>
   </li>
+  <!-- 原第2条 → 编号 [J20] -->
   <li>
     <div class="pub-item">
       <span class="pub-number">[J20]</span>
@@ -73,6 +80,7 @@ author_profile: true
       </div>
     </div>
   </li>
+  <!-- 原第3条 → 编号 [J19] -->
   <li>
     <div class="pub-item">
       <span class="pub-number">[J19]</span>
@@ -88,6 +96,7 @@ author_profile: true
       </div>
     </div>
   </li>
+  <!-- 原第4条 → 编号 [J18] -->
   <li>
     <div class="pub-item">
       <span class="pub-number">[J18]</span>
@@ -99,6 +108,7 @@ author_profile: true
       </div>
     </div>
   </li>
+  <!-- 原第5条 → 编号 [J17] -->
   <li>
     <div class="pub-item">
       <span class="pub-number">[J17]</span>
@@ -107,13 +117,14 @@ author_profile: true
         <div class="pub-authors"><span style="color:blue">Ⓒ</span> Qisheng Wang and <a href="https://scholar.google.com/citations?user=_CHPF-kAAAAJ&hl=en">Zhicheng Zhang</a>.</div>
         <div class="pub-journal"><em>SIAM Journal on Computing</em>, 54(5): 1294-1334, 2025. <a href="https://doi.org/10.1137/24M1638616">doi:10.1137/24M1638616</a>. <a href="https://arxiv.org/abs/2308.01794">arXiv:2308.01794</a>.</div>
         <div class="pub-extra">Presented as (part of) an <a href="https://youtu.be/LVsHzXb0hts?t=5268">invited talk (40min)</a> at <a href="https://shenzhen-nagoya.github.io/2025/">Shenzhen–Nagoya Workshop on Quantum Science 2025</a>.</div>
-        <div class="pub-extra">Presented (with <a href="https://scholar.google.com/citations?user=_CHPF-kAAAAJ&hl=en">Zhicheng Zhang</a>) as a <a href="https://qip2024.tw/site/mypage.aspx?pid=263&lang=en&sid=1522">poster</a> at <a href="https://qip2024.tw/site/page.aspx?pid=901&sid=1522&lang=en">the 27th Conference on Quantum Information Processing (QIP 2024)</a>.</div>
-        <div class="pub-extra">Presented as an online talk invited by <a href="https://scholar.google.com/citations?user=2uXdu7AAAAAJ&hl=en">Zhengfeng Ji</a> at Tsinghua University in 2023.</div>
+        <div class="pub-extra">Presented (with Zhicheng Zhang) as a <a href="https://qip2024.tw/site/mypage.aspx?pid=263&lang=en&sid=1522">poster</a> at <a href="https://qip2024.tw/site/page.aspx?pid=901&sid=1522&lang=en">the 27th Conference on Quantum Information Processing (QIP 2024)</a>.</div>
+        <div class="pub-extra">Presented as an online talk invited by Zhengfeng Ji at Tsinghua University in 2023.</div>
         <div class="pub-extra">Presented as an invited <a href="https://youtu.be/RebEfLFH69I?t=3015">talk (20min)</a> at <a href="https://shenzhen-nagoya.github.io/2023/">Shenzhen–Nagoya Workshop on Quantum Science 2023</a>.</div>
         <div class="pub-extra">Appears as <a href="https://ptreview.sublinear.info/2023/09/news-for-august-2023/">Monthly News for August 2023</a> in <a href="https://ptreview.sublinear.info/">Property Testing Review</a>.</div>
       </div>
     </div>
   </li>
+  <!-- 原第6条 → 编号 [J16] -->
   <li>
     <div class="pub-item">
       <span class="pub-number">[J16]</span>
@@ -121,11 +132,12 @@ author_profile: true
         <div class="pub-title">Quantum algorithms for matrix geometric means.</div>
         <div class="pub-authors"><span style="color:green">Ⓐ</span> <a href="https://scholar.google.com/citations?user=c1Ha6TwAAAAJ&hl=en">Nana Liu</a>, Qisheng Wang, <a href="https://scholar.google.com/citations?user=vANLRiYAAAAJ&hl=en">Mark M. Wilde</a>, and <a href="https://scholar.google.com/citations?user=_CHPF-kAAAAJ&hl=en">Zhicheng Zhang</a>.</div>
         <div class="pub-journal"><em>npj Quantum Information</em>, 11: 101, 2025. <a href="https://doi.org/10.1038/s41534-025-00973-7">doi:10.1038/s41534-025-00973-7</a>. <a href="https://arxiv.org/abs/2405.00673">arXiv:2405.00673</a>.</div>
-        <div class="pub-extra">Presented (by <a href="https://scholar.google.com/citations?user=c1Ha6TwAAAAJ&hl=en">Nana Liu</a>) as (part of) an invited <a href="https://youtu.be/MbbdzyyQbqw?t=1469">talk</a> at <a href="https://qtml2024.org/">the 8th International Conference on Quantum Techniques in Machine Learning (QTML 2024)</a>.</div>
-        <div class="pub-extra">Presented (by <a href="https://scholar.google.com/citations?user=vANLRiYAAAAJ&hl=en">Mark M. Wilde</a>) as a contributed <a href="https://quantum.iitm.ac.in/qcmc24/accepted-talks-and-posters/">talk</a> at <a href="https://quantum.iitm.ac.in/qcmc24/">the 16th International Conference on Quantum Communication, Measurement and Computing (QCMC 2024)</a>. <a href="https://doi.org/10.5281/zenodo.14309036">doi:10.5281/zenodo.14309036</a>.</div>
+        <div class="pub-extra">Presented (by Nana Liu) as (part of) an invited <a href="https://youtu.be/MbbdzyyQbqw?t=1469">talk</a> at <a href="https://qtml2024.org/">the 8th International Conference on Quantum Techniques in Machine Learning (QTML 2024)</a>.</div>
+        <div class="pub-extra">Presented (by Mark M. Wilde) as a contributed <a href="https://quantum.iitm.ac.in/qcmc24/accepted-talks-and-posters/">talk</a> at <a href="https://quantum.iitm.ac.in/qcmc24/">the 16th International Conference on Quantum Communication, Measurement and Computing (QCMC 2024)</a>. <a href="https://doi.org/10.5281/zenodo.14309036">doi:10.5281/zenodo.14309036</a>.</div>
       </div>
     </div>
   </li>
+  <!-- 原第7条 → 编号 [J15] -->
   <li>
     <div class="pub-item">
       <span class="pub-number">[J15]</span>
@@ -137,6 +149,7 @@ author_profile: true
       </div>
     </div>
   </li>
+  <!-- 原第8条 → 编号 [J14] -->
   <li>
     <div class="pub-item">
       <span class="pub-number">[J14]</span>
@@ -144,13 +157,14 @@ author_profile: true
         <div class="pub-title">Optimal trace distance and fidelity estimations for pure quantum states.</div>
         <div class="pub-authors">Qisheng Wang.</div>
         <div class="pub-journal"><em>IEEE Transactions on Information Theory</em>, 70(12): 8791-8805, 2024. <a href="https://doi.org/10.1109/TIT.2024.3447915">doi:10.1109/TIT.2024.3447915</a>. <a href="https://arxiv.org/abs/2408.16655">arXiv:2408.16655</a>.</div>
-        <div class="pub-extra">Presented as a talk invited by <a href="https://scholar.google.com/citations?user=oEZ7iPkAAAAJ">Li Zhou</a> at the Institute of Software, Chinese Academy of Sciences in 2025.</div>
+        <div class="pub-extra">Presented as a talk invited by Li Zhou at the Institute of Software, Chinese Academy of Sciences in 2025.</div>
         <div class="pub-extra">Presented as (part of) a contributed talk at <a href="http://aqis-conf.org/2025/program/">the 25th Asian Quantum Information Science Conference (AQIS 2025)</a>.</div>
         <div class="pub-extra">Presented as an invited talk at the <a href="https://quantum-tech-alliance.co.uk/2025/04/24/quantum-summer-school/">Quantum Summer School 2025</a> in the University of St Andrews.</div>
-        <div class="pub-extra">Presented as a seminar talk at the QSL Seminar organized by <a href="https://scholar.google.com/citations?user=YMsAJG8AAAAJ&hl=en">Robert I. Booth</a> in the University of Edinburgh in 2024.</div>
+        <div class="pub-extra">Presented as a seminar talk at the QSL Seminar organized by Robert I. Booth in the University of Edinburgh in 2024.</div>
       </div>
     </div>
   </li>
+  <!-- 原第9条 → 编号 [J13] -->
   <li>
     <div class="pub-item">
       <span class="pub-number">[J13]</span>
@@ -161,6 +175,7 @@ author_profile: true
       </div>
     </div>
   </li>
+  <!-- 原第10条 → 编号 [J12] -->
   <li>
     <div class="pub-item">
       <span class="pub-number">[J12]</span>
@@ -172,6 +187,7 @@ author_profile: true
       </div>
     </div>
   </li>
+  <!-- 原第11条 → 编号 [J11] -->
   <li>
     <div class="pub-item">
       <span class="pub-number">[J11]</span>
@@ -182,6 +198,7 @@ author_profile: true
       </div>
     </div>
   </li>
+  <!-- 原第12条 → 编号 [J10] -->
   <li>
     <div class="pub-item">
       <span class="pub-number">[J10]</span>
@@ -193,6 +210,7 @@ author_profile: true
       </div>
     </div>
   </li>
+  <!-- 原第13条 → 编号 [J9] -->
   <li>
     <div class="pub-item">
       <span class="pub-number">[J9]</span>
@@ -204,6 +222,7 @@ author_profile: true
       </div>
     </div>
   </li>
+  <!-- 原第14条 → 编号 [J8] -->
   <li>
     <div class="pub-item">
       <span class="pub-number">[J8]</span>
@@ -214,6 +233,7 @@ author_profile: true
       </div>
     </div>
   </li>
+  <!-- 原第15条 → 编号 [J7] -->
   <li>
     <div class="pub-item">
       <span class="pub-number">[J7]</span>
@@ -224,6 +244,7 @@ author_profile: true
       </div>
     </div>
   </li>
+  <!-- 原第16条 → 编号 [J6] -->
   <li>
     <div class="pub-item">
       <span class="pub-number">[J6]</span>
@@ -231,10 +252,11 @@ author_profile: true
         <div class="pub-title">Unitarity estimation for quantum channels.</div>
         <div class="pub-authors"><span style="color:blue">Ⓒ</span> <a href="https://scholar.google.com/citations?user=Ncvskw4AAAAJ&hl=en">Kean Chen</a>, Qisheng Wang, Peixun Long, and <a href="https://scholar.google.com/citations?user=jjPif6cAAAAJ&hl=en">Mingsheng Ying</a>.</div>
         <div class="pub-journal"><em>IEEE Transactions on Information Theory</em>, 69(8): 5116-5134, 2023. <a href="https://doi.org/10.1109/TIT.2023.3263645">doi:10.1109/TIT.2023.3263645</a>. <a href="https://arxiv.org/abs/2212.09319">arXiv:2212.09319</a>.</div>
-        <div class="pub-extra">Presented (by <a href="https://scholar.google.com/citations?user=Ncvskw4AAAAJ&hl=en">Kean Chen</a>) as a <a href="http://www.is.cas.cn/ztzl2016/2023xsnh/2023hbzs/">poster</a> at <a href="http://www.is.cas.cn/ztzl2016/rjsxsnh/2023xsnh/">the 2023 Academic Annual Conference of the Institute of Software, Chinese Academy of Sciences (2023年中国科学院软件研究所学术年会)</a>.</div>
+        <div class="pub-extra">Presented (by Kean Chen) as a <a href="http://www.is.cas.cn/ztzl2016/2023xsnh/2023hbzs/">poster</a> at <a href="http://www.is.cas.cn/ztzl2016/rjsxsnh/2023xsnh/">the 2023 Academic Annual Conference of the Institute of Software, Chinese Academy of Sciences (2023年中国科学院软件研究所学术年会)</a>.</div>
       </div>
     </div>
   </li>
+  <!-- 原第17条 → 编号 [J5] -->
   <li>
     <div class="pub-item">
       <span class="pub-number">[J5]</span>
@@ -245,6 +267,7 @@ author_profile: true
       </div>
     </div>
   </li>
+  <!-- 原第18条 → 编号 [J4] -->
   <li>
     <div class="pub-item">
       <span class="pub-number">[J4]</span>
@@ -256,6 +279,7 @@ author_profile: true
       </div>
     </div>
   </li>
+  <!-- 原第19条 → 编号 [J3] -->
   <li>
     <div class="pub-item">
       <span class="pub-number">[J3]</span>
@@ -266,6 +290,7 @@ author_profile: true
       </div>
     </div>
   </li>
+  <!-- 原第20条 → 编号 [J2] -->
   <li>
     <div class="pub-item">
       <span class="pub-number">[J2]</span>
@@ -276,6 +301,7 @@ author_profile: true
       </div>
     </div>
   </li>
+  <!-- 原第21条 → 编号 [J1] -->
   <li>
     <div class="pub-item">
       <span class="pub-number">[J1]</span>
@@ -287,6 +313,44 @@ author_profile: true
     </div>
   </li>
 </ul>
+
+<script>
+  (function() {
+    // 等待 DOM 加载完成
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', alignNumbers);
+    } else {
+      alignNumbers();
+    }
+    function alignNumbers() {
+      var numbers = document.querySelectorAll('.pub-number');
+      if (numbers.length === 0) return;
+      // 创建隐藏的测量元素
+      var measure = document.createElement('span');
+      measure.style.position = 'absolute';
+      measure.style.visibility = 'hidden';
+      measure.style.whiteSpace = 'nowrap';
+      measure.style.font = window.getComputedStyle(numbers[0]).font;
+      document.body.appendChild(measure);
+      var maxWidth = 0;
+      numbers.forEach(function(el) {
+        measure.textContent = el.textContent;
+        var w = measure.offsetWidth;
+        if (w > maxWidth) maxWidth = w;
+      });
+      document.body.removeChild(measure);
+      if (maxWidth > 0) {
+        numbers.forEach(function(el) {
+          el.style.display = 'inline-block';
+          el.style.minWidth = maxWidth + 'px';
+          el.style.textAlign = 'right';
+        });
+      }
+    }
+  })();
+</script>
+</body>
+</html>
 
 ## Conferences
 
