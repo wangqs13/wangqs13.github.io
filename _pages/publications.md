@@ -153,61 +153,61 @@ Presented (online by [Minbo Gao](https://scholar.google.com/citations?user=b8i9J
 
 ## Preprints
 
-[P13] **Trace estimation of quantum state powers: Sample complexity and computational hardness**.  
+`[P13]`**Trace estimation of quantum state powers: Sample complexity and computational hardness**.  
 &emsp;<span style="color:green">Ⓐ</span> [Kean Chen](https://scholar.google.com/citations?user=Ncvskw4AAAAJ&hl=en), [Yupan Liu](https://scholar.google.com/citations?user=KJrYKwMAAAAJ&hl=en), and Qisheng Wang.  
 &emsp;[arXiv:2505.09563v2](https://arxiv.org/abs/2505.09563v2), 2026.
 
-[P12] **A slightly improved upper bound for quantum statistical zero-knowledge**.  
+`[P12]`**A slightly improved upper bound for quantum statistical zero-knowledge**.  
 &emsp;<span style="color:green">Ⓐ</span> [François Le Gall](https://scholar.google.com/citations?user=tpCh6MIAAAAJ&hl=en), [Yupan Liu](https://scholar.google.com/citations?user=KJrYKwMAAAAJ&hl=en), and Qisheng Wang.  
 &emsp;[arXiv:2512.11597](https://arxiv.org/abs/2512.11597), 2025.
 
-[P11] **A list of complexity bounds for property testing by quantum sample-to-query lifting**.  
+`[P11]`**A list of complexity bounds for property testing by quantum sample-to-query lifting**.  
 &emsp;<span style="color:green">Ⓐ</span> [Kean Chen](https://scholar.google.com/citations?user=Ncvskw4AAAAJ&hl=en), Qisheng Wang, and [Zhicheng Zhang](https://scholar.google.com/citations?user=_CHPF-kAAAAJ&hl=en).  
 &emsp;[arXiv:2512.01971](https://arxiv.org/abs/2512.01971), 2025.
 
-[P10] **On estimating the quantum Tsallis relative entropy**.  
+`[P10]`**On estimating the quantum Tsallis relative entropy**.  
 &emsp;<span style="color:green">Ⓐ</span> [Jinge Bao](https://scholar.google.com/citations?user=U1TGq_gAAAAJ&hl=en), [Minbo Gao](https://scholar.google.com/citations?user=b8i9J_QAAAAJ&hl=en), and Qisheng Wang.  
 &emsp;[arXiv:2510.00752](https://arxiv.org/abs/2510.00752), 2025.
 
-[P9] **Quantum algorithms for Uhlmann transformation**.  
+`[P9]`**Quantum algorithms for Uhlmann transformation**.  
 &emsp;<span style="color:blue">Ⓒ</span> [Takeru Utsumi](https://scholar.google.com/citations?user=8vB7hGQAAAAJ&hl=en), [Yoshifumi Nakata](https://scholar.google.com/citations?user=CpkyDoMAAAAJ&hl=en), Qisheng Wang, and [Ryuji Takagi](https://scholar.google.com/citations?user=UAe-79QAAAAJ&hl=en).  
 &emsp;[arXiv:2509.03619](https://arxiv.org/abs/2509.03619), 2025.
 
-[P8] **Information-theoretic lower bounds for approximating monomials via optimal quantum Tsallis entropy estimation**.  
+`[P8]`**Information-theoretic lower bounds for approximating monomials via optimal quantum Tsallis entropy estimation**.  
 &emsp;Qisheng Wang.  
 &emsp;[arXiv:2509.03496](https://arxiv.org/abs/2509.03496), 2025.
 
-[P7] **Simultaneous estimation of nonlinear functionals of a quantum state**.  
+`[P7]`**Simultaneous estimation of nonlinear functionals of a quantum state**.  
 &emsp;<span style="color:green">Ⓐ</span> [Kean Chen](https://scholar.google.com/citations?user=Ncvskw4AAAAJ&hl=en), Qisheng Wang, [Zhan Yu](https://scholar.google.com/citations?user=cF8RgGwAAAAJ&hl=en), and [Zhicheng Zhang](https://scholar.google.com/citations?user=_CHPF-kAAAAJ&hl=en).  
 &emsp;[arXiv:2505.16715](https://arxiv.org/abs/2505.16715), 2025.  
-> Presented (by [Zhan Yu](https://scholar.google.com/citations?user=cF8RgGwAAAAJ&hl=en)) as a contributed talk at the [the 25th Asian Quantum Information Science Conference (AQIS 2025)](http://aqis-conf.org/2025/program/).
+&emsp;Presented (by [Zhan Yu](https://scholar.google.com/citations?user=cF8RgGwAAAAJ&hl=en)) as a contributed talk at the [the 25th Asian Quantum Information Science Conference (AQIS 2025)](http://aqis-conf.org/2025/program/).
 
-[P6] **Does there exist a quantum fingerprinting protocol without coherent measurements?**.  
+`[P6]`**Does there exist a quantum fingerprinting protocol without coherent measurements?**.  
 &emsp;<span style="color:green">Ⓐ</span> Atsuya Hasegawa, [Srijita Kundu](https://scholar.google.com/citations?user=R8ckW8sAAAAJ&hl=en), [François Le Gall](https://scholar.google.com/citations?user=tpCh6MIAAAAJ&hl=en), [Harumichi Nishimura](https://www.math.cm.is.nagoya-u.ac.jp/~hnishimura/e-index.html), and Qisheng Wang.  
 &emsp;[arXiv:2502.13427](https://arxiv.org/abs/2502.13427), 2025.
 
-[P5] **Quantum algorithm for sparse online learning with truncated gradient descent**.  
+`[P5]`**Quantum algorithm for sparse online learning with truncated gradient descent**.  
 &emsp;<span style="color:green">Ⓐ</span> [Debbie Lim](https://scholar.google.com/citations?user=4PSyMJkAAAAJ&hl=en), [Yixian Qiu](https://scholar.google.com/citations?user=sVqwmRYAAAAJ&hl=en), [Patrick Rebentrost](https://scholar.google.com/citations?user=XWHSBmUAAAAJ&hl=en), Qisheng Wang.  
 &emsp;[arXiv:2411.03925](https://arxiv.org/abs/2411.03925), 2024.  
-> Presented as (part of) a research talk at the NQCC-QSL December Deep Dive Agenda in the University of Edinburgh in 2024.
+&emsp;Presented as (part of) a research talk at the NQCC-QSL December Deep Dive Agenda in the University of Edinburgh in 2024.
 
-[P4] **Sample-optimal quantum estimators for pure-state trace distance and fidelity via samplizer**.  
+`[P4]`**Sample-optimal quantum estimators for pure-state trace distance and fidelity via samplizer**.  
 &emsp;<span style="color:blue">Ⓒ</span> Qisheng Wang and [Zhicheng Zhang](https://scholar.google.com/citations?user=_CHPF-kAAAAJ&hl=en).  
 &emsp;[arXiv:2410.21201](https://arxiv.org/abs/2410.21201), 2024.  
-> Presented as (part of) an [invitied talk (40min)](https://youtu.be/LVsHzXb0hts?t=5268) at [Shenzhen–Nagoya Workshop on Quantum Science 2025](https://shenzhen-nagoya.github.io/2025/).  
-> Presented as (part of) a contributed talk at [the 25th Asian Quantum Information Science Conference (AQIS 2025)](http://aqis-conf.org/2025/program/).  
-> Presented as (part of) a research talk at the NQCC-QSL December Deep Dive Agenda in the University of Edinburgh in 2024.
+&emsp;Presented as (part of) an [invitied talk (40min)](https://youtu.be/LVsHzXb0hts?t=5268) at [Shenzhen–Nagoya Workshop on Quantum Science 2025](https://shenzhen-nagoya.github.io/2025/).  
+&emsp;Presented as (part of) a contributed talk at [the 25th Asian Quantum Information Science Conference (AQIS 2025)](http://aqis-conf.org/2025/program/).  
+&emsp;Presented as (part of) a research talk at the NQCC-QSL December Deep Dive Agenda in the University of Edinburgh in 2024.
 
-[P3] **Local test for unitarily invariant properties of bipartite quantum states**.  
+`[P3]`**Local test for unitarily invariant properties of bipartite quantum states**.  
 &emsp;<span style="color:green">Ⓐ</span> [Kean Chen](https://scholar.google.com/citations?user=Ncvskw4AAAAJ&hl=en), Qisheng Wang, and [Zhicheng Zhang](https://scholar.google.com/citations?user=_CHPF-kAAAAJ&hl=en).  
 &emsp;[arXiv:2404.04599](https://arxiv.org/abs/2404.04599), 2024.  
-> Presented as (part of) an [invitied talk (40min)](https://youtu.be/LVsHzXb0hts?t=5268) at [Shenzhen–Nagoya Workshop on Quantum Science 2025](https://shenzhen-nagoya.github.io/2025/).  
-> Appears as [Monthly News for April 2024](https://ptreview.sublinear.info/2024/05/news-for-april-2024/) in [Property Testing Review](https://ptreview.sublinear.info/).
+&emsp;Presented as (part of) an [invitied talk (40min)](https://youtu.be/LVsHzXb0hts?t=5268) at [Shenzhen–Nagoya Workshop on Quantum Science 2025](https://shenzhen-nagoya.github.io/2025/).  
+&emsp;Appears as [Monthly News for April 2024](https://ptreview.sublinear.info/2024/05/news-for-april-2024/) in [Property Testing Review](https://ptreview.sublinear.info/).
 
-[P2] **VeriQBench: a benchmark for multiple types of quantum circuits**.  
+`[P2]`**VeriQBench: a benchmark for multiple types of quantum circuits**.  
 &emsp;<span style="color:green">Ⓐ</span> [Kean Chen](https://scholar.google.com/citations?user=Ncvskw4AAAAJ&hl=en), [Wang Fang](https://scholar.google.com/citations?user=4D3FWQIAAAAJ&hl=en), [Ji Guan](https://scholar.google.com/citations?user=muIp5UIAAAAJ&hl=en), [Xin Hong](https://scholar.google.com/citations?user=Vm4a-uMAAAAJ&hl=en), Mingyu Huang, [Junyi Liu](https://scholar.google.com/citations?user=jJ0y2JEAAAAJ&hl=en), Qisheng Wang, and [Mingsheng Ying](https://scholar.google.com/citations?user=jjPif6cAAAAJ&hl=en).  
 &emsp;[arXiv:2206.10880](https://arxiv.org/abs/2206.10880), 2022.
 
-[P1] **Improving positive unlabeled learning: practical AUL estimation and new training method for extremely imbalanced data sets**.  
+`[P1]`**Improving positive unlabeled learning: practical AUL estimation and new training method for extremely imbalanced data sets**.  
 &emsp;<span style="color:blue">Ⓒ</span> Liwei Jiang, [Dan Li](https://scholar.google.com/citations?user=GFGN-ykAAAAJ&hl=en), Qisheng Wang, [Shuai Wang](https://scholar.google.com/citations?user=Yo0BTHMAAAAJ&hl=en), and Songtao Wang.  
 &emsp;[arXiv:2004.09820](https://arxiv.org/abs/2004.09820), 2020.
