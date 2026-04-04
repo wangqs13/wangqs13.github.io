@@ -19,14 +19,20 @@ author_profile: true
   margin-bottom: 1.2em;
 }
 .pub-item {
-  display: grid;
-  grid-template-columns: max-content 1fr;
-  gap: 0.6em;
-  align-items: start;
+  display: table;
+  width: 100%;
 }
 .pub-number {
+  display: table-cell;
+  white-space: nowrap;
+  width: 0.1%;          /* 让宽度由内容撑开，不占多余空间 */
+  text-align: right;    /* 编号右对齐 */
   font-weight: normal;
-  text-align: right;
+  padding-right: 0.6em; /* 编号与内容之间的间距 */
+}
+.pub-content {
+  display: table-cell;
+  width: 100%;          /* 内容区域占满剩余宽度 */
 }
 .pub-title {
   font-weight: bold;
@@ -293,19 +299,25 @@ author_profile: true
   margin-bottom: 1.2em;
 }
 .pub-item {
-  display: grid;
-  grid-template-columns: max-content 1fr;
-  gap: 0.6em;
-  align-items: start;
+  display: table;
+  width: 100%;
 }
 .pub-number {
+  display: table-cell;
+  white-space: nowrap;
+  width: 0.1%;          /* 让宽度由内容撑开，不占多余空间 */
+  text-align: right;    /* 编号右对齐 */
   font-weight: normal;
-  text-align: right;
+  padding-right: 0.6em; /* 编号与内容之间的间距 */
+}
+.pub-content {
+  display: table-cell;
+  width: 100%;          /* 内容区域占满剩余宽度 */
 }
 .pub-title {
   font-weight: bold;
 }
-.pub-authors, .pub-arxiv, .pub-extra {
+.pub-authors, .pub-journal, .pub-extra {
   display: block;
 }
 .pub-authors {
@@ -438,19 +450,25 @@ author_profile: true
   margin-bottom: 1.2em;
 }
 .pub-item {
-  display: grid;
-  grid-template-columns: max-content 1fr;
-  gap: 0.6em;           /* 编号与内容之间的间距，可自行调整 */
-  align-items: start;
+  display: table;
+  width: 100%;
 }
 .pub-number {
+  display: table-cell;
+  white-space: nowrap;
+  width: 0.1%;          /* 让宽度由内容撑开，不占多余空间 */
+  text-align: right;    /* 编号右对齐 */
   font-weight: normal;
-  text-align: right;
+  padding-right: 0.6em; /* 编号与内容之间的间距 */
+}
+.pub-content {
+  display: table-cell;
+  width: 100%;          /* 内容区域占满剩余宽度 */
 }
 .pub-title {
   font-weight: bold;
 }
-.pub-authors, .pub-arxiv, .pub-extra {
+.pub-authors, .pub-journal, .pub-extra {
   display: block;
 }
 .pub-authors {
