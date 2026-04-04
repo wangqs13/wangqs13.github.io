@@ -166,9 +166,8 @@ Presented (online by [Minbo Gao](https://scholar.google.com/citations?user=b8i9J
   align-items: flex-start;
 }
 .pub-number {
-  min-width: 3.2em;    /* 恢复为原来的宽度 */
   font-weight: normal;
-  margin-right: 0.5em;
+  margin-right: 0.5em;   /* 编号和内容之间的间距，可按需调整 */
 }
 .pub-content {
   flex: 1;
