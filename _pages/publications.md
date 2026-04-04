@@ -618,3 +618,79 @@ author_profile: true
     </div>
   </li>
 </ul>
+
+<html>
+<head>
+<style>
+  /* 重置可能干扰的样式 */
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  .pub-list {
+    list-style: none;
+    padding-left: 0;
+    width: 100%;
+  }
+  .pub-list li {
+    margin-bottom: 1.2em;
+  }
+  .pub-item {
+    display: table;
+    width: 100%;
+    table-layout: fixed;   /* 强制列宽由第一行决定，但这里不需要，因为宽度自动 */
+  }
+  .pub-number {
+    display: table-cell;
+    white-space: nowrap;
+    width: 1%;             /* 让宽度由内容撑开 */
+    text-align: right;
+    font-weight: normal;
+    padding-right: 0.8em;  /* 编号与内容的间距 */
+    vertical-align: top;
+  }
+  .pub-content {
+    display: table-cell;
+    width: 100%;           /* 占据剩余宽度 */
+    vertical-align: top;
+  }
+  .pub-title {
+    font-weight: bold;
+  }
+  .pub-authors, .pub-journal, .pub-extra {
+    display: block;
+  }
+  .pub-authors {
+    margin-top: 0.2em;
+  }
+  .pub-extra {
+    margin-top: 0.1em;
+  }
+</style>
+</head>
+<body>
+<ul class="pub-list">
+  <li>
+    <div class="pub-item">
+      <span class="pub-number">[J1]</span>
+      <div class="pub-content">
+        <div class="pub-title">Equivalence checking of quantum finite-state machines.</div>
+        <div class="pub-authors">Qisheng Wang, Junyi Liu, and Mingsheng Ying.</div>
+        <div class="pub-journal">Journal of Computer and System Sciences, 116: 1-21, 2021.</div>
+      </div>
+    </div>
+  </li>
+  <li>
+    <div class="pub-item">
+      <span class="pub-number">[J21]</span>
+      <div class="pub-content">
+        <div class="pub-title">Space-bounded quantum state testing via space-efficient quantum singular value transformation.</div>
+        <div class="pub-authors">François Le Gall, Yupan Liu, and Qisheng Wang.</div>
+        <div class="pub-journal">Computational Complexity, to appear, 2026.</div>
+      </div>
+    </div>
+  </li>
+</ul>
+</body>
+</html>
