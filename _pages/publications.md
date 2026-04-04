@@ -153,6 +153,31 @@ Presented (online by [Minbo Gao](https://scholar.google.com/citations?user=b8i9J
 
 ## Preprints
 
+<style>
+  .reversed-list {
+    list-style: none;
+    padding-left: 0;
+  }
+  .reversed-list li {
+    counter-increment: none;
+    margin-bottom: 8px;
+  }
+  .reversed-list li::before {
+    content: "[P" counter(list-item) "] ";
+    font-weight: bold;
+    margin-right: 8px;
+  }
+</style>
+
+<ol reversed class="reversed-list">
+  <li>**Trace estimation of quantum state powers: Sample complexity and computational hardness**.  
+<span style="color:green">Ⓐ</span> [Kean Chen](https://scholar.google.com/citations?user=Ncvskw4AAAAJ&hl=en), [Yupan Liu](https://scholar.google.com/citations?user=KJrYKwMAAAAJ&hl=en), and Qisheng Wang.  
+[arXiv:2505.09563v2](https://arxiv.org/abs/2505.09563v2), 2026.</li>
+  <li>**A slightly improved upper bound for quantum statistical zero-knowledge**.  
+<span style="color:green">Ⓐ</span> [François Le Gall](https://scholar.google.com/citations?user=tpCh6MIAAAAJ&hl=en), [Yupan Liu](https://scholar.google.com/citations?user=KJrYKwMAAAAJ&hl=en), and Qisheng Wang.  
+[arXiv:2512.11597](https://arxiv.org/abs/2512.11597), 2025.</li>
+</ol>
+
 [P13] **Trace estimation of quantum state powers: Sample complexity and computational hardness**.  
 &emsp;&emsp;&emsp;<span style="color:green">Ⓐ</span> [Kean Chen](https://scholar.google.com/citations?user=Ncvskw4AAAAJ&hl=en), [Yupan Liu](https://scholar.google.com/citations?user=KJrYKwMAAAAJ&hl=en), and Qisheng Wang.  
 &emsp;&emsp;&emsp;[arXiv:2505.09563v2](https://arxiv.org/abs/2505.09563v2), 2026.
