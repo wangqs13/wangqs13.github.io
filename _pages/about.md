@@ -30,6 +30,7 @@ I received my B.Sc. degree and Ph.D. degree from the [Department of Computer Sci
 
 ### 2026
 
+* 2026/04/05: Our paper "[On Estimating the Trace of Quantum State Powers](https://arxiv.org/abs/2410.13559)" was accepted by *IEEE Transactions on Information Theory*.
 * 2026/04/03: Our paper "[Trace Estimation of Quantum State Powers: Sample Complexity and Computational Hardness](https://arxiv.org/abs/2505.09563v2)" was on arXiv.
 * 2026/01/03: Our paper "[Quantum Data Structure for Range Minimum Query](https://arxiv.org/abs/2601.13195)" was accepted by *Journal of Computer and System Sciences*.
 
