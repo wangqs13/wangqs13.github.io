@@ -48,7 +48,7 @@ author_profile: true
       <div class="pub-content">
         <div class="pub-title"><a name="J22"></a>On estimating the trace of quantum state powers. <a href="#C3">[C3 @SODA 2025]</a></div>
         <div class="pub-authors"><span style="color:green">Ⓐ</span> <a href="https://scholar.google.com/citations?user=KJrYKwMAAAAJ&hl=en">Yupan Liu</a>, and Qisheng Wang.</div>
-        <div class="pub-journal"><em>IEEE Transactions on Information Theory</em>, to appear, 2026. <a href="https://arxiv.org/abs/2410.13559">arXiv:2410.13559</a>.</div>
+        <div class="pub-journal"><em>IEEE Transactions on Information Theory</em>, to appear, 2026. <a href="https://doi.org/10.1109/TIT.2026.3683891">doi:10.1109/TIT.2026.3683891</a>. <a href="https://arxiv.org/abs/2410.13559">arXiv:2410.13559</a>.</div>
         <div class="pub-extra">Presented as (part of) an <a href="https://youtu.be/LVsHzXb0hts?t=5268">invited talk (40min)</a> at <a href="https://shenzhen-nagoya.github.io/2025/">Shenzhen–Nagoya Workshop on Quantum Science 2025</a>.</div>
         <div class="pub-extra">Presented as a contributed <a href="https://rsvp.duke.edu/event/qip2025/accepted-talks">talk</a> at <a href="https://rsvp.duke.edu/event/qip2025/home">the 28th Quantum Information Processing Conference (QIP 2025)</a>.</div>
         <div class="pub-extra">Presented (by <a href="https://scholar.google.com/citations?user=KJrYKwMAAAAJ&hl=en">Yupan Liu</a>) as a contributed <a href="https://meetings.siam.org/sess/dsp_talk.cfm?p=145070">talk</a> at the <a href="https://www.siam.org/conferences-events/siam-conferences/soda25/">2025 Annual ACM-SIAM Symposium on Discrete Algorithms (SODA 2025)</a>.</div>
