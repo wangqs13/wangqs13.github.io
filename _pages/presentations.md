@@ -5,6 +5,7 @@ permalink: /presentations/
 author_profile: true
 ---
 
+* 2026/04/28: **Information-Theoretic Lower Bounds for Approximating Monomials via Optimal Quantum Tsallis Entropy Estimation** (based on [arXiv:2509.03496](https://arxiv.org/abs/2509.03496)) as a talk invited by [Mark M. Wilde](https://scholar.google.com/citations?user=vANLRiYAAAAJ&hl=en) at the School of Electrical and Computer Engineering, Cornell University, Ithaca, NY, United States. 
 * 2025/09/25: **Bridging Quantum Query and Sample Complexities: Theory and Applications** (based on [arXiv:2308.01794](https://arxiv.org/abs/2308.01794), [arXiv:2401.09947](https://arxiv.org/abs/2401.09947), [arXiv:2404.04599](https://arxiv.org/abs/2404.04599), [arXiv:2410.13559](https://arxiv.org/abs/2410.13559), and [arXiv:2410.21201](https://arxiv.org/abs/2410.21201)) as an [invited talk (40 min)](https://youtu.be/LVsHzXb0hts?t=5268) at [Shenzhen–Nagoya Workshop on Quantum Science 2025](https://shenzhen-nagoya.github.io/2025/).
 * 2025/09/17: **Quantum Approximate $k$-Minimum Finding** (based on [arXiv:2412.16586](https://arxiv.org/abs/2412.16586)) as a contributed talk at [the 33rd Annual European Symposium on Algorithms (ESA 2025)](https://algo-conference.org/2025/esa/).
 * 2025/09/16: **Optimal Quantum Algorithm for Estimating Fidelity to a Pure State** (based on [arXiv:2506.23650](https://arxiv.org/abs/2506.23650)) as a contributed talk at [the 33rd Annual European Symposium on Algorithms (ESA 2025)](https://algo-conference.org/2025/esa/).
