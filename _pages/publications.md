@@ -573,6 +573,7 @@ author_profile: true
         <div class="pub-title">Information-theoretic lower bounds for approximating monomials via optimal quantum Tsallis entropy estimation.</div>
         <div class="pub-authors">Qisheng Wang.</div>
         <div class="pub-arxiv"><a href="https://arxiv.org/abs/2509.03496">arXiv:2509.03496</a>, 2025.</div>
+        <div class="pub-extra">Presented as an online talk invited by <a href="https://scholar.google.com/citations?user=vANLRiYAAAAJ&hl=en">Mark M. Wilde</a> at Cornell University in 2026.</div>
       </div>
     </div>
   </li>
