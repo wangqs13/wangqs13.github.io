@@ -342,7 +342,7 @@ author_profile: true
       <div class="pub-content">
         <div class="pub-title">Strict hierarchy for quantum channel certification to unitary.</div>
         <div class="pub-authors"><span style="color:green">Ⓐ</span> <a href="https://scholar.google.com/citations?user=Ncvskw4AAAAJ&hl=en">Kean Chen</a>, Qisheng Wang, and <a href="https://scholar.google.com/citations?user=_CHPF-kAAAAJ&hl=en">Zhicheng Zhang</a>.</div>
-        <div class="pub-arxiv">In <em>Proceedings of the 53rd International Colloquium on Automata, Languages, and Programming</em> (ICALP 2026), to appear, 2026.</div>
+        <div class="pub-arxiv">In <em>Proceedings of the 53rd International Colloquium on Automata, Languages, and Programming</em> (ICALP 2026), to appear, 2026. <a href="https://arxiv.org/abs/2604.26900">arXiv:2604.26900</a>.</div>
       </div>
     </div>
   </li>
@@ -352,7 +352,7 @@ author_profile: true
       <div class="pub-content">
         <div class="pub-title">Quantum multi-level estimation of functionals of discrete distributions.</div>
         <div class="pub-authors"><span style="color:green">Ⓐ</span> <a href="https://scholar.google.com/citations?user=Ncvskw4AAAAJ&hl=en">Kean Chen</a>, <a href="https://scholar.google.com/citations?user=b8i9J_QAAAAJ&hl=en">Minbo Gao</a>, <a href="https://scholar.google.com/citations?user=ny0ZgiQAAAAJ&hl=en">Tongyang Li</a>, Qisheng Wang, and <a href="https://scholar.google.com/citations?user=1Ey4DPoAAAAJ&hl=en">Xinzhao Wang</a>.</div>
-        <div class="pub-arxiv">In <em>Proceedings of the 53rd International Colloquium on Automata, Languages, and Programming</em> (ICALP 2026), to appear, 2026.</div>
+        <div class="pub-arxiv">In <em>Proceedings of the 53rd International Colloquium on Automata, Languages, and Programming</em> (ICALP 2026), to appear, 2026. <a href="https://arxiv.org/abs/2605.03685">arXiv:2605.03685</a>.</div>
       </div>
     </div>
   </li>
