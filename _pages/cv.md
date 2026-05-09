@@ -44,6 +44,7 @@ redirect_from:
 * [*Frontiers of Computer Science*](https://www.springer.com/journal/11704)
 * [*IEEE Transactions on Computers*](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=12)
 * [*IEEE Transactions on Information Theory*](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=18)
+* [*Nature Physics*](https://www.nature.com/nphys/)
 * [*Physics Letters A*](https://www.sciencedirect.com/journal/physics-letters-a)
 * [*Quantum*](https://quantum-journal.org/)
 * [*Quantum Information and Computation*](https://www.rintonpress.com/journals/qic/)
