@@ -23,6 +23,7 @@ I received my B.Sc. degree and Ph.D. degree from the [Department of Computer Sci
 
 ## Pinned News
 
+* 2026/05/14: I served as a Chair of "[Quantum Software: Theory and Development](https://www.ccpqt.org/seminars-2026/)" at the IEEE 5th International Conference on Computing, Communication, Perception and Quantum Technology (CCPQT 2026). Submissions are welcome!
 * 2026/03/25: I served as a PC Member of [QCE 2026](https://qce.quantum.ieee.org/2026/). Submissions are welcome!
 * 2025/11/26: I served as a Guest Editor of the Special Issue "[The Role of Entropy in Quantum Computation and Algorithms](https://www.mdpi.com/journal/entropy/special_issues/1WX3RY33N0)" of *Entropy*. Submissions are welcome!
 
