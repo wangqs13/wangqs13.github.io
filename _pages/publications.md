@@ -42,6 +42,18 @@ author_profile: true
 </style>
 
 <ul class="pub-list">
+  <li>
+    <div class="pub-item">
+      <span class="pub-number">[J23]</span>
+      <div class="pub-content">
+        <div class="pub-title">Local test for unitarily invariant properties of bipartite quantum states.</div>
+        <div class="pub-authors"><span style="color:green">Ⓐ</span> <a href="https://scholar.google.com/citations?user=Ncvskw4AAAAJ&hl=en">Kean Chen</a>, Qisheng Wang, and <a href="https://scholar.google.com/citations?user=_CHPF-kAAAAJ&hl=en">Zhicheng Zhang</a>.</div>
+        <div class="pub-journal"><em>IEEE Transactions on Information Theory</em>, to appear, 2026. <a href="https://arxiv.org/abs/2404.04599">arXiv:2404.04599</a>.</div>
+        <div class="pub-extra">Presented as (part of) an <a href="https://youtu.be/LVsHzXb0hts?t=5268">invited talk (40min)</a> at <a href="https://shenzhen-nagoya.github.io/2025/">Shenzhen–Nagoya Workshop on Quantum Science 2025</a>.</div>
+        <div class="pub-extra">Appears as <a href="https://ptreview.sublinear.info/2024/05/news-for-april-2024/">Monthly News for April 2024</a> in <a href="https://ptreview.sublinear.info/">Property Testing Review</a>.</div>
+      </div>
+    </div>
+  </li>
     <li>
     <div class="pub-item">
       <span class="pub-number">[J22]</span>
@@ -518,7 +530,7 @@ author_profile: true
 <ul class="pub-list">
   <li>
     <div class="pub-item">
-      <span class="pub-number">[P12]</span>
+      <span class="pub-number">[P11]</span>
       <div class="pub-content">
         <div class="pub-title">Trace estimation of quantum state powers: Sample complexity and computational hardness.</div>
         <div class="pub-authors"><span style="color:green">Ⓐ</span> <a href="https://scholar.google.com/citations?user=Ncvskw4AAAAJ&hl=en">Kean Chen</a>, <a href="https://scholar.google.com/citations?user=KJrYKwMAAAAJ&hl=en">Yupan Liu</a>, and Qisheng Wang.</div>
@@ -528,7 +540,7 @@ author_profile: true
   </li>
   <li>
     <div class="pub-item">
-      <span class="pub-number">[P11]</span>
+      <span class="pub-number">[P10]</span>
       <div class="pub-content">
         <div class="pub-title">A slightly improved upper bound for quantum statistical zero-knowledge.</div>
         <div class="pub-authors"><span style="color:green">Ⓐ</span> <a href="https://scholar.google.com/citations?user=tpCh6MIAAAAJ&hl=en">François Le Gall</a>, <a href="https://scholar.google.com/citations?user=KJrYKwMAAAAJ&hl=en">Yupan Liu</a>, and Qisheng Wang.</div>
@@ -538,7 +550,7 @@ author_profile: true
   </li>
   <li>
     <div class="pub-item">
-      <span class="pub-number">[P10]</span>
+      <span class="pub-number">[P9]</span>
       <div class="pub-content">
         <div class="pub-title">A list of complexity bounds for property testing by quantum sample-to-query lifting.</div>
         <div class="pub-authors"><span style="color:green">Ⓐ</span> <a href="https://scholar.google.com/citations?user=Ncvskw4AAAAJ&hl=en">Kean Chen</a>, Qisheng Wang, and <a href="https://scholar.google.com/citations?user=_CHPF-kAAAAJ&hl=en">Zhicheng Zhang</a>.</div>
@@ -548,7 +560,7 @@ author_profile: true
   </li>
   <li>
     <div class="pub-item">
-      <span class="pub-number">[P9]</span>
+      <span class="pub-number">[P8]</span>
       <div class="pub-content">
         <div class="pub-title">On estimating the quantum Tsallis relative entropy.</div>
         <div class="pub-authors"><span style="color:green">Ⓐ</span> <a href="https://scholar.google.com/citations?user=U1TGq_gAAAAJ&hl=en">Jinge Bao</a>, <a href="https://scholar.google.com/citations?user=b8i9J_QAAAAJ&hl=en">Minbo Gao</a>, and Qisheng Wang.</div>
@@ -558,7 +570,7 @@ author_profile: true
   </li>
   <li>
     <div class="pub-item">
-      <span class="pub-number">[P8]</span>
+      <span class="pub-number">[P7]</span>
       <div class="pub-content">
         <div class="pub-title">Quantum algorithms for Uhlmann transformation.</div>
         <div class="pub-authors"><span style="color:blue">Ⓒ</span> <a href="https://scholar.google.com/citations?user=8vB7hGQAAAAJ&hl=en">Takeru Utsumi</a>, <a href="https://scholar.google.com/citations?user=CpkyDoMAAAAJ&hl=en">Yoshifumi Nakata</a>, Qisheng Wang, and <a href="https://scholar.google.com/citations?user=UAe-79QAAAAJ&hl=en">Ryuji Takagi</a>.</div>
@@ -568,7 +580,7 @@ author_profile: true
   </li>
   <li>
     <div class="pub-item">
-      <span class="pub-number">[P7]</span>
+      <span class="pub-number">[P6]</span>
       <div class="pub-content">
         <div class="pub-title">Information-theoretic lower bounds for approximating monomials via optimal quantum Tsallis entropy estimation.</div>
         <div class="pub-authors">Qisheng Wang.</div>
@@ -579,7 +591,7 @@ author_profile: true
   </li>
   <li>
     <div class="pub-item">
-      <span class="pub-number">[P6]</span>
+      <span class="pub-number">[P5]</span>
       <div class="pub-content">
         <div class="pub-title">Simultaneous estimation of nonlinear functionals of a quantum state.</div>
         <div class="pub-authors"><span style="color:green">Ⓐ</span> <a href="https://scholar.google.com/citations?user=Ncvskw4AAAAJ&hl=en">Kean Chen</a>, Qisheng Wang, <a href="https://scholar.google.com/citations?user=cF8RgGwAAAAJ&hl=en">Zhan Yu</a>, and <a href="https://scholar.google.com/citations?user=_CHPF-kAAAAJ&hl=en">Zhicheng Zhang</a>.</div>
@@ -590,7 +602,7 @@ author_profile: true
   </li>
   <li>
     <div class="pub-item">
-      <span class="pub-number">[P5]</span>
+      <span class="pub-number">[P4]</span>
       <div class="pub-content">
         <div class="pub-title">Does there exist a quantum fingerprinting protocol without coherent measurements?.</div>
         <div class="pub-authors"><span style="color:green">Ⓐ</span> Atsuya Hasegawa, <a href="https://scholar.google.com/citations?user=R8ckW8sAAAAJ&hl=en">Srijita Kundu</a>, <a href="https://scholar.google.com/citations?user=tpCh6MIAAAAJ&hl=en">François Le Gall</a>, <a href="https://www.math.cm.is.nagoya-u.ac.jp/~hnishimura/e-index.html">Harumichi Nishimura</a>, and Qisheng Wang.</div>
@@ -600,24 +612,12 @@ author_profile: true
   </li>
   <li>
     <div class="pub-item">
-      <span class="pub-number">[P4]</span>
+      <span class="pub-number">[P3]</span>
       <div class="pub-content">
         <div class="pub-title">Quantum algorithm for sparse online learning with truncated gradient descent.</div>
         <div class="pub-authors"><span style="color:green">Ⓐ</span> <a href="https://scholar.google.com/citations?user=4PSyMJkAAAAJ&hl=en">Debbie Lim</a>, <a href="https://scholar.google.com/citations?user=sVqwmRYAAAAJ&hl=en">Yixian Qiu</a>, <a href="https://scholar.google.com/citations?user=XWHSBmUAAAAJ&hl=en">Patrick Rebentrost</a>, Qisheng Wang.</div>
         <div class="pub-arxiv"><a href="https://arxiv.org/abs/2411.03925">arXiv:2411.03925</a>, 2024.</div>
         <div class="pub-extra">Presented as (part of) a research talk at the NQCC-QSL December Deep Dive Agenda in the University of Edinburgh in 2024.</div>
-      </div>
-    </div>
-  </li>
-  <li>
-    <div class="pub-item">
-      <span class="pub-number">[P3]</span>
-      <div class="pub-content">
-        <div class="pub-title">Local test for unitarily invariant properties of bipartite quantum states.</div>
-        <div class="pub-authors"><span style="color:green">Ⓐ</span> <a href="https://scholar.google.com/citations?user=Ncvskw4AAAAJ&hl=en">Kean Chen</a>, Qisheng Wang, and <a href="https://scholar.google.com/citations?user=_CHPF-kAAAAJ&hl=en">Zhicheng Zhang</a>.</div>
-        <div class="pub-arxiv"><a href="https://arxiv.org/abs/2404.04599">arXiv:2404.04599</a>, 2024.</div>
-        <div class="pub-extra">Presented as (part of) an <a href="https://youtu.be/LVsHzXb0hts?t=5268">invited talk (40min)</a> at <a href="https://shenzhen-nagoya.github.io/2025/">Shenzhen–Nagoya Workshop on Quantum Science 2025</a>.</div>
-        <div class="pub-extra">Appears as <a href="https://ptreview.sublinear.info/2024/05/news-for-april-2024/">Monthly News for April 2024</a> in <a href="https://ptreview.sublinear.info/">Property Testing Review</a>.</div>
       </div>
     </div>
   </li>
