@@ -22,17 +22,18 @@ redirect_from:
 * September 2024 - January 2026: Senior Researcher, School of Informatics, University of Edinburgh
 * September 2022 - September 2024: Designated Assistant Professor, Graduate School of Mathematics, Nagoya University
 
-## Journal Editor
+## Journal Service
 
 * [*Entropy*](https://www.mdpi.com/journal/entropy), Guest Editor of Special Issue "[The Role of Entropy in Quantum Computation and Algorithms](https://www.mdpi.com/journal/entropy/special_issues/1WX3RY33N0)", 2025-2026.
 
-## Program Committee Member
+## Conference Service
 
-* [*QCE 2026 (IEEE International Conference on Quantum Computing and Engineering 2025)*](https://qce.quantum.ieee.org/2026/committees/technical-papers-program-committee/), Toronto, Ontario, Canada, 2026.
-* [*TQC 2026 (21st Conference on the Theory of Quantum Computation, Communication, and Cryptography)*](https://tqc-conference.org/2026/team/), Sherbrooke, Québec, Canada, 2026.
-* [*QCE 2025 (IEEE International Conference on Quantum Computing and Engineering 2025)*](https://qce.quantum.ieee.org/2025/technical-papers-program-committee/), Albuquerque, New Mexico, United States, 2025.
-* [*QCE 2024 (IEEE International Conference on Quantum Computing and Engineering 2024)*](https://qce.quantum.ieee.org/2024/committees/program-committee/), Québec, Canada, 2024.
-* [*AQIS 2023 (23rd Asian Quantum Information Science Conference)*](http://aqis-conf.org/2023/committees/), Seoul, Korea, 2023.
+* [*CCPQT 2026 (5th IEEE International Conference on Computing, Communication, Perception and Quantum Technology)*](https://www.ccpqt.org/), Chair of "Quantum Software: Theory and Development" Seminar, Huludao, China, 2026.
+* [*QCE 2026 (IEEE International Conference on Quantum Computing and Engineering 2025)*](https://qce.quantum.ieee.org/2026/committees/technical-papers-program-committee/), Program Committee Member, Toronto, Ontario, Canada, 2026.
+* [*TQC 2026 (21st Conference on the Theory of Quantum Computation, Communication, and Cryptography)*](https://tqc-conference.org/2026/team/), Program Committee Member, Sherbrooke, Québec, Canada, 2026.
+* [*QCE 2025 (IEEE International Conference on Quantum Computing and Engineering 2025)*](https://qce.quantum.ieee.org/2025/technical-papers-program-committee/), Program Committee Member, Albuquerque, New Mexico, United States, 2025.
+* [*QCE 2024 (IEEE International Conference on Quantum Computing and Engineering 2024)*](https://qce.quantum.ieee.org/2024/committees/program-committee/), Program Committee Member, Québec, Canada, 2024.
+* [*AQIS 2023 (23rd Asian Quantum Information Science Conference)*](http://aqis-conf.org/2023/committees/), Program Committee Member, Seoul, Korea, 2023.
 
 ## Journal Review
 
@@ -44,6 +45,7 @@ redirect_from:
 * [*Frontiers of Computer Science*](https://www.springer.com/journal/11704)
 * [*IEEE Transactions on Computers*](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=12)
 * [*IEEE Transactions on Information Theory*](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=18)
+* [*IEEE Transactions on Pattern Analysis and Machine Intelligence*](https://www.computer.org/csdl/journal/tp)
 * [*Nature Physics*](https://www.nature.com/nphys/)
 * [*Physics Letters A*](https://www.sciencedirect.com/journal/physics-letters-a)
 * [*Quantum*](https://quantum-journal.org/)
@@ -55,6 +57,7 @@ redirect_from:
 
 ## Conference Review
 
+* [*ESA 2026 (34th European Symposium on Algorithms)*](https://algo-conference.org/2026/esa/), L’Aquila, Italy, 2026.
 * [*ICALP 2026 (53rd EATCS International Colloquium on Automata, Languages, and Programming)*](https://icalppodcspaa2026.cs.rhul.ac.uk/icalp/), London, United Kingdom, 2026.
 * [*QCTiP 2026 (Quantum Computing Theory in Practice 2026)*](https://qctipconf.github.io/), Oxford, United Kingdom, 2026.
 * [*QCNC 2026 (International Conference on Quantum Communications, Networking, and Computing 2026)*](https://www.ieee-qcnc.org/2026/), Kobe, Japan, 2026.
