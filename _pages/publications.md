@@ -44,6 +44,17 @@ author_profile: true
 <ul class="pub-list">
   <li>
     <div class="pub-item">
+      <span class="pub-number">[J24]</span>
+      <div class="pub-content">
+        <div class="pub-title">Simultaneous estimation of nonlinear functionals of a quantum state.</div>
+        <div class="pub-authors"><span style="color:green">Ⓐ</span> <a href="https://scholar.google.com/citations?user=Ncvskw4AAAAJ&hl=en">Kean Chen</a>, Qisheng Wang, <a href="https://scholar.google.com/citations?user=cF8RgGwAAAAJ&hl=en">Zhan Yu</a>, and <a href="https://scholar.google.com/citations?user=_CHPF-kAAAAJ&hl=en">Zhicheng Zhang</a>.</div>
+        <div class="pub-journal"><em>IEEE Transactions on Information Theory</em>, to appear, 2026. <a href="https://arxiv.org/abs/2505.16715">arXiv:2505.16715</a>.</div>
+        <div class="pub-extra">Presented (by <a href="https://scholar.google.com/citations?user=cF8RgGwAAAAJ&hl=en">Zhan Yu</a>) as a contributed talk at the <a href="http://aqis-conf.org/2025/program/">the 25th Asian Quantum Information Science Conference (AQIS 2025)</a>.</div>
+      </div>
+    </div>
+  </li>
+  <li>
+    <div class="pub-item">
       <span class="pub-number">[J23]</span>
       <div class="pub-content">
         <div class="pub-title">Local test for unitarily invariant properties of bipartite quantum states.</div>
@@ -530,7 +541,7 @@ author_profile: true
 <ul class="pub-list">
   <li>
     <div class="pub-item">
-      <span class="pub-number">[P11]</span>
+      <span class="pub-number">[P10]</span>
       <div class="pub-content">
         <div class="pub-title">Trace estimation of quantum state powers: Sample complexity and computational hardness.</div>
         <div class="pub-authors"><span style="color:green">Ⓐ</span> <a href="https://scholar.google.com/citations?user=Ncvskw4AAAAJ&hl=en">Kean Chen</a>, <a href="https://scholar.google.com/citations?user=KJrYKwMAAAAJ&hl=en">Yupan Liu</a>, and Qisheng Wang.</div>
@@ -540,7 +551,7 @@ author_profile: true
   </li>
   <li>
     <div class="pub-item">
-      <span class="pub-number">[P10]</span>
+      <span class="pub-number">[P9]</span>
       <div class="pub-content">
         <div class="pub-title">A slightly improved upper bound for quantum statistical zero-knowledge.</div>
         <div class="pub-authors"><span style="color:green">Ⓐ</span> <a href="https://scholar.google.com/citations?user=tpCh6MIAAAAJ&hl=en">François Le Gall</a>, <a href="https://scholar.google.com/citations?user=KJrYKwMAAAAJ&hl=en">Yupan Liu</a>, and Qisheng Wang.</div>
@@ -550,7 +561,7 @@ author_profile: true
   </li>
   <li>
     <div class="pub-item">
-      <span class="pub-number">[P9]</span>
+      <span class="pub-number">[P8]</span>
       <div class="pub-content">
         <div class="pub-title">A list of complexity bounds for property testing by quantum sample-to-query lifting.</div>
         <div class="pub-authors"><span style="color:green">Ⓐ</span> <a href="https://scholar.google.com/citations?user=Ncvskw4AAAAJ&hl=en">Kean Chen</a>, Qisheng Wang, and <a href="https://scholar.google.com/citations?user=_CHPF-kAAAAJ&hl=en">Zhicheng Zhang</a>.</div>
@@ -560,7 +571,7 @@ author_profile: true
   </li>
   <li>
     <div class="pub-item">
-      <span class="pub-number">[P8]</span>
+      <span class="pub-number">[P7]</span>
       <div class="pub-content">
         <div class="pub-title">On estimating the quantum Tsallis relative entropy.</div>
         <div class="pub-authors"><span style="color:green">Ⓐ</span> <a href="https://scholar.google.com/citations?user=U1TGq_gAAAAJ&hl=en">Jinge Bao</a>, <a href="https://scholar.google.com/citations?user=b8i9J_QAAAAJ&hl=en">Minbo Gao</a>, and Qisheng Wang.</div>
@@ -570,7 +581,7 @@ author_profile: true
   </li>
   <li>
     <div class="pub-item">
-      <span class="pub-number">[P7]</span>
+      <span class="pub-number">[P6]</span>
       <div class="pub-content">
         <div class="pub-title">Quantum algorithms for Uhlmann transformation.</div>
         <div class="pub-authors"><span style="color:blue">Ⓒ</span> <a href="https://scholar.google.com/citations?user=8vB7hGQAAAAJ&hl=en">Takeru Utsumi</a>, <a href="https://scholar.google.com/citations?user=CpkyDoMAAAAJ&hl=en">Yoshifumi Nakata</a>, Qisheng Wang, and <a href="https://scholar.google.com/citations?user=UAe-79QAAAAJ&hl=en">Ryuji Takagi</a>.</div>
@@ -580,23 +591,12 @@ author_profile: true
   </li>
   <li>
     <div class="pub-item">
-      <span class="pub-number">[P6]</span>
+      <span class="pub-number">[P5]</span>
       <div class="pub-content">
         <div class="pub-title">Information-theoretic lower bounds for approximating monomials via optimal quantum Tsallis entropy estimation.</div>
         <div class="pub-authors">Qisheng Wang.</div>
         <div class="pub-arxiv"><a href="https://arxiv.org/abs/2509.03496">arXiv:2509.03496</a>, 2025.</div>
         <div class="pub-extra">Presented as an online talk invited by <a href="https://scholar.google.com/citations?user=vANLRiYAAAAJ&hl=en">Mark M. Wilde</a> at Cornell University in 2026.</div>
-      </div>
-    </div>
-  </li>
-  <li>
-    <div class="pub-item">
-      <span class="pub-number">[P5]</span>
-      <div class="pub-content">
-        <div class="pub-title">Simultaneous estimation of nonlinear functionals of a quantum state.</div>
-        <div class="pub-authors"><span style="color:green">Ⓐ</span> <a href="https://scholar.google.com/citations?user=Ncvskw4AAAAJ&hl=en">Kean Chen</a>, Qisheng Wang, <a href="https://scholar.google.com/citations?user=cF8RgGwAAAAJ&hl=en">Zhan Yu</a>, and <a href="https://scholar.google.com/citations?user=_CHPF-kAAAAJ&hl=en">Zhicheng Zhang</a>.</div>
-        <div class="pub-arxiv"><a href="https://arxiv.org/abs/2505.16715">arXiv:2505.16715</a>, 2025.</div>
-        <div class="pub-extra">Presented (by <a href="https://scholar.google.com/citations?user=cF8RgGwAAAAJ&hl=en">Zhan Yu</a>) as a contributed talk at the <a href="http://aqis-conf.org/2025/program/">the 25th Asian Quantum Information Science Conference (AQIS 2025)</a>.</div>
       </div>
     </div>
   </li>
