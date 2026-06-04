@@ -541,6 +541,16 @@ author_profile: true
 <ul class="pub-list">
   <li>
     <div class="pub-item">
+      <span class="pub-number">[P11]</span>
+      <div class="pub-content">
+        <div class="pub-title">Quantum time lower bounds by permutation invariance.</div>
+        <div class="pub-authors">Qisheng Wang.</div>
+        <div class="pub-arxiv"><a href="https://arxiv.org/abs/2606.05099">arXiv:2606.05099</a>, 2026.</div>
+      </div>
+    </div>
+  </li>
+  <li>
+    <div class="pub-item">
       <span class="pub-number">[P10]</span>
       <div class="pub-content">
         <div class="pub-title">Trace estimation of quantum state powers: Sample complexity and computational hardness.</div>
