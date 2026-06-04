@@ -31,6 +31,7 @@ I received my B.Sc. degree and Ph.D. degree from the [Department of Computer Sci
 
 ### 2026
 
+* 2026/06/04: Our paper "[Quantum Time Lower Bounds by Permutation Invariance](https://arxiv.org/abs/2606.05099)" was on arXiv. 
 * 2026/05/26: Our paper "[Simultaneous Estimation of Nonlinear Functionals of a Quantum State](https://arxiv.org/abs/2505.16715)" was accepted by *IEEE Transactions on Information Theory*.
 * 2026/05/24: Our paper "[Local Test for Unitarily Invariant Properties of Bipartite Quantum States](https://arxiv.org/abs/2404.04599)" was accepted by *IEEE Transactions on Information Theory*.
 * 2026/04/20: Our three papers "[Sample-Optimal Quantum Estimators for Pure-State Trace Distance and Fidelity via Samplizer](https://arxiv.org/abs/2410.21201)", "[Quantum Multi-Level Estimation of Functionals of Discrete Distributions](https://arxiv.org/abs/2605.03685)", and "[Strict Hierarchy for Quantum Channel Certification to Unitary](https://arxiv.org/abs/2604.26900)" were accepted by the 53rd International Colloquium on Automata, Languages, and Programming (ICALP 2026).
