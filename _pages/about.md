@@ -31,6 +31,7 @@ I received my B.Sc. degree and Ph.D. degree from the [Department of Computer Sci
 
 ### 2026
 
+* 2026/06/05: Our paper "[Quantum Enhanced Rare Event Discovery and Sampling](https://scirate.com/arxiv/2606.06316)" was on arXiv. 
 * 2026/06/04: Our paper "[Quantum Time Lower Bounds by Permutation Invariance](https://arxiv.org/abs/2606.05099)" was on arXiv. 
 * 2026/05/26: Our paper "[Simultaneous Estimation of Nonlinear Functionals of a Quantum State](https://arxiv.org/abs/2505.16715)" was accepted by *IEEE Transactions on Information Theory*.
 * 2026/05/24: Our paper "[Local Test for Unitarily Invariant Properties of Bipartite Quantum States](https://arxiv.org/abs/2404.04599)" was accepted by *IEEE Transactions on Information Theory*.
