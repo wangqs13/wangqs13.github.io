@@ -386,6 +386,7 @@ author_profile: true
         <div class="pub-title">Sample-optimal quantum estimators for pure-state trace distance and fidelity via samplizer.</div>
         <div class="pub-authors"><span style="color:blue">Ⓒ</span> Qisheng Wang and <a href="https://scholar.google.com/citations?user=_CHPF-kAAAAJ&hl=en">Zhicheng Zhang</a>.</div>
         <div class="pub-arxiv">In <em>Proceedings of the 53rd International Colloquium on Automata, Languages, and Programming</em> (ICALP 2026), to appear, 2026. <a href="https://arxiv.org/abs/2410.21201">arXiv:2410.21201</a>.</div>
+        <div class="pub-extra">Presented as a <a href="https://www.wilczekqc.net/show/379">talk</a> invited by <a href="https://scholar.google.com/citations?user=9Xn3T6EAAAAJ&hl=en">Ke Liu</a> at the Shanghai Institute for Advanced Studies, University of Science and Technology of China in 2026.</div>
         <div class="pub-extra">Presented as (part of) an <a href="https://youtu.be/LVsHzXb0hts?t=5268">invited talk (40min)</a> at <a href="https://shenzhen-nagoya.github.io/2025/">Shenzhen–Nagoya Workshop on Quantum Science 2025</a>.</div>
         <div class="pub-extra">Presented as (part of) a contributed talk at <a href="http://aqis-conf.org/2025/program/">the 25th Asian Quantum Information Science Conference (AQIS 2025)</a>.</div>
         <div class="pub-extra">Presented as (part of) a research talk at the NQCC-QSL December Deep Dive Agenda in the University of Edinburgh in 2024.</div>
@@ -539,6 +540,16 @@ author_profile: true
 </style>
 
 <ul class="pub-list">
+  <li>
+    <div class="pub-item">
+      <span class="pub-number">[P12]</span>
+      <div class="pub-content">
+        <div class="pub-title">Quantum enhanced rare event discovery and sampling.</div>
+        <div class="pub-authors"><span style="color:blue">Ⓒ</span> <a href="https://scholar.google.com/citations?user=r2I_WtAAAAAJ&hl=en">Naixu Guo</a>, <a href="https://scholar.google.com/citations?user=gciMEcAAAAAJ&hl=en">Po-Wei Huang</a>, Qisheng Wang, <a href="https://scholar.google.com/citations?user=TW2UNOsAAAAJ&hl=en">Jayne Thompson</a>, <a href="https://scholar.google.com/citations?user=XWHSBmUAAAAJ&hl=en">Patrick Rebentrost</a>, <a href="https://scholar.google.com/citations?user=ZBDAby4AAAAJ&hl=en">Mile Gu</a>, <a href="https://scholar.google.com/citations?user=Duq4ILMAAAAJ&hl=en">Chengran Yang</a>.</div>
+        <div class="pub-arxiv"><a href="https://arxiv.org/abs/2606.06316">arXiv:2606.06316</a>, 2026.</div>
+      </div>
+    </div>
+  </li>
   <li>
     <div class="pub-item">
       <span class="pub-number">[P11]</span>
