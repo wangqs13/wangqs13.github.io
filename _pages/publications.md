@@ -361,6 +361,16 @@ author_profile: true
 <ul class="pub-list">
   <li>
     <div class="pub-item">
+      <span class="pub-number">[C13]</span>
+      <div class="pub-content">
+        <div class="pub-title">A slightly improved upper bound for quantum statistical zero-knowledge.</div>
+        <div class="pub-authors"><span style="color:green">Ⓐ</span> <a href="https://scholar.google.com/citations?user=tpCh6MIAAAAJ&hl=en">François Le Gall</a>, <a href="https://scholar.google.com/citations?user=KJrYKwMAAAAJ&hl=en">Yupan Liu</a>, and Qisheng Wang.</div>
+        <div class="pub-arxiv">In <em>Proceedings of the 51st International Symposium on Mathematical Foundations of Computer Science</em> (MFCS 2026), to appear, 2026. <a href="https://arxiv.org/abs/2512.11597">arXiv:2512.11597</a>.</div>
+      </div>
+    </div>
+  </li>
+  <li>
+    <div class="pub-item">
       <span class="pub-number">[C12]</span>
       <div class="pub-content">
         <div class="pub-title">Strict hierarchy for quantum channel certification to unitary.</div>
@@ -542,7 +552,7 @@ author_profile: true
 <ul class="pub-list">
   <li>
     <div class="pub-item">
-      <span class="pub-number">[P12]</span>
+      <span class="pub-number">[P11]</span>
       <div class="pub-content">
         <div class="pub-title">Quantum enhanced rare event discovery and sampling.</div>
         <div class="pub-authors"><span style="color:blue">Ⓒ</span> <a href="https://scholar.google.com/citations?user=r2I_WtAAAAAJ&hl=en">Naixu Guo</a>, <a href="https://scholar.google.com/citations?user=gciMEcAAAAAJ&hl=en">Po-Wei Huang</a>, Qisheng Wang, <a href="https://scholar.google.com/citations?user=TW2UNOsAAAAJ&hl=en">Jayne Thompson</a>, <a href="https://scholar.google.com/citations?user=XWHSBmUAAAAJ&hl=en">Patrick Rebentrost</a>, <a href="https://scholar.google.com/citations?user=ZBDAby4AAAAJ&hl=en">Mile Gu</a>, <a href="https://scholar.google.com/citations?user=Duq4ILMAAAAJ&hl=en">Chengran Yang</a>.</div>
@@ -552,7 +562,7 @@ author_profile: true
   </li>
   <li>
     <div class="pub-item">
-      <span class="pub-number">[P11]</span>
+      <span class="pub-number">[P10]</span>
       <div class="pub-content">
         <div class="pub-title">Quantum time lower bounds by permutation invariance.</div>
         <div class="pub-authors">Qisheng Wang.</div>
@@ -562,21 +572,11 @@ author_profile: true
   </li>
   <li>
     <div class="pub-item">
-      <span class="pub-number">[P10]</span>
+      <span class="pub-number">[P9]</span>
       <div class="pub-content">
         <div class="pub-title">Trace estimation of quantum state powers: Sample complexity and computational hardness.</div>
         <div class="pub-authors"><span style="color:green">Ⓐ</span> <a href="https://scholar.google.com/citations?user=Ncvskw4AAAAJ&hl=en">Kean Chen</a>, <a href="https://scholar.google.com/citations?user=KJrYKwMAAAAJ&hl=en">Yupan Liu</a>, and Qisheng Wang.</div>
         <div class="pub-arxiv"><a href="https://arxiv.org/abs/2505.09563v2">arXiv:2505.09563v2</a>, 2026.</div>
-      </div>
-    </div>
-  </li>
-  <li>
-    <div class="pub-item">
-      <span class="pub-number">[P9]</span>
-      <div class="pub-content">
-        <div class="pub-title">A slightly improved upper bound for quantum statistical zero-knowledge.</div>
-        <div class="pub-authors"><span style="color:green">Ⓐ</span> <a href="https://scholar.google.com/citations?user=tpCh6MIAAAAJ&hl=en">François Le Gall</a>, <a href="https://scholar.google.com/citations?user=KJrYKwMAAAAJ&hl=en">Yupan Liu</a>, and Qisheng Wang.</div>
-        <div class="pub-arxiv"><a href="https://arxiv.org/abs/2512.11597">arXiv:2512.11597</a>, 2025.</div>
       </div>
     </div>
   </li>
