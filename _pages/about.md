@@ -31,6 +31,7 @@ I received my B.Sc. degree and Ph.D. degree from the [Department of Computer Sci
 
 ### 2026
 
+* 2026/06/24: Our paper "[On Estimating Schatten Norm and Power Distances between Quantum States](https://arxiv.org/abs/2505.00457v3)" was on arXiv.
 * 2026/06/19: Our paper "[A Slightly Improved Upper Bound for Quantum Statistical Zero-Knowledge](https://arxiv.org/abs/2512.11597)" was accepted by the 51st International Symposium on Mathematical Foundations of Computer Science (MFCS 2026).
 * 2026/06/05: Our paper "[Quantum Enhanced Rare Event Discovery and Sampling](https://scirate.com/arxiv/2606.06316)" was on arXiv. 
 * 2026/06/04: Our paper "[Quantum Time Lower Bounds by Permutation Invariance](https://arxiv.org/abs/2606.05099)" was on arXiv. 
