@@ -552,6 +552,16 @@ author_profile: true
 <ul class="pub-list">
   <li>
     <div class="pub-item">
+      <span class="pub-number">[P12]</span>
+      <div class="pub-content">
+        <div class="pub-title">On estimating Schatten norm and power distances between quantum states.</div>
+        <div class="pub-authors"><span style="color:green">Ⓐ</span> <a href="https://scholar.google.com/citations?user=KJrYKwMAAAAJ&hl=en">Yupan Liu</a> and Qisheng Wang.</div>
+        <div class="pub-arxiv"><a href="https://arxiv.org/abs/2505.00457v3">arXiv:2505.00457v3</a>, 2026.</div>
+      </div>
+    </div>
+  </li>
+  <li>
+    <div class="pub-item">
       <span class="pub-number">[P11]</span>
       <div class="pub-content">
         <div class="pub-title">Quantum enhanced rare event discovery and sampling.</div>
