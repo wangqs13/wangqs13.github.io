@@ -552,6 +552,16 @@ author_profile: true
 <ul class="pub-list">
   <li>
     <div class="pub-item">
+      <span class="pub-number">[P13]</span>
+      <div class="pub-content">
+        <div class="pub-title">Estimating fidelity to a reference quantum state.</div>
+        <div class="pub-authors">Qisheng Wang.</div>
+        <div class="pub-arxiv"><a href="https://arxiv.org/abs/2606.26034">arXiv:2606.26034</a>, 2026.</div>
+      </div>
+    </div>
+  </li>
+  <li>
+    <div class="pub-item">
       <span class="pub-number">[P12]</span>
       <div class="pub-content">
         <div class="pub-title">On estimating Schatten norm and power distances between quantum states.</div>
