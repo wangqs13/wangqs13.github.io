@@ -361,6 +361,16 @@ author_profile: true
 <ul class="pub-list">
   <li>
     <div class="pub-item">
+      <span class="pub-number">[C14]</span>
+      <div class="pub-content">
+        <div class="pub-title">On estimating operator norm distance, with optimal trace distance estimation when one state is pure.</div>
+        <div class="pub-authors"><span style="color:green">Ⓐ</span> <a href="https://scholar.google.com/citations?user=KJrYKwMAAAAJ&hl=en">Yupan Liu</a>, Qisheng Wang, and <a href="https://scholar.google.com/citations?user=cF8RgGwAAAAJ&hl=en">Zhan Yu</a>.</div>
+        <div class="pub-arxiv">In <em>Proceedings of the 34th Annual European Symposium on Algorithms</em> (ESA 2026), to appear, 2026.</div>
+      </div>
+    </div>
+  </li>
+  <li>
+    <div class="pub-item">
       <span class="pub-number">[C13]</span>
       <div class="pub-content">
         <div class="pub-title">A slightly improved upper bound for quantum statistical zero-knowledge.</div>
