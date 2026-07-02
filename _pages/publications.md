@@ -48,7 +48,7 @@ author_profile: true
       <div class="pub-content">
         <div class="pub-title">Simultaneous estimation of nonlinear functionals of a quantum state.</div>
         <div class="pub-authors"><span style="color:green">Ⓐ</span> <a href="https://scholar.google.com/citations?user=Ncvskw4AAAAJ&hl=en">Kean Chen</a>, Qisheng Wang, <a href="https://scholar.google.com/citations?user=cF8RgGwAAAAJ&hl=en">Zhan Yu</a>, and <a href="https://scholar.google.com/citations?user=_CHPF-kAAAAJ&hl=en">Zhicheng Zhang</a>.</div>
-        <div class="pub-journal"><em>IEEE Transactions on Information Theory</em>, to appear, 2026. <a href="https://arxiv.org/abs/2505.16715">arXiv:2505.16715</a>.</div>
+        <div class="pub-journal"><em>IEEE Transactions on Information Theory</em>, to appear, 2026. <a href="https://doi.org/10.1109/TIT.2026.3699531">doi:10.1109/TIT.2026.3699531</a>. <a href="https://arxiv.org/abs/2505.16715">arXiv:2505.16715</a>.</div>
         <div class="pub-extra">Presented (by <a href="https://scholar.google.com/citations?user=cF8RgGwAAAAJ&hl=en">Zhan Yu</a>) as a contributed talk at the <a href="http://aqis-conf.org/2025/program/">the 25th Asian Quantum Information Science Conference (AQIS 2025)</a>.</div>
       </div>
     </div>
@@ -59,7 +59,7 @@ author_profile: true
       <div class="pub-content">
         <div class="pub-title">Local test for unitarily invariant properties of bipartite quantum states.</div>
         <div class="pub-authors"><span style="color:green">Ⓐ</span> <a href="https://scholar.google.com/citations?user=Ncvskw4AAAAJ&hl=en">Kean Chen</a>, Qisheng Wang, and <a href="https://scholar.google.com/citations?user=_CHPF-kAAAAJ&hl=en">Zhicheng Zhang</a>.</div>
-        <div class="pub-journal"><em>IEEE Transactions on Information Theory</em>, to appear, 2026. <a href="https://arxiv.org/abs/2404.04599">arXiv:2404.04599</a>.</div>
+        <div class="pub-journal"><em>IEEE Transactions on Information Theory</em>, to appear, 2026. <a href="https://doi.org/10.1109/TIT.2026.3697790">doi:10.1109/TIT.2026.3697790</a>. <a href="https://arxiv.org/abs/2404.04599">arXiv:2404.04599</a>.</div>
         <div class="pub-extra">Presented as (part of) an <a href="https://youtu.be/LVsHzXb0hts?t=5268">invited talk (40min)</a> at <a href="https://shenzhen-nagoya.github.io/2025/">Shenzhen–Nagoya Workshop on Quantum Science 2025</a>.</div>
         <div class="pub-extra">Appears as <a href="https://ptreview.sublinear.info/2024/05/news-for-april-2024/">Monthly News for April 2024</a> in <a href="https://ptreview.sublinear.info/">Property Testing Review</a>.</div>
       </div>
@@ -383,9 +383,13 @@ author_profile: true
     <div class="pub-item">
       <span class="pub-number">[C12]</span>
       <div class="pub-content">
-        <div class="pub-title">Strict hierarchy for quantum channel certification to unitary.</div>
-        <div class="pub-authors"><span style="color:green">Ⓐ</span> <a href="https://scholar.google.com/citations?user=Ncvskw4AAAAJ&hl=en">Kean Chen</a>, Qisheng Wang, and <a href="https://scholar.google.com/citations?user=_CHPF-kAAAAJ&hl=en">Zhicheng Zhang</a>.</div>
-        <div class="pub-arxiv">In <em>Proceedings of the 53rd International Colloquium on Automata, Languages, and Programming</em> (ICALP 2026), to appear, 2026. <a href="https://arxiv.org/abs/2604.26900">arXiv:2604.26900</a>.</div>
+        <div class="pub-title">Sample-optimal quantum estimators for pure-state trace distance and fidelity via samplizer.</div>
+        <div class="pub-authors"><span style="color:blue">Ⓒ</span> Qisheng Wang and <a href="https://scholar.google.com/citations?user=_CHPF-kAAAAJ&hl=en">Zhicheng Zhang</a>.</div>
+        <div class="pub-arxiv">In <em>Proceedings of the 53rd International Colloquium on Automata, Languages, and Programming</em> (ICALP 2026), pp. 154:1-154:21, 2026. <a href="https://doi.org/10.4230/LIPIcs.ICALP.2026.154">doi:10.4230/LIPIcs.ICALP.2026.154</a>. <a href="https://arxiv.org/abs/2410.21201">arXiv:2410.21201</a>.</div>
+        <div class="pub-extra">Presented as a <a href="https://www.wilczekqc.net/show/379">talk</a> invited by <a href="https://scholar.google.com/citations?user=9Xn3T6EAAAAJ&hl=en">Ke Liu</a> at the Shanghai Institute for Advanced Studies, University of Science and Technology of China in 2026.</div>
+        <div class="pub-extra">Presented as (part of) an <a href="https://youtu.be/LVsHzXb0hts?t=5268">invited talk (40min)</a> at <a href="https://shenzhen-nagoya.github.io/2025/">Shenzhen–Nagoya Workshop on Quantum Science 2025</a>.</div>
+        <div class="pub-extra">Presented as (part of) a contributed talk at <a href="http://aqis-conf.org/2025/program/">the 25th Asian Quantum Information Science Conference (AQIS 2025)</a>.</div>
+        <div class="pub-extra">Presented as (part of) a research talk at the NQCC-QSL December Deep Dive Agenda in the University of Edinburgh in 2024.</div>
       </div>
     </div>
   </li>
@@ -393,9 +397,9 @@ author_profile: true
     <div class="pub-item">
       <span class="pub-number">[C11]</span>
       <div class="pub-content">
-        <div class="pub-title">Quantum multi-level estimation of functionals of discrete distributions.</div>
-        <div class="pub-authors"><span style="color:green">Ⓐ</span> <a href="https://scholar.google.com/citations?user=Ncvskw4AAAAJ&hl=en">Kean Chen</a>, <a href="https://scholar.google.com/citations?user=b8i9J_QAAAAJ&hl=en">Minbo Gao</a>, <a href="https://scholar.google.com/citations?user=ny0ZgiQAAAAJ&hl=en">Tongyang Li</a>, Qisheng Wang, and <a href="https://scholar.google.com/citations?user=1Ey4DPoAAAAJ&hl=en">Xinzhao Wang</a>.</div>
-        <div class="pub-arxiv">In <em>Proceedings of the 53rd International Colloquium on Automata, Languages, and Programming</em> (ICALP 2026), to appear, 2026. <a href="https://arxiv.org/abs/2605.03685">arXiv:2605.03685</a>.</div>
+        <div class="pub-title">Strict hierarchy for quantum channel certification to unitary.</div>
+        <div class="pub-authors"><span style="color:green">Ⓐ</span> <a href="https://scholar.google.com/citations?user=Ncvskw4AAAAJ&hl=en">Kean Chen</a>, Qisheng Wang, and <a href="https://scholar.google.com/citations?user=_CHPF-kAAAAJ&hl=en">Zhicheng Zhang</a>.</div>
+        <div class="pub-arxiv">In <em>Proceedings of the 53rd International Colloquium on Automata, Languages, and Programming</em> (ICALP 2026), 59:1-59:12, 2026. <a href="https://doi.org/10.4230/LIPIcs.ICALP.2026.59">doi:10.4230/LIPIcs.ICALP.2026.59</a>. <a href="https://arxiv.org/abs/2604.26900">arXiv:2604.26900</a>.</div>
       </div>
     </div>
   </li>
@@ -403,13 +407,9 @@ author_profile: true
     <div class="pub-item">
       <span class="pub-number">[C10]</span>
       <div class="pub-content">
-        <div class="pub-title">Sample-optimal quantum estimators for pure-state trace distance and fidelity via samplizer.</div>
-        <div class="pub-authors"><span style="color:blue">Ⓒ</span> Qisheng Wang and <a href="https://scholar.google.com/citations?user=_CHPF-kAAAAJ&hl=en">Zhicheng Zhang</a>.</div>
-        <div class="pub-arxiv">In <em>Proceedings of the 53rd International Colloquium on Automata, Languages, and Programming</em> (ICALP 2026), to appear, 2026. <a href="https://arxiv.org/abs/2410.21201">arXiv:2410.21201</a>.</div>
-        <div class="pub-extra">Presented as a <a href="https://www.wilczekqc.net/show/379">talk</a> invited by <a href="https://scholar.google.com/citations?user=9Xn3T6EAAAAJ&hl=en">Ke Liu</a> at the Shanghai Institute for Advanced Studies, University of Science and Technology of China in 2026.</div>
-        <div class="pub-extra">Presented as (part of) an <a href="https://youtu.be/LVsHzXb0hts?t=5268">invited talk (40min)</a> at <a href="https://shenzhen-nagoya.github.io/2025/">Shenzhen–Nagoya Workshop on Quantum Science 2025</a>.</div>
-        <div class="pub-extra">Presented as (part of) a contributed talk at <a href="http://aqis-conf.org/2025/program/">the 25th Asian Quantum Information Science Conference (AQIS 2025)</a>.</div>
-        <div class="pub-extra">Presented as (part of) a research talk at the NQCC-QSL December Deep Dive Agenda in the University of Edinburgh in 2024.</div>
+        <div class="pub-title">Quantum multi-level estimation of functionals of discrete distributions.</div>
+        <div class="pub-authors"><span style="color:green">Ⓐ</span> <a href="https://scholar.google.com/citations?user=Ncvskw4AAAAJ&hl=en">Kean Chen</a>, <a href="https://scholar.google.com/citations?user=b8i9J_QAAAAJ&hl=en">Minbo Gao</a>, <a href="https://scholar.google.com/citations?user=ny0ZgiQAAAAJ&hl=en">Tongyang Li</a>, Qisheng Wang, and <a href="https://scholar.google.com/citations?user=1Ey4DPoAAAAJ&hl=en">Xinzhao Wang</a>.</div>
+        <div class="pub-arxiv">In <em>Proceedings of the 53rd International Colloquium on Automata, Languages, and Programming</em> (ICALP 2026), 58:1-58:23, 2026. <a href="https://doi.org/10.4230/LIPIcs.ICALP.2026.58">doi:10.4230/LIPIcs.ICALP.2026.58</a>. <a href="https://arxiv.org/abs/2605.03685">arXiv:2605.03685</a>.</div>
       </div>
     </div>
   </li>
