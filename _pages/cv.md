@@ -48,6 +48,7 @@ redirect_from:
 * [*IEEE Transactions on Pattern Analysis and Machine Intelligence*](https://www.computer.org/csdl/journal/tp)
 * [*Nature Physics*](https://www.nature.com/nphys/)
 * [*Physics Letters A*](https://www.sciencedirect.com/journal/physics-letters-a)
+* [*PRX Quantum*](https://journals.aps.org/prxquantum/)
 * [*Quantum*](https://quantum-journal.org/)
 * [*Quantum Information and Computation*](https://www.rintonpress.com/journals/qic/)
 * [*Quantum Information Processing*](https://link.springer.com/journal/11128)
