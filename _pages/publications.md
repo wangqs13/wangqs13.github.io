@@ -562,6 +562,16 @@ author_profile: true
 <ul class="pub-list">
   <li>
     <div class="pub-item">
+      <span class="pub-number">[P14]</span>
+      <div class="pub-content">
+        <div class="pub-title">Towards minimax estimation of high-order functionals by quantum arguments.</div>
+        <div class="pub-authors">Qisheng Wang.</div>
+        <div class="pub-arxiv"><a href="https://arxiv.org/abs/2607.07540">arXiv:2607.07540</a>, 2026.</div>
+      </div>
+    </div>
+  </li>
+  <li>
+    <div class="pub-item">
       <span class="pub-number">[P13]</span>
       <div class="pub-content">
         <div class="pub-title">Estimating fidelity to a reference quantum state.</div>
