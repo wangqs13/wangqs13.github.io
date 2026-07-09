@@ -31,7 +31,8 @@ I received my B.Sc. degree and Ph.D. degree from the [Department of Computer Sci
 
 ### 2026
 
-* 2026/06/26: Our paper "On Estimating Operator Norm Distance, with Optimal Trace Distance Estimation When One State is Pure" was accepted by the 34th Annual European Symposium on Algorithms (ESA 2026).
+* 2026/07/09: Our paper "[Towards Minimax Estimation of High-Order Functionals by Quantum Arguments](https://arxiv.org/abs/2607.07540)" was on arXiv. 
+* 2026/06/26: Our paper "[On Estimating Operator Norm Distance, with Optimal Trace Distance Estimation When One State is Pure](https://arxiv.org/abs/2607.03905)" was accepted by the 34th Annual European Symposium on Algorithms (ESA 2026).
 * 2026/06/25: Our paper "[Estimating Fidelity to a Reference Quantum State](https://arxiv.org/abs/2606.26034)" was on arXiv. 
 * 2026/06/24: Our paper "[On Estimating Schatten Norm and Power Distances between Quantum States](https://arxiv.org/abs/2505.00457v3)" was on arXiv.
 * 2026/06/19: Our paper "[A Slightly Improved Upper Bound for Quantum Statistical Zero-Knowledge](https://arxiv.org/abs/2512.11597)" was accepted by the 51st International Symposium on Mathematical Foundations of Computer Science (MFCS 2026).
