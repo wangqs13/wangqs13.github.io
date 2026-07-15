@@ -565,6 +565,16 @@ author_profile: true
 <ul class="pub-list">
   <li>
     <div class="pub-item">
+      <span class="pub-number">[P15]</span>
+      <div class="pub-content">
+        <div class="pub-title">Unitary synthesis with near-optimal T-count for near-Clifford unitaries.</div>
+        <div class="pub-authors"><span style="color:green">Ⓐ</span> <a href="https://scholar.google.com/citations?user=4D3FWQIAAAAJ&hl=en">Wang Fang</a>, <a href="https://scholar.google.com/citations?user=K_LnaH0AAAAJ&hl=en">Chris Heunen</a>, and Qisheng Wang.</div>
+        <div class="pub-arxiv"><a href="https://arxiv.org/abs/2607.12907">arXiv:2607.12907</a>, 2026.</div>
+      </div>
+    </div>
+  </li>
+  <li>
+    <div class="pub-item">
       <span class="pub-number">[P14]</span>
       <div class="pub-content">
         <div class="pub-title">Towards minimax estimation of high-order functionals by quantum arguments.</div>
