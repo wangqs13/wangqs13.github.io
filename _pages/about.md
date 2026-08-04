@@ -24,13 +24,13 @@ I received my B.Sc. degree and Ph.D. degree from the [Department of Computer Sci
 ## Pinned News
 
 * 2026/05/14: I served as a Chair of "[Quantum Software: Theory and Development](https://www.ccpqt.org/seminars-2026/)" at the IEEE 5th International Conference on Computing, Communication, Perception and Quantum Technology (CCPQT 2026). Submissions are welcome!
-* 2026/03/25: I served as a PC Member of [QCE 2026](https://qce.quantum.ieee.org/2026/). Submissions are welcome!
 * 2025/11/26: I served as a Guest Editor of the Special Issue "[The Role of Entropy in Quantum Computation and Algorithms](https://www.mdpi.com/journal/entropy/special_issues/1WX3RY33N0)" of *Entropy*. Submissions are welcome!
 
 ## History
 
 ### 2026
 
+* 2026/08/04: Our paper "[Nearly tight lower bounds for estimating quantum functionals: Uhlmann fidelity, trace distance, and von Neumann entropy](https://arxiv.org/abs/2608.02600)" was on arXiv.
 * 2026/07/15: Our paper "[Unitary Synthesis with Near-Optimal T-Count for Near-Clifford Unitaries](https://arxiv.org/abs/2607.12907)" was on arXiv.
 * 2026/07/09: Our paper "[Towards Minimax Estimation of High-Order Functionals by Quantum Arguments](https://arxiv.org/abs/2607.07540)" was on arXiv. 
 * 2026/06/26: Our paper "[On Estimating Operator Norm Distance, with Optimal Trace Distance Estimation When One State is Pure](https://arxiv.org/abs/2607.03905)" was accepted by the 34th Annual European Symposium on Algorithms (ESA 2026).
@@ -44,6 +44,7 @@ I received my B.Sc. degree and Ph.D. degree from the [Department of Computer Sci
 * 2026/04/20: Our three papers "[Sample-Optimal Quantum Estimators for Pure-State Trace Distance and Fidelity via Samplizer](https://arxiv.org/abs/2410.21201)", "[Quantum Multi-Level Estimation of Functionals of Discrete Distributions](https://arxiv.org/abs/2605.03685)", and "[Strict Hierarchy for Quantum Channel Certification to Unitary](https://arxiv.org/abs/2604.26900)" were accepted by the 53rd International Colloquium on Automata, Languages, and Programming (ICALP 2026).
 * 2026/04/05: Our paper "[On Estimating the Trace of Quantum State Powers](https://arxiv.org/abs/2410.13559)" was accepted by *IEEE Transactions on Information Theory*.
 * 2026/04/03: Our paper "[Trace Estimation of Quantum State Powers: Sample Complexity and Computational Hardness](https://arxiv.org/abs/2505.09563v2)" was on arXiv.
+* 2026/03/25: I served as a PC Member of [QCE 2026](https://qce.quantum.ieee.org/2026/). Submissions are welcome!
 * 2026/01/03: Our paper "[Quantum Data Structure for Range Minimum Query](https://arxiv.org/abs/2601.13195)" was accepted by *Journal of Computer and System Sciences*.
 
 ### 2025
