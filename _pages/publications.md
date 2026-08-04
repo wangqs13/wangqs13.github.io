@@ -565,6 +565,16 @@ author_profile: true
 <ul class="pub-list">
   <li>
     <div class="pub-item">
+      <span class="pub-number">[P16]</span>
+      <div class="pub-content">
+        <div class="pub-title">Nearly tight lower bounds for estimating quantum functionals: Uhlmann fidelity, trace distance, and von Neumann entropy.</div>
+        <div class="pub-authors">Qisheng Wang.</div>
+        <div class="pub-arxiv"><a href="https://arxiv.org/abs/2608.02600">arXiv:2608.02600</a>, 2026.</div>
+      </div>
+    </div>
+  </li>
+  <li>
+    <div class="pub-item">
       <span class="pub-number">[P15]</span>
       <div class="pub-content">
         <div class="pub-title">Unitary synthesis with near-optimal T-count for near-Clifford unitaries.</div>
