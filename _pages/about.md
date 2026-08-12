@@ -30,7 +30,8 @@ I received my B.Sc. degree and Ph.D. degree from the [Department of Computer Sci
 
 ### 2026
 
-* 2026/08/04: Our paper "[Nearly tight lower bounds for estimating quantum functionals: Uhlmann fidelity, trace distance, and von Neumann entropy](https://arxiv.org/abs/2608.02600)" was on arXiv.
+* 2026/08/12: Our papers "[Optimal Fidelity Estimation When One State Is Pure via Algorithmic Uhlmann Transform](https://arxiv.org/abs/2608.10674)" and "[Breaking the Quadratic Barrier for von Neumann Entropy Estimation](https://arxiv.org/abs/2608.11151)" were on arXiv. 
+* 2026/08/04: Our paper "[A Lower Bound Framework for Quantum Functional Estimation](https://arxiv.org/abs/2608.02600)" was on arXiv.
 * 2026/07/15: Our paper "[Unitary Synthesis with Near-Optimal T-Count for Near-Clifford Unitaries](https://arxiv.org/abs/2607.12907)" was on arXiv.
 * 2026/07/09: Our paper "[Towards Minimax Estimation of High-Order Functionals by Quantum Arguments](https://arxiv.org/abs/2607.07540)" was on arXiv. 
 * 2026/06/26: Our paper "[On Estimating Operator Norm Distance, with Optimal Trace Distance Estimation When One State is Pure](https://arxiv.org/abs/2607.03905)" was accepted by the 34th Annual European Symposium on Algorithms (ESA 2026).
