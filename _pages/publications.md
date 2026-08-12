@@ -565,9 +565,29 @@ author_profile: true
 <ul class="pub-list">
   <li>
     <div class="pub-item">
+      <span class="pub-number">[P18]</span>
+      <div class="pub-content">
+        <div class="pub-title">Breaking the quadratic barrier for von Neumann entropy estimation.</div>
+        <div class="pub-authors"><span style="color:green">Ⓐ</span> <a href="https://scholar.google.com/citations?user=b8i9J_QAAAAJ&hl=en">Minbo Gao</a> and Qisheng Wang.</div>
+        <div class="pub-arxiv"><a href="https://arxiv.org/abs/2608.11151">arXiv:2608.11151</a>, 2026.</div>
+      </div>
+    </div>
+  </li>
+  <li>
+    <div class="pub-item">
+      <span class="pub-number">[P17]</span>
+      <div class="pub-content">
+        <div class="pub-title">Optimal fidelity estimation when one state is pure via algorithmic Uhlmann transform.</div>
+        <div class="pub-authors"><span style="color:green">Ⓐ</span> <a href="https://scholar.google.com/citations?user=KJrYKwMAAAAJ&hl=en">Yupan Liu</a> and Qisheng Wang.</div>
+        <div class="pub-arxiv"><a href="https://arxiv.org/abs/2608.10674">arXiv:2608.10674</a>, 2026.</div>
+      </div>
+    </div>
+  </li>
+  <li>
+    <div class="pub-item">
       <span class="pub-number">[P16]</span>
       <div class="pub-content">
-        <div class="pub-title">Nearly tight lower bounds for estimating quantum functionals: Uhlmann fidelity, trace distance, and von Neumann entropy.</div>
+        <div class="pub-title">A lower bound framework for quantum functional estimation.</div>
         <div class="pub-authors">Qisheng Wang.</div>
         <div class="pub-arxiv"><a href="https://arxiv.org/abs/2608.02600">arXiv:2608.02600</a>, 2026.</div>
       </div>
