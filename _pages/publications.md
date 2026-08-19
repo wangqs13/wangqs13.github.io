@@ -565,6 +565,16 @@ author_profile: true
 <ul class="pub-list">
   <li>
     <div class="pub-item">
+      <span class="pub-number">[P19]</span>
+      <div class="pub-content">
+        <div class="pub-title">Nearly sample-optimal estimators for quantum Rényi and Tsallis entropies.</div>
+        <div class="pub-authors"><span style="color:green">Ⓐ</span> <a href="https://scholar.google.com/citations?user=Ncvskw4AAAAJ&hl=en">Kean Chen</a> and Qisheng Wang.</div>
+        <div class="pub-arxiv"><a href="https://arxiv.org/abs/2608.18070">arXiv:2608.18070</a>, 2026.</div>
+      </div>
+    </div>
+  </li>
+  <li>
+    <div class="pub-item">
       <span class="pub-number">[P18]</span>
       <div class="pub-content">
         <div class="pub-title">Breaking the quadratic barrier for von Neumann entropy estimation.</div>
