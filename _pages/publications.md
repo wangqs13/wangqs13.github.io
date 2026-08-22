@@ -46,17 +46,6 @@ author_profile: true
     <div class="pub-item">
       <span class="pub-number">[J24]</span>
       <div class="pub-content">
-        <div class="pub-title">Simultaneous estimation of nonlinear functionals of a quantum state.</div>
-        <div class="pub-authors"><span style="color:green">Ⓐ</span> <a href="https://scholar.google.com/citations?user=Ncvskw4AAAAJ&hl=en">Kean Chen</a>, Qisheng Wang, <a href="https://scholar.google.com/citations?user=cF8RgGwAAAAJ&hl=en">Zhan Yu</a>, and <a href="https://scholar.google.com/citations?user=_CHPF-kAAAAJ&hl=en">Zhicheng Zhang</a>.</div>
-        <div class="pub-journal"><em>IEEE Transactions on Information Theory</em>, to appear, 2026. <a href="https://doi.org/10.1109/TIT.2026.3699531">doi:10.1109/TIT.2026.3699531</a>. <a href="https://arxiv.org/abs/2505.16715">arXiv:2505.16715</a>.</div>
-        <div class="pub-extra">Presented (by <a href="https://scholar.google.com/citations?user=cF8RgGwAAAAJ&hl=en">Zhan Yu</a>) as a contributed talk at the <a href="http://aqis-conf.org/2025/program/">the 25th Asian Quantum Information Science Conference (AQIS 2025)</a>.</div>
-      </div>
-    </div>
-  </li>
-  <li>
-    <div class="pub-item">
-      <span class="pub-number">[J23]</span>
-      <div class="pub-content">
         <div class="pub-title">Local test for unitarily invariant properties of bipartite quantum states.</div>
         <div class="pub-authors"><span style="color:green">Ⓐ</span> <a href="https://scholar.google.com/citations?user=Ncvskw4AAAAJ&hl=en">Kean Chen</a>, Qisheng Wang, and <a href="https://scholar.google.com/citations?user=_CHPF-kAAAAJ&hl=en">Zhicheng Zhang</a>.</div>
         <div class="pub-journal"><em>IEEE Transactions on Information Theory</em>, to appear, 2026. <a href="https://doi.org/10.1109/TIT.2026.3697790">doi:10.1109/TIT.2026.3697790</a>. <a href="https://arxiv.org/abs/2404.04599">arXiv:2404.04599</a>.</div>
@@ -67,7 +56,7 @@ author_profile: true
   </li>
   <li>
     <div class="pub-item">
-      <span class="pub-number">[J22]</span>
+      <span class="pub-number">[J23]</span>
       <div class="pub-content">
         <div class="pub-title">Space-bounded quantum state testing via space-efficient quantum singular value transformation.</div>
         <div class="pub-authors"><span style="color:green">Ⓐ</span> <a href="https://scholar.google.com/citations?user=tpCh6MIAAAAJ&hl=en">François Le Gall</a>, <a href="https://scholar.google.com/citations?user=KJrYKwMAAAAJ&hl=en">Yupan Liu</a>, and Qisheng Wang.</div>
@@ -76,6 +65,17 @@ author_profile: true
         <div class="pub-extra">Presented (with Yupan Liu) as a <a href="https://qip2024.tw/site/mypage.aspx?pid=263&lang=en&sid=1522">poster</a> at <a href="https://qip2024.tw/site/page.aspx?pid=901&sid=1522&lang=en">the 27th Conference on Quantum Information Processing (QIP 2024)</a>.</div>
         <div class="pub-extra">Presented (by Yupan Liu) as an <a href="https://www.youtube.com/watch?v=H-AHKy00-co">invited online talk</a> at the Research Center for Quantum Software (QuSoft) in 2023.</div>
         <div class="pub-extra">Appears as <a href="https://ptreview.sublinear.info/2023/09/news-for-august-2023/">Monthly News for August 2023</a> in <a href="https://ptreview.sublinear.info/">Property Testing Review</a>.</div>
+      </div>
+    </div>
+  </li>
+  <li>
+    <div class="pub-item">
+      <span class="pub-number">[J22]</span>
+      <div class="pub-content">
+        <div class="pub-title">Simultaneous estimation of nonlinear functionals of a quantum state.</div>
+        <div class="pub-authors"><span style="color:green">Ⓐ</span> <a href="https://scholar.google.com/citations?user=Ncvskw4AAAAJ&hl=en">Kean Chen</a>, Qisheng Wang, <a href="https://scholar.google.com/citations?user=cF8RgGwAAAAJ&hl=en">Zhan Yu</a>, and <a href="https://scholar.google.com/citations?user=_CHPF-kAAAAJ&hl=en">Zhicheng Zhang</a>.</div>
+        <div class="pub-journal"><em>IEEE Transactions on Information Theory</em>, 72(9): 6740-6751, 2026. <a href="https://doi.org/10.1109/TIT.2026.3699531">doi:10.1109/TIT.2026.3699531</a>. <a href="https://arxiv.org/abs/2505.16715">arXiv:2505.16715</a>.</div>
+        <div class="pub-extra">Presented (by <a href="https://scholar.google.com/citations?user=cF8RgGwAAAAJ&hl=en">Zhan Yu</a>) as a contributed talk at the <a href="http://aqis-conf.org/2025/program/">the 25th Asian Quantum Information Science Conference (AQIS 2025)</a>.</div>
       </div>
     </div>
   </li>
@@ -375,7 +375,7 @@ author_profile: true
       <div class="pub-content">
         <div class="pub-title">A slightly improved upper bound for quantum statistical zero-knowledge.</div>
         <div class="pub-authors"><span style="color:green">Ⓐ</span> <a href="https://scholar.google.com/citations?user=tpCh6MIAAAAJ&hl=en">François Le Gall</a>, <a href="https://scholar.google.com/citations?user=KJrYKwMAAAAJ&hl=en">Yupan Liu</a>, and Qisheng Wang.</div>
-        <div class="pub-arxiv">In <em>Proceedings of the 51st International Symposium on Mathematical Foundations of Computer Science</em> (MFCS 2026), to appear, 2026. <a href="https://arxiv.org/abs/2512.11597">arXiv:2512.11597</a>.</div>
+        <div class="pub-arxiv">In <em>Proceedings of the 51st International Symposium on Mathematical Foundations of Computer Science</em> (MFCS 2026), pp. 12:1-12:20, 2026. <a href="https://doi.org/10.4230/LIPIcs.MFCS.2026.12">doi:10.4230/LIPIcs.MFCS.2026.12</a>. <a href="https://arxiv.org/abs/2512.11597">arXiv:2512.11597</a>.</div>
       </div>
     </div>
   </li>
