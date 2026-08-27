@@ -365,7 +365,7 @@ author_profile: true
       <div class="pub-content">
         <div class="pub-title">On estimating operator norm distance, with optimal trace distance estimation when one state is pure.</div>
         <div class="pub-authors"><span style="color:green">Ⓐ</span> <a href="https://scholar.google.com/citations?user=KJrYKwMAAAAJ&hl=en">Yupan Liu</a>, Qisheng Wang, and <a href="https://scholar.google.com/citations?user=cF8RgGwAAAAJ&hl=en">Zhan Yu</a>.</div>
-        <div class="pub-arxiv">In <em>Proceedings of the 34th Annual European Symposium on Algorithms</em> (ESA 2026), to appear, 2026. <a href="https://arxiv.org/abs/2607.03905">arXiv:2607.03905</a>.</div>
+        <div class="pub-arxiv">In <em>Proceedings of the 34th Annual European Symposium on Algorithms</em> (ESA 2026), pp. 71:1-71:18, 2026. <a href="https://doi.org/10.4230/LIPIcs.ESA.2026.71">doi:10.4230/LIPIcs.ESA.2026.71</a>. <a href="https://arxiv.org/abs/2607.03905">arXiv:2607.03905</a>.</div>
       </div>
     </div>
   </li>
@@ -563,6 +563,16 @@ author_profile: true
 </style>
 
 <ul class="pub-list">
+  <li>
+    <div class="pub-item">
+      <span class="pub-number">[P20]</span>
+      <div class="pub-content">
+        <div class="pub-title">Towards optimal quantum estimators for state frame potential.</div>
+        <div class="pub-authors"><span style="color:green">Ⓐ</span> <a href="https://scholar.google.com/citations?user=U1TGq_gAAAAJ&hl=en">Jinge Bao</a>, <a href="https://scholar.google.com/citations?user=4D3FWQIAAAAJ&hl=en">Wang Fang</a>, <a href="https://scholar.google.com/citations?user=CpkyDoMAAAAJ&hl=en">Yoshifumi Nakata</a>, and Qisheng Wang.</div>
+        <div class="pub-arxiv"><a href="https://arxiv.org/abs/2608.24711">arXiv:2608.24711</a>, 2026.</div>
+      </div>
+    </div>
+  </li>
   <li>
     <div class="pub-item">
       <span class="pub-number">[P19]</span>
