@@ -5,6 +5,7 @@ permalink: /presentations/
 author_profile: true
 ---
 
+* 2026/08/27: **Sample-Optimal Quantum Estimators for Pure-State Trace Distance and Fidelity via Samplizer** (based on [arXiv:2410.21201](https://arxiv.org/abs/2410.21201)) as an invited talk at Quantum Theory and Operator Theory conference (QTOT 2026).
 * 2026/07/09: **Strict Hierarchy for Quantum Channel Certification to Unitary** (based on [arXiv:2604.26900](https://arxiv.org/abs/2604.26900)) as a contributed talk at [the 53rd International Colloquium on Automata, Languages, and Programming (ICALP 2026)](https://icalppodcspaa2026.cs.rhul.ac.uk/icalp/).
 * 2026/07/08: **Sample-Optimal Quantum Estimators for Pure-State Trace Distance and Fidelity via Samplizer** (based on [arXiv:2410.21201](https://arxiv.org/abs/2410.21201)) as a contributed talk at [the 53rd International Colloquium on Automata, Languages, and Programming (ICALP 2026)](https://icalppodcspaa2026.cs.rhul.ac.uk/icalp/).
 * 2026/06/05: **Sample-Optimal Quantum Estimators for Pure-State Trace Distance and Fidelity via Samplizer** (based on [arXiv:2410.21201](https://arxiv.org/abs/2410.21201)) as a [talk](https://www.wilczekqc.net/show/379) invited by [Ke Liu](https://scholar.google.com/citations?user=9Xn3T6EAAAAJ&hl=en) at the Wilczek Quantum Center, Shanghai Institute for Advanced Studies, University of Science and Technology of China, Shanghai, China. 
