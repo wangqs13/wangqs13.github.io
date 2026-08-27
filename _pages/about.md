@@ -30,6 +30,7 @@ I received my B.Sc. degree and Ph.D. degree from the [Department of Computer Sci
 
 ### 2026
 
+* 2026/08/26: Our paper "[Towards Optimal Quantum Estimators for State Frame Potential](https://arxiv.org/abs/2608.24711)" was on arXiv.
 * 2026/08/19: Our paper "[Nearly Sample-Optimal Estimators for Quantum Rényi and Tsallis Entropies](https://arxiv.org/abs/2608.18070)" was on arXiv.
 * 2026/08/12: Our papers "[Optimal Fidelity Estimation When One State Is Pure via Algorithmic Uhlmann Transform](https://arxiv.org/abs/2608.10674)" and "[Breaking the Quadratic Barrier for von Neumann Entropy Estimation](https://arxiv.org/abs/2608.11151)" were on arXiv. 
 * 2026/08/04: Our paper "[A Lower Bound Framework for Quantum Functional Estimation](https://arxiv.org/abs/2608.02600)" was on arXiv.
