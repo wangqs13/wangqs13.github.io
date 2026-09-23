@@ -565,6 +565,16 @@ author_profile: true
 <ul class="pub-list">
   <li>
     <div class="pub-item">
+      <span class="pub-number">[P21]</span>
+      <div class="pub-content">
+        <div class="pub-title">Quantum speedups for log-concave sampling from local structure.</div>
+        <div class="pub-authors"><span style="color:blue">Ⓒ</span> <a href="https://scholar.google.com/citations?user=2XPlNkwAAAAJ&hl=en">Chenghua Liu</a>, Qisheng Wang, and <a href="https://scholar.google.com/citations?user=2uXdu7AAAAAJ&hl=en">Zhengfeng Ji</a>.</div>
+        <div class="pub-arxiv"><a href="https://arxiv.org/abs/2609.26596">arXiv:2609.26596</a>, 2026.</div>
+      </div>
+    </div>
+  </li>
+  <li>
+    <div class="pub-item">
       <span class="pub-number">[P20]</span>
       <div class="pub-content">
         <div class="pub-title">Towards optimal quantum estimators for state frame potential.</div>
@@ -607,7 +617,7 @@ author_profile: true
     <div class="pub-item">
       <span class="pub-number">[P16]</span>
       <div class="pub-content">
-        <div class="pub-title">A lower bound framework for quantum functional estimation.</div>
+        <div class="pub-title">A unified complexity framework for quantum property testing.</div>
         <div class="pub-authors">Qisheng Wang.</div>
         <div class="pub-arxiv"><a href="https://arxiv.org/abs/2608.02600">arXiv:2608.02600</a>, 2026.</div>
       </div>
