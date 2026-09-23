@@ -21,15 +21,11 @@ I received my B.Sc. degree and Ph.D. degree from the [Department of Computer Sci
   * Quantum Computing
   * Algorithms and Complexity
 
-## Pinned News
-
-* 2026/05/14: I served as a Chair of "[Quantum Software: Theory and Development](https://www.ccpqt.org/seminars-2026/)" at the IEEE 5th International Conference on Computing, Communication, Perception and Quantum Technology (CCPQT 2026). Submissions are welcome!
-* 2025/11/26: I served as a Guest Editor of the Special Issue "[The Role of Entropy in Quantum Computation and Algorithms](https://www.mdpi.com/journal/entropy/special_issues/1WX3RY33N0)" of *Entropy*. Submissions are welcome!
-
 ## History
 
 ### 2026
 
+* 2026/09/18: Our paper "[Quantum Speedups for Log-Concave Sampling from Local Structure](https://arxiv.org/abs/2609.26596)" was on arXiv.
 * 2026/08/26: Our paper "[Towards Optimal Quantum Estimators for State Frame Potential](https://arxiv.org/abs/2608.24711)" was on arXiv.
 * 2026/08/19: Our paper "[Nearly Sample-Optimal Estimators for Quantum Rényi and Tsallis Entropies](https://arxiv.org/abs/2608.18070)" was on arXiv.
 * 2026/08/12: Our papers "[Optimal Fidelity Estimation When One State Is Pure via Algorithmic Uhlmann Transform](https://arxiv.org/abs/2608.10674)" and "[Breaking the Quadratic Barrier for von Neumann Entropy Estimation](https://arxiv.org/abs/2608.11151)" were on arXiv. 
@@ -44,6 +40,7 @@ I received my B.Sc. degree and Ph.D. degree from the [Department of Computer Sci
 * 2026/06/04: Our paper "[Quantum Time Lower Bounds by Permutation Invariance](https://arxiv.org/abs/2606.05099)" was on arXiv. 
 * 2026/05/26: Our paper "[Simultaneous Estimation of Nonlinear Functionals of a Quantum State](https://arxiv.org/abs/2505.16715)" was accepted by *IEEE Transactions on Information Theory*.
 * 2026/05/24: Our paper "[Local Test for Unitarily Invariant Properties of Bipartite Quantum States](https://arxiv.org/abs/2404.04599)" was accepted by *IEEE Transactions on Information Theory*.
+* 2026/05/14: I served as a Chair of "[Quantum Software: Theory and Development](https://www.ccpqt.org/seminars-2026/)" at the IEEE 5th International Conference on Computing, Communication, Perception and Quantum Technology (CCPQT 2026). Submissions are welcome!
 * 2026/04/20: Our three papers "[Sample-Optimal Quantum Estimators for Pure-State Trace Distance and Fidelity via Samplizer](https://arxiv.org/abs/2410.21201)", "[Quantum Multi-Level Estimation of Functionals of Discrete Distributions](https://arxiv.org/abs/2605.03685)", and "[Strict Hierarchy for Quantum Channel Certification to Unitary](https://arxiv.org/abs/2604.26900)" were accepted by the 53rd International Colloquium on Automata, Languages, and Programming (ICALP 2026).
 * 2026/04/05: Our paper "[On Estimating the Trace of Quantum State Powers](https://arxiv.org/abs/2410.13559)" was accepted by *IEEE Transactions on Information Theory*.
 * 2026/04/03: Our paper "[Trace Estimation of Quantum State Powers: Sample Complexity and Computational Hardness](https://arxiv.org/abs/2505.09563v2)" was on arXiv.
@@ -55,6 +52,7 @@ I received my B.Sc. degree and Ph.D. degree from the [Department of Computer Sci
 * 2025/12/26: I served as a PC Member of [TQC 2026](https://tqc-conference.org/2026/).
 * 2025/12/15: Our paper "[A Slightly Improved Upper Bound for Quantum Statistical Zero-Knowledge](https://arxiv.org/abs/2512.11597)" was on arXiv.
 * 2025/12/02: Our paper "[A List of Complexity Bounds for Property Testing by Quantum Sample-to-Query Lifting](https://arxiv.org/abs/2512.01971)" was on arXiv.
+* 2025/11/26: I served as a Guest Editor of the Special Issue "[The Role of Entropy in Quantum Computation and Algorithms](https://www.mdpi.com/journal/entropy/special_issues/1WX3RY33N0)" of *Entropy*. Submissions are welcome!
 * 2025/11/08: Our paper "[Quantum Algorithms for Uhlmann Transformation](https://arxiv.org/abs/2509.03619)" was accepted by the 29th Quantum Information Processing Conference (QIP 2026) as a regular talk.
 * 2025/10/17: Our paper "[Space-Bounded Quantum State Testing via Space-Efficient Quantum Singular Value Transformation](https://arxiv.org/abs/2308.05079)" was accepted by *Computational Complexity*.
 * 2025/10/03: Our paper "[Quantum Hamiltonian Certification](https://arxiv.org/abs/2505.13217)" was accepted by the 2026 Annual ACM-SIAM Symposium on Discrete Algorithms (SODA 2026).
