@@ -47,6 +47,7 @@ redirect_from:
 * [*IEEE Transactions on Information Theory*](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=18)
 * [*IEEE Transactions on Pattern Analysis and Machine Intelligence*](https://www.computer.org/csdl/journal/tp)
 * [*Nature Physics*](https://www.nature.com/nphys/)
+* [*npj Quantum Information*](https://www.nature.com/npjqi/)
 * [*Physical Review Letters*](https://prl.aps.org/)
 * [*Physics Letters A*](https://www.sciencedirect.com/journal/physics-letters-a)
 * [*PRX Quantum*](https://journals.aps.org/prxquantum/)
@@ -59,6 +60,7 @@ redirect_from:
 
 ## Conference Review
 
+* [*ITCS 2027 (18th Innovations in Theoretical Computer Science)*](https://itcs-conf.org/), Berkeley, California, United States, 2026.
 * [*SODA 2027 (ACM-SIAM Symposium on Discrete Algorithms 2027)*](https://www.siam.org/conferences-events/siam-conferences/soda27/), Philadelphia, Pennsylvania, United States, 2026.
 * [*QTML 2026 (10th International Conference on Quantum Techniques in Machine Learning)*](https://qtml2026.nithecs.ac.za/) Stellenbosch, South Africa, 2026.
 * [*ESA 2026 (34th European Symposium on Algorithms)*](https://algo-conference.org/2026/esa/), L’Aquila, Italy, 2026.
