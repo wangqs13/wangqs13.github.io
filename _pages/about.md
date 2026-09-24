@@ -25,6 +25,7 @@ I received my B.Sc. degree and Ph.D. degree from the [Department of Computer Sci
 
 ### 2026
 
+* 2026/09/25: Our paper "Quantum Composite Hypothesis Testing with Small Error" was accepted by the 40th Conference on Neural Information Processing Systems (NeurIPS 2026).
 * 2026/09/18: Our paper "[Quantum Speedups for Log-Concave Sampling from Local Structure](https://arxiv.org/abs/2609.26596)" was on arXiv.
 * 2026/08/26: Our paper "[Towards Optimal Quantum Estimators for State Frame Potential](https://arxiv.org/abs/2608.24711)" was on arXiv.
 * 2026/08/19: Our paper "[Nearly Sample-Optimal Estimators for Quantum Rényi and Tsallis Entropies](https://arxiv.org/abs/2608.18070)" was on arXiv.
