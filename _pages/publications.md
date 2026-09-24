@@ -361,6 +361,16 @@ author_profile: true
 <ul class="pub-list">
   <li>
     <div class="pub-item">
+      <span class="pub-number">[C15]</span>
+      <div class="pub-content">
+        <div class="pub-title">Quantum composite hypothesis testing with small error.</div>
+        <div class="pub-authors"><span style="color:green">Ⓐ</span> <a href="https://scholar.google.com/citations?user=2XPlNkwAAAAJ&hl=en">Chenghua Liu</a> and Qisheng Wang.</div>
+        <div class="pub-arxiv">In <em>Advances in Neural Information Processing Systems 39</em> (NeurIPS 2026), to appear.</div>
+      </div>
+    </div>
+  </li>
+  <li>
+    <div class="pub-item">
       <span class="pub-number">[C14]</span>
       <div class="pub-content">
         <div class="pub-title">On estimating operator norm distance, with optimal trace distance estimation when one state is pure.</div>
