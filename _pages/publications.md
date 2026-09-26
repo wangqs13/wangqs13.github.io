@@ -46,18 +46,6 @@ author_profile: true
     <div class="pub-item">
       <span class="pub-number">[J24]</span>
       <div class="pub-content">
-        <div class="pub-title">Local test for unitarily invariant properties of bipartite quantum states.</div>
-        <div class="pub-authors"><span style="color:green">Ⓐ</span> <a href="https://scholar.google.com/citations?user=Ncvskw4AAAAJ&hl=en">Kean Chen</a>, Qisheng Wang, and <a href="https://scholar.google.com/citations?user=_CHPF-kAAAAJ&hl=en">Zhicheng Zhang</a>.</div>
-        <div class="pub-journal"><em>IEEE Transactions on Information Theory</em>, to appear, 2026. <a href="https://doi.org/10.1109/TIT.2026.3697790">doi:10.1109/TIT.2026.3697790</a>. <a href="https://arxiv.org/abs/2404.04599">arXiv:2404.04599</a>.</div>
-        <div class="pub-extra">Presented as (part of) an <a href="https://youtu.be/LVsHzXb0hts?t=5268">invited talk (40min)</a> at <a href="https://shenzhen-nagoya.github.io/2025/">Shenzhen–Nagoya Workshop on Quantum Science 2025</a>.</div>
-        <div class="pub-extra">Appears as <a href="https://ptreview.sublinear.info/2024/05/news-for-april-2024/">Monthly News for April 2024</a> in <a href="https://ptreview.sublinear.info/">Property Testing Review</a>.</div>
-      </div>
-    </div>
-  </li>
-  <li>
-    <div class="pub-item">
-      <span class="pub-number">[J23]</span>
-      <div class="pub-content">
         <div class="pub-title">Space-bounded quantum state testing via space-efficient quantum singular value transformation.</div>
         <div class="pub-authors"><span style="color:green">Ⓐ</span> <a href="https://scholar.google.com/citations?user=tpCh6MIAAAAJ&hl=en">François Le Gall</a>, <a href="https://scholar.google.com/citations?user=KJrYKwMAAAAJ&hl=en">Yupan Liu</a>, and Qisheng Wang.</div>
         <div class="pub-journal"><em>Computational Complexity</em>, to appear, 2026. <a href="https://arxiv.org/abs/2308.05079">arXiv:2308.05079</a>.</div>
@@ -65,6 +53,18 @@ author_profile: true
         <div class="pub-extra">Presented (with Yupan Liu) as a <a href="https://qip2024.tw/site/mypage.aspx?pid=263&lang=en&sid=1522">poster</a> at <a href="https://qip2024.tw/site/page.aspx?pid=901&sid=1522&lang=en">the 27th Conference on Quantum Information Processing (QIP 2024)</a>.</div>
         <div class="pub-extra">Presented (by Yupan Liu) as an <a href="https://www.youtube.com/watch?v=H-AHKy00-co">invited online talk</a> at the Research Center for Quantum Software (QuSoft) in 2023.</div>
         <div class="pub-extra">Appears as <a href="https://ptreview.sublinear.info/2023/09/news-for-august-2023/">Monthly News for August 2023</a> in <a href="https://ptreview.sublinear.info/">Property Testing Review</a>.</div>
+      </div>
+    </div>
+  </li>
+  <li>
+    <div class="pub-item">
+      <span class="pub-number">[J23]</span>
+      <div class="pub-content">
+        <div class="pub-title">Local test for unitarily invariant properties of bipartite quantum states.</div>
+        <div class="pub-authors"><span style="color:green">Ⓐ</span> <a href="https://scholar.google.com/citations?user=Ncvskw4AAAAJ&hl=en">Kean Chen</a>, Qisheng Wang, and <a href="https://scholar.google.com/citations?user=_CHPF-kAAAAJ&hl=en">Zhicheng Zhang</a>.</div>
+        <div class="pub-journal"><em>IEEE Transactions on Information Theory</em>, 72(10): 7578-7603, 2026. <a href="https://doi.org/10.1109/TIT.2026.3697790">doi:10.1109/TIT.2026.3697790</a>. <a href="https://arxiv.org/abs/2404.04599">arXiv:2404.04599</a>.</div>
+        <div class="pub-extra">Presented as (part of) an <a href="https://youtu.be/LVsHzXb0hts?t=5268">invited talk (40min)</a> at <a href="https://shenzhen-nagoya.github.io/2025/">Shenzhen–Nagoya Workshop on Quantum Science 2025</a>.</div>
+        <div class="pub-extra">Appears as <a href="https://ptreview.sublinear.info/2024/05/news-for-april-2024/">Monthly News for April 2024</a> in <a href="https://ptreview.sublinear.info/">Property Testing Review</a>.</div>
       </div>
     </div>
   </li>
