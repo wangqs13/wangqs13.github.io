@@ -579,7 +579,7 @@ author_profile: true
       <div class="pub-content">
         <div class="pub-title">Quantum speedups for log-concave sampling from local structure.</div>
         <div class="pub-authors"><span style="color:blue">Ⓒ</span> <a href="https://scholar.google.com/citations?user=2XPlNkwAAAAJ&hl=en">Chenghua Liu</a>, Qisheng Wang, and <a href="https://scholar.google.com/citations?user=2uXdu7AAAAAJ&hl=en">Zhengfeng Ji</a>.</div>
-        <div class="pub-arxiv"><a href="https://arxiv.org/abs/2609.26596">arXiv:2609.26596</a>, 2026.</div>
+        <div class="pub-arxiv"><a href="https://arxiv.org/abs/2609.20253">arXiv:2609.20253</a>, 2026.</div>
       </div>
     </div>
   </li>
