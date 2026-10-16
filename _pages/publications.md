@@ -575,6 +575,26 @@ author_profile: true
 <ul class="pub-list">
   <li>
     <div class="pub-item">
+      <span class="pub-number">[P23]</span>
+      <div class="pub-content">
+        <div class="pub-title">Optimal support size testing.</div>
+        <div class="pub-authors">Qisheng Wang.</div>
+        <div class="pub-arxiv"><a href="https://arxiv.org/abs/2610.18723">arXiv:2610.18723</a>, 2026.</div>
+      </div>
+    </div>
+  </li>
+  <li>
+    <div class="pub-item">
+      <span class="pub-number">[P22]</span>
+      <div class="pub-content">
+        <div class="pub-title">Settling the sample complexity of Rényi entropy estimation.</div>
+        <div class="pub-authors">Qisheng Wang.</div>
+        <div class="pub-arxiv"><a href="https://arxiv.org/abs/2610.10389">arXiv:2610.10389</a>, 2026.</div>
+      </div>
+    </div>
+  </li>
+  <li>
+    <div class="pub-item">
       <span class="pub-number">[P21]</span>
       <div class="pub-content">
         <div class="pub-title">Quantum speedups for log-concave sampling from local structure.</div>
