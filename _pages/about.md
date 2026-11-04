@@ -25,6 +25,8 @@ I received my B.Sc. degree and Ph.D. degree from the [Department of Computer Sci
 
 ### 2026
 
+* 2026/11/3: Our paper "[On Estimating Quantum Divergences with $p$-Power Means](https://arxiv.org/abs/2611.01163)" was on arXiv.
+* 2026/10/30: Our paper "[Optimal Diamond Distance Estimation for Unitary Channels](https://arxiv.org/abs/2610.40623)" was on arXiv.
 * 2026/10/14: Our paper "[Optimal Support Size Testing](https://arxiv.org/abs/2610.18723)" was on arXiv.
 * 2026/10/8: Our paper "[Settling the Sample Complexity of Rényi Entropy Estimation](https://arxiv.org/abs/2610.10389)" was on arXiv.
 * 2026/09/25: Our paper "Quantum Composite Hypothesis Testing with Small Error" was accepted by the 40th Conference on Neural Information Processing Systems (NeurIPS 2026).
