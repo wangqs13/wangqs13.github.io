@@ -575,6 +575,26 @@ author_profile: true
 <ul class="pub-list">
   <li>
     <div class="pub-item">
+      <span class="pub-number">[P25]</span>
+      <div class="pub-content">
+        <div class="pub-title">On estimating quantum divergences with $p$-power means.</div>
+        <div class="pub-authors"><span style="color:green">Ⓐ</span> <a href="https://scholar.google.com/citations?user=U1TGq_gAAAAJ&hl=en">Jinge Bao</a>, <a href="https://scholar.google.com/citations?user=b8i9J_QAAAAJ&hl=en">Minbo Gao</a>, and Qisheng Wang.</div>
+        <div class="pub-arxiv"><a href="https://arxiv.org/abs/2611.01163">arXiv:2611.01163</a>, 2026.</div>
+      </div>
+    </div>
+  </li>
+  <li>
+    <div class="pub-item">
+      <span class="pub-number">[P24]</span>
+      <div class="pub-content">
+        <div class="pub-title">Optimal diamond distance estimation for unitary channels.</div>
+        <div class="pub-authors"><span style="color:green">Ⓐ</span> <a href="https://scholar.google.com/citations?user=U1TGq_gAAAAJ&hl=en">Jinge Bao</a> and Qisheng Wang.</div>
+        <div class="pub-arxiv"><a href="https://arxiv.org/abs/2610.40623">arXiv:2610.40623</a>, 2026.</div>
+      </div>
+    </div>
+  </li>
+  <li>
+    <div class="pub-item">
       <span class="pub-number">[P23]</span>
       <div class="pub-content">
         <div class="pub-title">Optimal support size testing.</div>
