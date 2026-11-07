@@ -60,6 +60,7 @@ redirect_from:
 
 ## Conference Review
 
+* [*QIP 2027 (30th Annual Quantum Information Processing Conference)*](https://qipconference.org/2027/), Singapore, 2027.
 * [*ITCS 2027 (18th Innovations in Theoretical Computer Science)*](https://itcs-conf.org/), Berkeley, California, United States, 2026.
 * [*SODA 2027 (ACM-SIAM Symposium on Discrete Algorithms 2027)*](https://www.siam.org/conferences-events/siam-conferences/soda27/), Philadelphia, Pennsylvania, United States, 2026.
 * [*QTML 2026 (10th International Conference on Quantum Techniques in Machine Learning)*](https://qtml2026.nithecs.ac.za/) Stellenbosch, South Africa, 2026.
