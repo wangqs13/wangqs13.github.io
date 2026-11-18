@@ -25,6 +25,7 @@ I received my B.Sc. degree and Ph.D. degree from the [Department of Computer Sci
 
 ### 2026
 
+* 2026/11/18: Our paper "[Optimal Min-Entropy Estimation with High Probability](https://arxiv.org/abs/2611.23116)" was on arXiv.
 * 2026/11/3: Our paper "[On Estimating Quantum Divergences with $p$-Power Means](https://arxiv.org/abs/2611.01163)" was on arXiv.
 * 2026/10/30: Our paper "[Optimal Diamond Distance Estimation for Unitary Channels](https://arxiv.org/abs/2610.40623)" was on arXiv.
 * 2026/10/14: Our paper "[Optimal Support Size Testing](https://arxiv.org/abs/2610.18723)" was on arXiv.
