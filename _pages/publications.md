@@ -575,7 +575,7 @@ author_profile: true
 <ul class="pub-list">
   <li>
     <div class="pub-item">
-      <span class="pub-number">[P23]</span>
+      <span class="pub-number">[P26]</span>
       <div class="pub-content">
         <div class="pub-title">Optimal min-entropy estimation with high probability.</div>
         <div class="pub-authors">Qisheng Wang.</div>
