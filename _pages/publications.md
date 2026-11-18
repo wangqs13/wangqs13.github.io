@@ -575,6 +575,16 @@ author_profile: true
 <ul class="pub-list">
   <li>
     <div class="pub-item">
+      <span class="pub-number">[P23]</span>
+      <div class="pub-content">
+        <div class="pub-title">Optimal min-entropy estimation with high probability.</div>
+        <div class="pub-authors">Qisheng Wang.</div>
+        <div class="pub-arxiv"><a href="https://arxiv.org/abs/2611.23116">arXiv:2611.23116</a>, 2026.</div>
+      </div>
+    </div>
+  </li>
+  <li>
+    <div class="pub-item">
       <span class="pub-number">[P25]</span>
       <div class="pub-content">
         <div class="pub-title">On estimating quantum divergences with $p$-power means.</div>
